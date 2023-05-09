@@ -481,8 +481,6 @@ free.bravedns.com
 free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
-httpdns-push.heytapmobile.com
-hydra.plan9-ns1.com
 frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
@@ -631,6 +629,7 @@ rdns.faelix.net
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
+resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.r0cket.net
 resolver.rferee.dev
