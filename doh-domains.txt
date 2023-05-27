@@ -41,7 +41,6 @@ adguard.wirimij.nl
 adguard.zachitect.com
 adguard1.jsanagustin.net
 adguard1.leadmon.net
-adguardh.ga
 adguardhome.atakorah.com
 adl.adfilter.net
 ag.ff0x.ca
@@ -533,6 +532,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
+kswro.web.id
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw

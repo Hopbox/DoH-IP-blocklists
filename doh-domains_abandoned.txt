@@ -1,6 +1,7 @@
 1.xhr0no.my
 adblock.mydns.network
 adguard-dns.turker.info
+adguardh.ga
 anydoh.sidnlabs.nl
 asia.dnscepat.id
 berd.moe
@@ -48,7 +49,6 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 jcdns.fun
-kswro.web.id
 nebula.tru.io
 please.dontsteal.my.id
 resolver-eu.lelux.fi
