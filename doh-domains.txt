@@ -91,7 +91,6 @@ cubedns.com
 cvt-ic-us-adns-001.clearviewtechnology.net
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -258,6 +257,7 @@ dns.npe.bz
 dns.nullgate.net
 dns.ofdoom.net
 dns.opnsource.com.au
+dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.porteii.com
