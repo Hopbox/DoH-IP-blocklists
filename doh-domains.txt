@@ -86,11 +86,11 @@ cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
 commons.host
-cube.neubsi.at
 cubedns.com
 cvt-ic-us-adns-001.clearviewtechnology.net
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -246,7 +246,6 @@ dns.muxinghe.cn
 dns.mzrme.cn
 dns.nas-server.ru
 dns.ndo.dev
-dns.neubsi.at
 dns.nextdns.io
 dns.nhtsky.com
 dns.njal.la
