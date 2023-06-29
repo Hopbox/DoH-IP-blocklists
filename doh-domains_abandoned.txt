@@ -66,7 +66,6 @@ jcdns.fun
 please.dontsteal.my.id
 project-evoex.de
 resolver-eu.lelux.fi
-resolver4.dns.openinternet.io
 sg.yepdns.com
 t2c.240130034.xyz
 tundranet.hec.to
