@@ -87,7 +87,6 @@ commons.host
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -502,7 +501,6 @@ jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
-jp.68360612.xyz
 jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
