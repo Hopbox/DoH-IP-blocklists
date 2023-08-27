@@ -48,6 +48,7 @@ dns.pumplex.com
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
+dns64.cloudflare-dns.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
