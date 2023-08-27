@@ -33,6 +33,7 @@ dns.d365.in
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
+dns.dyn1.de
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
@@ -48,7 +49,6 @@ dns.pumplex.com
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
-dns64.cloudflare-dns.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
@@ -70,7 +70,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
