@@ -53,6 +53,7 @@ dns.pumplex.com
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
+dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
