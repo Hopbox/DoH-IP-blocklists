@@ -1,5 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
+aattwwss.duckdns.org
 adblock.mydns.network
 adguard-dns.turker.info
 adguard.ambiya.net
@@ -84,10 +85,9 @@ i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
-krtekvpn.duckdns.org
+jurre-home.duckdns.org
 kswro.web.id
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 sg.yepdns.com
 surt.ml
