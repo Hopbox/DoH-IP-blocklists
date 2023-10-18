@@ -38,6 +38,7 @@ dns.doh.my.id
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
+dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.iamninja.ru
@@ -90,6 +91,7 @@ sg.yepdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tlz.asia
 tundranet.hec.to
 us-chi-doh.sb
 www.unasw.eu
