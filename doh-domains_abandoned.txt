@@ -38,7 +38,6 @@ dns.doh.my.id
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
-dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.iamninja.ru
