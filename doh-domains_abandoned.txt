@@ -84,7 +84,6 @@ iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
 kswro.web.id
-osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
