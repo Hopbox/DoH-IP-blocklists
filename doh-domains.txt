@@ -2,7 +2,6 @@
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
 a.passcloud.xyz
-aattwwss.duckdns.org
 abel.waringer-atg.de
 ad1.heronet.nl
 adblock.borjalopez.eu

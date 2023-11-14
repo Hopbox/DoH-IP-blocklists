@@ -1,5 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
+aattwwss.duckdns.org
 adblock.mydns.network
 adguard-dns.turker.info
 adguard.ambiya.net
@@ -75,6 +76,7 @@ fi.doh.dns.snopyta.org
 freedom.mydns.network
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
