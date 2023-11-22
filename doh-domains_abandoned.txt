@@ -36,7 +36,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
@@ -74,6 +73,7 @@ draco.plan9-ns2.com
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
