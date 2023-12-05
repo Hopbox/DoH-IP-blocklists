@@ -77,10 +77,8 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
-krtekvpn.duckdns.org
 kswro.web.id
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
 sg.adhole.org
@@ -90,7 +88,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
