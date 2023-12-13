@@ -332,7 +332,6 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.360.cn
 doh.42l.fr
-doh.abmb.win
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.asia.dnswarden.com
@@ -422,7 +421,6 @@ doh.xfinity.com
 doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
-doh2.abmb.win
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
@@ -582,6 +580,7 @@ pope.cnblw.me
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 pro.shecan.ir
+project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
