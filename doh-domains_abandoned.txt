@@ -26,6 +26,7 @@ dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.7sec.com.br
 dns.aaflalo.me
+dns.aaytorr.com
 dns.arapurayil.com
 dns.bayas.dev
 dns.cfiec.net
@@ -88,6 +89,7 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
 surt.ml
