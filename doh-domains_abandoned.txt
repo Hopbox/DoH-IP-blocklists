@@ -77,6 +77,7 @@ draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
+fra1.eyecay.xyz
 groupy.ga
 himedns.com
 hydra.plan9-ns1.com
