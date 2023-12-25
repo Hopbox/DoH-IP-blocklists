@@ -66,6 +66,7 @@ doh.doh.my.id
 doh.gslb2.xfinity.com
 doh.kutu.my.id
 doh.linuxsec.org
+doh.nala.ru
 doh.netweaver.uk
 doh.pi-dns.com
 doh.post-factum.tk
@@ -77,7 +78,6 @@ draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
-fra1.eyecay.xyz
 groupy.ga
 himedns.com
 hydra.plan9-ns1.com
