@@ -87,6 +87,7 @@ jcdns.fun
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
+osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 sg.adhole.org
@@ -95,6 +96,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
