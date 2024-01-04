@@ -49,7 +49,6 @@ dns.maolaohei.xyz
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.pumplex.com
 dns.surfshark.com
@@ -89,6 +88,7 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
 surt.ml
