@@ -83,6 +83,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -460,6 +461,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
@@ -483,6 +485,7 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -493,6 +496,7 @@ kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -606,6 +610,7 @@ sdns.233py.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
@@ -630,6 +635,8 @@ tk31z.com
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
+tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
