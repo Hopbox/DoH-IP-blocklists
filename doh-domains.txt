@@ -639,7 +639,6 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
-typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk.teradns.org
