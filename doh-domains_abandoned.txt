@@ -26,7 +26,6 @@ dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.aaflalo.me
 dns.aaytorr.com
-dns.alloxr.info
 dns.arapurayil.com
 dns.bayas.dev
 dns.cfiec.net
@@ -47,7 +46,6 @@ dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
 dns.maolaohei.xyz
-dns.mikeliu.org
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
@@ -60,7 +58,6 @@ dns.wugui.zone
 dns.ypbind.de
 dnses.alekberg.net
 dnsvps.familiamv.ml
-doh-primary-pool.goodbyegambling.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -92,7 +89,6 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
-resolver.noaddns.com
 sg.adhole.org
 sg.yepdns.com
 surt.ml
