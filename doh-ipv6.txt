@@ -44,7 +44,7 @@
 2001:4b98:dc2:41:216:3eff:fece:3e55     # dns.hostux.net
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::99                   # doh.xfinity.com
+2001:558:feed:443::99                   # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -62,6 +62,7 @@
 2001:67c:21ec::53                       # dnscache.e-utp.net
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
+2001:67c:27e4::35                       # privacydns.go6lab.si
 2001:67c:28a4::                         # anycast.censurfridns.dk
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
@@ -73,7 +74,7 @@
 2001:8d8:1801:1d0::1                    # dns.clanless.ovh
 2001:8d8:1801:86e7::1                   # ns1.opennameserver.org
 2001:8d8:820:3a00::b:c47                # secure-dns.dns-ga.de
-2001:9e8:4003:8f51:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:a4d7:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:a18:1::29                          # kaitain.restena.lu
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -83,7 +84,7 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:2410:ac61:6e00:9cdc:dcff:fea3:f601 # dns.kosan.moe
@@ -123,9 +124,9 @@
 2600:1f28:60:800:c35c:1667:a6a7:7933    # dns.api.staging.globuscs.info
 2600:1f28:60:800:ce99:ec1e:8666:ab49    # dns.api.preview.globus.org
 2600:1f28:60:801:5f8b:f0de:dd56:1bd9    # dns.api.integration.globuscs.info
+2600:1f28:60:801:6042:696c:bede:316b    # dns.api.staging.globuscs.info
 2600:1f28:60:801:88b4:4796:41f8:395e    # dns.api.test.globuscs.info
 2600:1f28:60:801:ae34:5b2c:3b85:2a48    # dns.api.sandbox.globuscs.info
-2600:1f28:60:801:bd14:d91e:725f:ef4f    # dns.api.staging.globuscs.info
 2600:1f28:60:801:bee4:5596:fbaa:183b    # dns.api.preview.globus.org
 2600:1f28:60:802:5005:a075:49f9:28ae    # dns.api.staging.globuscs.info
 2600:1f28:60:802:5f8a:136f:70b7:b749    # dns.api.sandbox.globuscs.info
@@ -146,7 +147,6 @@
 2603:c021:c001:31fa:780:b000:0:415      # ibuki.cgnat.net
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
-2603:c024:4507:6821:456c:317b:2f25:11bc # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd  # dns.0ooo.icu
 2603:c024:8001:2700:e6f4:73a7:b352:919e # ag.ssrahul96.xyz
 2603:c024:9:35af:19c7:3532:ac18:f4b9    # dns.moonssif.com
@@ -167,11 +167,12 @@
 2606:4700:10::6816:4a9b                 # adblock.mydns.network
 2606:4700:10::6816:4b9b                 # adblock.mydns.network
 2606:4700:10::ac43:1e99                 # adblock.mydns.network
+2606:4700:130:436c:6f75:6466:6c61:7265  # gztech.me
 2606:4700:20::681a:14e                  # adguard.dessoi.cloud
-2606:4700:20::681a:289                  # blitz-setup.ahadns.com
-2606:4700:20::681a:389                  # blitz-setup.ahadns.com
+2606:4700:20::681a:289                  # blitz.ahadns.com
+2606:4700:20::681a:389                  # blitz.ahadns.com
 2606:4700:20::681a:4e                   # adguard.dessoi.cloud
-2606:4700:20::ac43:4595                 # blitz.ahadns.com
+2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
 2606:4700:20::ac43:4863                 # adguard.dessoi.cloud
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2c68               # dns.unerror.network
@@ -193,11 +194,10 @@
 2606:4700:3032::6815:4f6c               # armorrush.eu.org
 2606:4700:3032::ac43:8a8c               # adguard-ironhide.ultima-thule.ru
 2606:4700:3032::ac43:8cab               # doh.disconnect.app
-2606:4700:3032::ac43:c394               # basic.bravedns.com
+2606:4700:3032::ac43:c394               # bravedns.com
 2606:4700:3032::ac43:d2c8               # jp.68360612.xyz
 2606:4700:3033::6815:101f               # lindung.pp.ua
 2606:4700:3033::6815:25ae               # jp.68360612.xyz
-2606:4700:3033::ac43:9522               # gztech.me
 2606:4700:3033::ac43:b021               # doh.dns.sb
 2606:4700:3033::ac43:c6b9               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
@@ -215,7 +215,6 @@
 2606:4700:3037::6815:2023               # dns.paesa.es
 2606:4700:3037::6815:2e79               # adguard-ironhide.ultima-thule.ru
 2606:4700:3037::6815:334c               # guard.sntrk.ru
-2606:4700:3037::6815:3790               # gztech.me
 2606:4700:3037::ac43:8912               # dns.silen.org
 2606:4700:3037::ac43:8b89               # puredns.org
 2606:4700:3037::ac43:9118               # armorrush.eu.org
@@ -901,7 +900,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1191,7 +1190,7 @@
 2a0c:8902::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
-2a0c:b9c0:f:451d::1                     # dnsnl.alekberg.net
+2a0c:b9c0:f:451d::1                     # dnsnl-noads.alekberg.net
 2a0c:e300::1337                         # dns.aquilenet.fr
 2a0d:1a43:c010:135::                    # us1.dns.lavate.ch
 2a0d:4d00:81::1                         # doh.dnslify.com
