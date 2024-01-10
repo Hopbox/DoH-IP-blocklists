@@ -46,6 +46,7 @@ dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
 dns.maolaohei.xyz
+dns.mipauns.com
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
