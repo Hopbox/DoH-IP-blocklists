@@ -44,7 +44,7 @@
 2001:4b98:dc2:41:216:3eff:fece:3e55     # dns.hostux.net
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::99                   # doh2.gslb2.xfinity.com
+2001:558:feed:443::99                   # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -84,8 +84,8 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:2410:ac61:6e00:9cdc:dcff:fea3:f601 # dns.kosan.moe
@@ -129,10 +129,10 @@
 2600:1f28:60:801:bee4:5596:fbaa:183b    # dns.api.preview.globus.org
 2600:1f28:60:801:e23a:db1b:dd80:ec67    # dns.api.test.globuscs.info
 2600:1f28:60:801:f2c2:66c6:b3bc:6f75    # dns.api.sandbox.globuscs.info
+2600:1f28:60:802:3f98:125a:7a38:68be    # dns.api.preview.globus.org
 2600:1f28:60:802:7516:10c4:5686:4caf    # dns.api.test.globuscs.info
 2600:1f28:60:802:7dd5:2079:2e10:2b0e    # dns.api.integration.globuscs.info
 2600:1f28:60:802:9b0b:a4c6:4e6d:4478    # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:af1a:3d9b:78c3:4488    # dns.api.preview.globus.org
 2600:1f28:60:802:bd60:cec:92c:b125      # dns.api.staging.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686          # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
@@ -239,8 +239,8 @@
 2606:4700::6812:3                       # tor.cloudflare-dns.com
 2606:4700::6812:a5db                    # resolver.unstoppable.io
 2606:4700::6812:a6db                    # resolver.unstoppable.io
-2606:4700:e2::ac40:8627                 # basic.rethinkdns.com
-2606:4700:e2::ac40:8727                 # basic.rethinkdns.com
+2606:4700:e6::ac40:c21d                 # basic.rethinkdns.com
+2606:4700:e6::ac40:c31d                 # basic.rethinkdns.com
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
 2607:5300:61:95f:7283:11d9:f86:e689     # dns1.dnscrypt.ca
@@ -983,6 +983,7 @@
 2a01:9e01::54                           # rdns.faelix.net
 2a01:9e01::55                           # rdns.faelix.net
 2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d   # cloud.tezoi.com
+2a01:e0a:b08:b6d0:96de:80ff:feb7:a7a2   # rayneau.fr
 2a02:168:6604:25::65                    # doh.datacore.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
@@ -1180,7 +1181,7 @@
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
+2a09:6382:4000:3:45:155:171:163         # doh.lacontrevoie.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a09:cd42:f:425b::1                     # dnsse-noads.alekberg.net
@@ -1205,8 +1206,8 @@
 2a0f:5707:ba00::53                      # dnscache.e-utp.net
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
-2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad1:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
