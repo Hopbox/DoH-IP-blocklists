@@ -97,7 +97,6 @@ kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 sg.adhole.org
 sg.yepdns.com
