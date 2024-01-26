@@ -69,6 +69,7 @@ doh.es.ahadns.net
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.jeroenhd.nl
 doh.kutu.my.id
 doh.linuxsec.org
 doh.nala.ru
@@ -99,6 +100,7 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
 surt.ml
