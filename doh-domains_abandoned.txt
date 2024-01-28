@@ -95,6 +95,8 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
+jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
