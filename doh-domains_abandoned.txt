@@ -1,6 +1,5 @@
 1.xhr0no.my
 a-bld.sys-adm.in
-aattwwss.duckdns.org
 adguard-dns.turker.info
 adguard.ambiya.net
 adguard.bitteeinbyte.de
@@ -18,9 +17,9 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
@@ -42,7 +41,6 @@ dns.dutchwhite.nl
 dns.edgy.network
 dns.emeraldonion.org
 dns.frank-ruan.com
-dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.invisv.com
@@ -98,11 +96,9 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
-jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
-osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
