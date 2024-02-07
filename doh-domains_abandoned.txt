@@ -1,6 +1,7 @@
 1.xhr0no.my
 a-bld.sys-adm.in
 adguard-dns.turker.info
+adguard-server.cf
 adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
@@ -114,4 +115,5 @@ us-chi-doh.sb
 us-east.adhole.org
 www.unasw.eu
 xorbiadns.com
+ychen.cf
 ychen.ga

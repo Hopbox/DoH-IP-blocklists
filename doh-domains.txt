@@ -13,7 +13,6 @@ adg.jnorton.us
 adguard-dns.rouga.ch
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
-adguard-server.cf
 adguard.aa4.co.uk
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -659,7 +658,6 @@ wyx.cloud
 xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
-ychen.cf
 your-dns.run
 yovbak.com
 zero.dns0.eu
