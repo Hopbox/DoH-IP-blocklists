@@ -196,7 +196,6 @@ dns.indust.me
 dns.infosec.xyz
 dns.ipv6dns.com
 dns.islandnet.com
-dns.itdept.pro
 dns.joaofidelix.com.br
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
