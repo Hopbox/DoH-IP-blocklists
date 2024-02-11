@@ -58,6 +58,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.surfshark.com
+dns.vinokurov.tk
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
