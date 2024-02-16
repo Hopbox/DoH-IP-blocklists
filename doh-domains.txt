@@ -164,7 +164,6 @@ dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
-dns.ellichua.com
 dns.emiliyan.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
@@ -232,6 +231,7 @@ dns.novg.net
 dns.npe.bz
 dns.nullgate.net
 dns.ofdoom.net
+dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.porteii.com
