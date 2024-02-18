@@ -73,7 +73,7 @@
 2001:8d8:1801:1d0::1                    # dns.clanless.ovh
 2001:8d8:1801:86e7::1                   # ns1.opennameserver.org
 2001:8d8:820:3a00::b:c47                # secure-dns.dns-ga.de
-2001:9e8:4003:e759:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:fbaa:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:a18:1::29                          # kaitain.restena.lu
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -83,8 +83,8 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:1d80:44::a                     # dns.syaifullah.com
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
@@ -238,7 +238,7 @@
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
 2607:5300:61:95f:7283:11d9:f86:e689     # dns1.ipv6.dnscrypt.ca
-2607:5300:61:95f:7283:11d9:f86:e690     # dns2.dnscrypt.ca
+2607:5300:61:95f:7283:11d9:f86:e690     # dns2.ipv6.dnscrypt.ca
 2620:10a:80bb::10                       # private.canadianshield.cira.ca
 2620:10a:80bb::20                       # protected.canadianshield.cira.ca
 2620:10a:80bb::30                       # family.canadianshield.cira.ca
@@ -899,7 +899,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -981,7 +981,7 @@
 2a02:168:6604:25::65                    # doh.datacore.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.applied-privacy.net
+2a02:1b8:10:234::2                      # doh.appliedprivacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
 2a02:26f7:144:1:ace0:ac44::             # mask.icloud.com
@@ -1175,16 +1175,16 @@
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
+2a09:6382:4000:3:45:155:171:163         # doh.lacontrevoie.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
-2a09:cd42:f:425b::1                     # dnsse-noads.alekberg.net
+2a09:cd42:f:425b::1                     # dnsse.alekberg.net
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
 2a0a:be80::cbe:4445                     # cubedns.com
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8901::53                           # dns.dnshome.de
+2a0c:8902::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:b9c0:f:451d::1                     # dnsnl.alekberg.net
