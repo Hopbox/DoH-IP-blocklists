@@ -13,6 +13,7 @@ adg.jnorton.us
 adguard-dns.rouga.ch
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
+adguard.aa4.co.uk
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
