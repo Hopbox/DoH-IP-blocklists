@@ -119,5 +119,4 @@ us-chi-doh.sb
 us-east.adhole.org
 www.unasw.eu
 xorbiadns.com
-ychen.cf
 ychen.ga
