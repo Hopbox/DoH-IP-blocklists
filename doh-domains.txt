@@ -280,9 +280,7 @@ dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
 dns1.conne.net
-dns1.dnscrypt.ca
 dns1.in-berlin.de
-dns1.ipv6.dnscrypt.ca
 dns1.irumatech.com
 dns1.nextdns.io
 dns1.ryan-palmer.com
@@ -291,8 +289,6 @@ dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
 dns2.cbio.top
-dns2.dnscrypt.ca
-dns2.ipv6.dnscrypt.ca
 dns2.nextdns.io
 dns4me.net
 dns64.cloudflare-dns.com
