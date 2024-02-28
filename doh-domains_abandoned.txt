@@ -2,6 +2,7 @@
 a-bld.sys-adm.in
 adguard-dns.turker.info
 adguard-server.cf
+adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
@@ -102,15 +103,12 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
 sg.adhole.org
