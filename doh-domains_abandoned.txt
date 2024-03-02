@@ -21,6 +21,7 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
@@ -74,6 +75,7 @@ doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
 doh.doh.my.id
+doh.dscloud.me
 doh.es.ahadns.net
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
@@ -100,8 +102,10 @@ himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+ibksturm.synology.me
 iris.woozeno.eu
 jcdns.fun
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -116,6 +120,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org

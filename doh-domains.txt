@@ -80,7 +80,6 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -467,7 +466,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -614,7 +612,6 @@ tk31z.com
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
