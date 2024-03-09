@@ -107,7 +107,6 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
-pates.services.sfr.fr.casepp.sfr.fr
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
