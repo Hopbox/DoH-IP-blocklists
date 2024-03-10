@@ -610,7 +610,6 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
