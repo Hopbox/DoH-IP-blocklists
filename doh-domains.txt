@@ -10,7 +10,6 @@ adblock.doh.mullvad.net
 adblock.mydns.network
 adfree.usableprivacy.net
 adg.jnorton.us
-adguard-dns.rouga.ch
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
