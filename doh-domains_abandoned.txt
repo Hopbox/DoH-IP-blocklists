@@ -52,7 +52,6 @@ dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
-dns.maolaohei.xyz
 dns.mipauns.com
 dns.ndo.dev
 dns.nixnet.xyz
@@ -112,7 +111,6 @@ ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
 please.dontsteal.my.id
 resolver-eu.lelux.fi
-resolver.r0cket.net
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
