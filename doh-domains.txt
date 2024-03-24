@@ -139,7 +139,6 @@ dns.clanless.ovh
 dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
-dns.cmrg.net
 dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
