@@ -110,6 +110,10 @@ lion.yazilimatolye.com
 neatdns.ustclug.org
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
