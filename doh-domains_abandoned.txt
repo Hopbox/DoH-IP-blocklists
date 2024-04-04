@@ -45,6 +45,7 @@ dns.dutchwhite.nl
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
+dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com

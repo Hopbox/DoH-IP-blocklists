@@ -164,7 +164,6 @@ dns.emiliyan.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
 dns.fancyorg.at
-dns.faze.dev
 dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
