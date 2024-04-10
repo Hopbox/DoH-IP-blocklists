@@ -20,7 +20,6 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -112,7 +111,6 @@ i.233py.com.a.bdydns.com
 iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
-jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
@@ -134,7 +132,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
