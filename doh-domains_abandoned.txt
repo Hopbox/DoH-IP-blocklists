@@ -101,6 +101,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -119,6 +120,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
+resolver4.dns.openinternet.io
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
