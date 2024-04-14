@@ -76,6 +76,7 @@ doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
+doh.dnslify.com
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gslb2.xfinity.com
@@ -119,7 +120,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
-resolver.r0cket.net
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
