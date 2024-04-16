@@ -430,6 +430,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 hitian.me
@@ -448,7 +449,6 @@ ihctw.synology.me
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 ipoac.nl
-irre.li
 jabber-germany.de
 jackyes.ovh
 jp-dns1.bancuh.com
@@ -564,7 +564,6 @@ resolver.unstoppable.io
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
-resolver4.dns.openinternet.io
 rethinkdns.com
 ricko.is
 rpz-public-resolver1.rrdns.pch.net
