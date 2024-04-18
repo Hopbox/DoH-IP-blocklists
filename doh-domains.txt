@@ -85,7 +85,6 @@ dart.kpsn.org
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
-dgca.myds.me
 dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-family.adguard.com
