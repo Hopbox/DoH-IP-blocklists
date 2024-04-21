@@ -137,4 +137,3 @@ us-chi-doh.sb
 us-east.adhole.org
 xorbiadns.com
 ychen.ga
-zxcvb.pp.ua
