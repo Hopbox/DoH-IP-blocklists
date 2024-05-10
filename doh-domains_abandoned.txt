@@ -112,7 +112,6 @@ i.passcloud.xyz
 iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
