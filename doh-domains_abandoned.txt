@@ -1,7 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
-aattwwss.duckdns.org
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -114,7 +113,6 @@ i.passcloud.xyz
 iris.woozeno.eu
 jcdns.fun
 jit.ddns.net
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -135,7 +133,6 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
