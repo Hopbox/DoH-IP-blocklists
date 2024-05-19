@@ -1,7 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
 a.passcloud.xyz
-aattwwss.duckdns.org
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
