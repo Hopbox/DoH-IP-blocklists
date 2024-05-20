@@ -67,6 +67,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.stvsk.ml
 dns.surfshark.com
+dns.truong.fi
 dns.wevpn.com
 dns.wugui.zone
 dns.ypbind.de
