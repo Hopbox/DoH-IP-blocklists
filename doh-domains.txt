@@ -11,7 +11,6 @@ adfree.usableprivacy.net
 adg.jnorton.us
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
-adguard.aa4.co.uk
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
@@ -22,6 +21,7 @@ adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
+adguard.jfchenier.ca
 adguard.lege.despagne.net
 adguard.meddy94.de
 adguard.onlyfriends.info
@@ -289,7 +289,6 @@ dns64.dns.google
 dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
-dnsenc.com
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
