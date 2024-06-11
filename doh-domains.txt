@@ -110,7 +110,6 @@ dns.api.rackspacecloud.com
 dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
-dns.apigw.online
 dns.aquilenet.fr
 dns.artikel10.org
 dns.azsopro.net
