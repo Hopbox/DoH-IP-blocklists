@@ -1,6 +1,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
+aattwwss.duckdns.org
 abel.waringer-atg.de
 ad1.heronet.nl
 adblock.borjalopez.eu
@@ -66,6 +67,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -540,6 +542,7 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
@@ -594,6 +597,8 @@ tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
+tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
