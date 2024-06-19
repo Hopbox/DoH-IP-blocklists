@@ -1,7 +1,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
-aattwwss.duckdns.org
 abel.waringer-atg.de
 ad1.heronet.nl
 adblock.borjalopez.eu
@@ -596,6 +595,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
