@@ -23,7 +23,6 @@ berd.moe
 bld.sys-adm.in
 canadianshield.cira.ca
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -110,7 +109,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -138,7 +136,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
-tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
