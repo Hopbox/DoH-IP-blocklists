@@ -17,7 +17,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
@@ -430,6 +429,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
@@ -594,7 +594,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
