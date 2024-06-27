@@ -62,7 +62,6 @@ dns.jucker.engineering
 dns.lightmaster.pw
 dns.lsho.top
 dns.mipauns.com
-dns.nas-server.ru
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
