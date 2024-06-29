@@ -179,7 +179,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.imaicool.com
-dns.indust.me
 dns.infosec.xyz
 dns.ipv6dns.com
 dns.islandnet.com
