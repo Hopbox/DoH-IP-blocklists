@@ -169,7 +169,6 @@ dns.gnb09.id
 dns.google
 dns.google.com
 dns.grqu.de
-dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanmey.de
 dns.hinet.net
@@ -178,7 +177,6 @@ dns.hotta.page
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
-dns.imaicool.com
 dns.indust.me
 dns.infosec.xyz
 dns.ipv6dns.com

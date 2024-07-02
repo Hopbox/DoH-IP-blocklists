@@ -53,9 +53,11 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.frank-ruan.com
+dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.imaicool.com
 dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
