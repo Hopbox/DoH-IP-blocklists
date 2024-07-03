@@ -149,7 +149,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -169,6 +168,7 @@ dns.gnb09.id
 dns.google
 dns.google.com
 dns.grqu.de
+dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanmey.de
 dns.hinet.net

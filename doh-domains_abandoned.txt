@@ -48,12 +48,12 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.frank-ruan.com
-dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -123,6 +123,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
