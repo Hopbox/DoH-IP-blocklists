@@ -75,6 +75,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -133,6 +134,7 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
@@ -176,6 +178,7 @@ dns.hotta.page
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
+dns.imaicool.com
 dns.indust.me
 dns.infosec.xyz
 dns.ipv6dns.com
@@ -445,7 +448,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
