@@ -89,6 +89,7 @@ doh.chi.ahadns.net
 doh.dnslify.com
 doh.doh.my.id
 doh.es.ahadns.net
+doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
