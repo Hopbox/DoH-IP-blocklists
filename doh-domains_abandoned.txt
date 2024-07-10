@@ -49,7 +49,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.ellichua.com
 dns.emeraldonion.org
@@ -117,7 +116,6 @@ externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -126,7 +124,6 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org

@@ -148,6 +148,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -423,6 +424,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
