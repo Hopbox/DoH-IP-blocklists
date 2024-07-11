@@ -84,7 +84,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-family.adguard.com
 dns-nosec.quad9.net
-dns-secondary.cloudnx.cloud
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.52306.org
