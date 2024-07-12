@@ -225,6 +225,7 @@ dns.quad9.net
 dns.rafn.is
 dns.reckoningslug.name
 dns.rin.sh
+dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.scapetical.com
@@ -469,6 +470,7 @@ mask.icloud.com
 masters-of-cloud.de
 meganerd.nl
 mozilla.cloudflare-dns.com
+msr177.com
 muli.stusta.mhn.de
 n0.eu
 n5.lsasss.com

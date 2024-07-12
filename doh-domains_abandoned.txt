@@ -72,7 +72,6 @@ dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
-dns.ronc.ru
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -128,7 +127,6 @@ jcdns.fun
 jit.ddns.net
 kswro.web.id
 lion.yazilimatolye.com
-msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
