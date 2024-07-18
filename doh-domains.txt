@@ -541,7 +541,6 @@ rdns.faelix.net
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
-resolver.noaddns.com
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.unstoppable.io
