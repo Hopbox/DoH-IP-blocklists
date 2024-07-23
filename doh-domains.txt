@@ -197,7 +197,6 @@ dns.meeo.win
 dns.melalandia.tk
 dns.mikeliu.org
 dns.molinero.dev
-dns.moog.sh
 dns.moonssif.com
 dns.moulticast.net
 dns.msxnet.ru
