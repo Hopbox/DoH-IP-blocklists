@@ -151,6 +151,7 @@ dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
+dns.ellichua.com
 dns.emiliyan.com
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
@@ -414,7 +415,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 hitian.me
