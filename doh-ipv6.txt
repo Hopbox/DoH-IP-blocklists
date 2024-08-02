@@ -42,7 +42,7 @@
 2001:4b98:dc2:41:216:3eff:fece:3e55     # dns.hostux.net
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::44                   # doh.xfinity.com
+2001:558:feed:443::44                   # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -82,7 +82,7 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
@@ -103,7 +103,6 @@
 2403:2c80::26                           # hk-hkg.doh.sb
 2403:ac80:1030::2                       # jp-kix.doh.sb
 2403:fbc0:1000::babe                    # jp-nrt.doh.sb
-2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
 2406:da12:6cb:df00:7a77:c387:2bed:613c  # kr-sel.doh.sb
 2406:da1a:1b5:d610:e51:cd54:4c17:1624   # pihole.aws.ketan.dev
@@ -163,8 +162,9 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
+2606:4700:130:436c:6f75:6466:6c61:7265  # dns.silentlybren.com
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com
-2606:4700:20::681a:389                  # blitz-setup.ahadns.com
+2606:4700:20::681a:389                  # blitz.ahadns.com
 2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
@@ -181,8 +181,6 @@
 2606:4700:3031::6815:4134               # doh.disconnect.app
 2606:4700:3031::6815:4c9a               # doh.killtw.im
 2606:4700:3031::6815:595c               # puredns.org
-2606:4700:3031::6815:df1                # o1.lt
-2606:4700:3031::ac43:8582               # o1.lt
 2606:4700:3032::6815:39ea               # doh.ccb-net.it
 2606:4700:3032::6815:4f6c               # armorrush.eu.org
 2606:4700:3032::6815:5b0e               # doh.tiarap.org
@@ -196,11 +194,9 @@
 2606:4700:3033::ac43:a495               # doh.tiarap.org
 2606:4700:3033::ac43:c6b9               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
-2606:4700:3034::6815:3545               # dns.silentlybren.com
 2606:4700:3034::ac43:8ba4               # commons.host
 2606:4700:3034::ac43:a60e               # lindung.pp.ua
 2606:4700:3035::ac43:8c5e               # doh.crypto.sx
-2606:4700:3035::ac43:d1ad               # dns.silentlybren.com
 2606:4700:3036::6815:210e               # commons.host
 2606:4700:3037::6815:2023               # dns.paesa.es
 2606:4700:3037::6815:2e79               # adguard-ironhide.ultima-thule.ru
@@ -903,7 +899,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns9.quad9.net
+2620:fe::9                              # dns.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1180,7 +1176,6 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:7:4::2                           # nl-ams2.doh.sb
-2a09:0:8::15                            # de-dus.doh.sb
 2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
@@ -1190,7 +1185,7 @@
 2a0a:be80::cbe:4445                     # cubedns.com
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8902::53                           # dns.dnshome.de
+2a0c:8901::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:b9c0:f:451d::1                     # dnsnl.alekberg.net
@@ -1205,8 +1200,8 @@
 2a0f:5707:ba00::53                      # dnscache.e-utp.net
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
-2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad1:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
