@@ -99,6 +99,7 @@ doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
 doh.nala.ru
+doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net

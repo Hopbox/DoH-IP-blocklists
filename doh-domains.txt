@@ -350,7 +350,6 @@ doh.luigi.nexific.it
 doh.lv
 doh.micronets.in
 doh.mullvad.net
-doh.neowutran.ovh
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
