@@ -54,7 +54,6 @@ blockerads.multimediaconcept.fr
 bluemood.me
 br.servers.legat.ml
 bravedns.com
-buc-m2.illmods.com
 c.cicitt.ch
 ca-yyc.doh.sb
 ca.doh.cloudveil.org
@@ -64,7 +63,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
-cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -583,7 +581,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
