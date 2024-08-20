@@ -63,6 +63,7 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clientdns3.softcom.net
+cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -192,7 +193,6 @@ dns.linkr.ninja
 dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
-dns.melalandia.tk
 dns.mikeliu.org
 dns.molinero.dev
 dns.moonssif.com
@@ -581,6 +581,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
