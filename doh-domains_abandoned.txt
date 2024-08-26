@@ -49,7 +49,6 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d365.in
-dns.decloudus.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
@@ -145,7 +144,6 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 resolver.noaddns.com
-rumpelsepp.org
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
