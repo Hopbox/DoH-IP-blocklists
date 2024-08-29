@@ -144,6 +144,7 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver.unstoppable.io
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
