@@ -53,7 +53,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.edgy.network
 dns.emeraldonion.org
 dns.faze.dev
@@ -89,6 +88,10 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnsenc.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
@@ -123,6 +126,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
