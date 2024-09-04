@@ -3,7 +3,6 @@
 8888.google
 abel.waringer-atg.de
 ad1.heronet.nl
-adblock.borjalopez.eu
 adblock.doh.mullvad.net
 adblock.mydns.network
 adfree.usableprivacy.net
@@ -353,6 +352,7 @@ doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
+doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -410,6 +410,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 hitian.me
