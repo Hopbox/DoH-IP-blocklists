@@ -88,10 +88,6 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnsenc.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
