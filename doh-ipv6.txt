@@ -77,8 +77,8 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:2fa3:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
@@ -127,6 +127,7 @@
 2600:1f28:60:802:8ade:645:cc39:19a1     # dns.api.test.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686          # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
+2600:3c01:e000:130::8:0                 # dns.elemental.software
 2600:3c01:e000:341::8:0                 # dns.startupstack.tech
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
@@ -139,6 +140,7 @@
 2603:c021:c001:31fa:780:b000:0:415      # ibuki.cgnat.net
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd  # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9    # dns.moonssif.com
 2604:5e40:102:15::87                    # adguard1.leadmon.net
@@ -155,9 +157,10 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:20::681a:289                  # blitz-setup.ahadns.com
-2606:4700:20::681a:389                  # blitz-setup.ahadns.com
-2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
+2606:4700:130:436c:6f75:6466:6c61:7265  # o1.lt
+2606:4700:20::681a:289                  # blitz.ahadns.com
+2606:4700:20::681a:389                  # blitz.ahadns.com
+2606:4700:20::ac43:4595                 # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
 2606:4700:3030::6815:2c68               # dns.unerror.network
@@ -173,8 +176,6 @@
 2606:4700:3031::6815:4134               # doh.disconnect.app
 2606:4700:3031::6815:4c9a               # doh.killtw.im
 2606:4700:3031::6815:595c               # puredns.org
-2606:4700:3031::6815:df1                # o1.lt
-2606:4700:3031::ac43:8582               # o1.lt
 2606:4700:3031::ac43:93f7               # doh-sg.blahdns.com
 2606:4700:3032::6815:1979               # pihole4.hoerli.net
 2606:4700:3032::6815:39ea               # doh.ccb-net.it
@@ -897,7 +898,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -982,7 +983,7 @@
 2a02:168:6604:25::65                    # doh.datacore.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.appliedprivacy.net
+2a02:1b8:10:234::2                      # doh.applied-privacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
 2a02:26f7:144:1:ace0:ac44::             # mask.icloud.com
@@ -1126,6 +1127,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
+2a02:6ea0:c454::1                       # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
@@ -1185,7 +1187,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8902::53                           # dns.dnshome.de
+2a0c:8901::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:b9c0:f:451d::1                     # dnsnl-noads.alekberg.net
