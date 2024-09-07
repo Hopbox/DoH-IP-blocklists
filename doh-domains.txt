@@ -416,6 +416,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
@@ -588,6 +589,7 @@ uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
