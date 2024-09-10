@@ -133,6 +133,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
