@@ -117,7 +117,6 @@ doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id
 doh2.abmb.win
-dohtrial.att.net
 dos.bytetel.net
 draco.plan9-ns2.com
 eropa.dnscepat.id
@@ -127,7 +126,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -163,6 +161,5 @@ us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
 www.elshad-adgh-dns.ru
-wyx.cloud
 xorbiadns.com
 ychen.ga

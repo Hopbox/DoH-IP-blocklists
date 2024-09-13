@@ -414,6 +414,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.233py.com
@@ -606,6 +607,7 @@ www.masters-of-cloud.de
 www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
+wyx.cloud
 xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
