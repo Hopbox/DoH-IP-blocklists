@@ -124,7 +124,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -155,6 +154,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
+tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
