@@ -132,7 +132,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
-jurre-home.duckdns.org
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
@@ -144,6 +144,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
