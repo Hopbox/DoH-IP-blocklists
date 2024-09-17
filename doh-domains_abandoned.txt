@@ -132,6 +132,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
+jurre-home.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
