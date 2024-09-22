@@ -82,6 +82,7 @@ dns.pumplex.com
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
