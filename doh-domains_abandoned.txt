@@ -2,6 +2,7 @@
 a-bld.sys-adm.in
 a.passcloud.xyz
 aattwwss.duckdns.org
+ad1.heronet.nl
 adblock.borjalopez.eu
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -143,6 +144,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io

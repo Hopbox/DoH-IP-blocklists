@@ -2,7 +2,6 @@
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
 abel.waringer-atg.de
-ad1.heronet.nl
 adblock.doh.mullvad.net
 adblock.mydns.network
 adfree.usableprivacy.net
@@ -524,7 +523,6 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
