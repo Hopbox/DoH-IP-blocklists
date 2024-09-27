@@ -546,7 +546,6 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
-sby-doh.limotelu.org
 sdns.233py.com
 secure-dns.dns-ga.de
 secure.avastdns.com
