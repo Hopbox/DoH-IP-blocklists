@@ -70,7 +70,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:820:3a00::b:c47                # secure-dns.dns-ga.de
-2001:9e8:4003:f794:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:ed2:6b4:feff:fe9b:eb1d    # area51.mywire.org
 2001:a18:1::29                          # kaitain.restena.lu
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -80,14 +80,15 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2001:df7:5300:3::31f                    # dns.syaifullah.com
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:18f:f2b0:14ff:feb5:d1f4    # ueni.dyndns.org
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a00::1206:2                  # doh1.b-cdn.net
+2400:52e0:1a01::900:1                   # doh1.b-cdn.net
 2400:6180:0:d0::45a:b001                # sg-sin.doh.sb
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
@@ -109,7 +110,6 @@
 2406:ef80:2:8f28::1                     # sg.teradns.org
 2406:ef80:4:1537::1                     # doh-jp.blahdns.com
 2407:24c0:2::154:3                      # dns.gi.co.id
-2407:3640:2208:9545::1                  # dns.syaifullah.com
 2408:4003:10b8:9ae9:5ef8:7292:9141:6f67 # dns.ikataruto.com
 2600:1f18:6296:8903::beef               # doth.huque.com
 2600:1f28:14:800:e06c:b245:1b6d:c090    # dns.api.globus.org
@@ -162,10 +162,9 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265  # gztech.me
-2606:4700:20::681a:289                  # blitz-setup.ahadns.com
+2606:4700:20::681a:289                  # blitz.ahadns.com
 2606:4700:20::681a:389                  # blitz.ahadns.com
-2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
+2606:4700:20::ac43:4595                 # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
 2606:4700:3030::6815:2c68               # dns.unerror.network
@@ -175,6 +174,7 @@
 2606:4700:3030::ac43:b69a               # dns.paesa.es
 2606:4700:3030::ac43:c17e               # doh.ccb-net.it
 2606:4700:3030::ac43:c52a               # doh.killtw.im
+2606:4700:3030::ac43:d005               # dns.imaicool.com
 2606:4700:3030::ac43:d6f6               # basic.rethinkdns.com
 2606:4700:3031::6815:31ea               # basic.bravedns.com
 2606:4700:3031::6815:3e9e               # dns.silen.org
@@ -196,6 +196,7 @@
 2606:4700:3032::ac43:d2c8               # jp.68360612.xyz
 2606:4700:3033::6815:101f               # lindung.pp.ua
 2606:4700:3033::6815:25ae               # jp.68360612.xyz
+2606:4700:3033::ac43:9522               # gztech.me
 2606:4700:3033::ac43:a495               # doh.tiarap.org
 2606:4700:3033::ac43:c6b9               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
@@ -208,6 +209,8 @@
 2606:4700:3037::6815:2023               # dns.paesa.es
 2606:4700:3037::6815:2e79               # adguard-ironhide.ultima-thule.ru
 2606:4700:3037::6815:334c               # guard.sntrk.ru
+2606:4700:3037::6815:3790               # gztech.me
+2606:4700:3037::6815:457a               # dns.imaicool.com
 2606:4700:3037::6815:47b4               # doh-sg.blahdns.com
 2606:4700:3037::ac43:8637               # pihole4.hoerli.net
 2606:4700:3037::ac43:8912               # dns.silen.org
@@ -909,7 +912,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns9.quad9.net
+2620:fe::9                              # dns.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1191,7 +1194,7 @@
 2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
-2a09:cd42:f:425b::1                     # dnsse.alekberg.net
+2a09:cd42:f:425b::1                     # dnsse-noads.alekberg.net
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
 2a0a:be80::cbe:4445                     # cubedns.com
