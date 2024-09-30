@@ -94,6 +94,9 @@ dns2.ipv6.dnscrypt.ca
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
+doh-ch.blahdns.com
+doh-fi.blahdns.com
+doh-jp.blahdns.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
@@ -135,6 +138,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
+kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
 neatdns.ustclug.org
