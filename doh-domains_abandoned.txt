@@ -120,7 +120,6 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 draco.plan9-ns2.com
@@ -161,7 +160,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
