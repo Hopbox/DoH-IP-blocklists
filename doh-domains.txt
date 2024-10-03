@@ -367,7 +367,6 @@ doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.gslb2.xfinity.com
@@ -424,6 +423,7 @@ ines.zfn.uni-bremen.de
 ipoac.nl
 jabber-germany.de
 jackyes.ovh
+jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
