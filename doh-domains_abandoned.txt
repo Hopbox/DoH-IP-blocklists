@@ -128,7 +128,6 @@ externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -136,7 +135,6 @@ i.passcloud.xyz
 iris.woozeno.eu
 irre.li
 jcdns.fun
-jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
