@@ -15,6 +15,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
 adguard.k0rap.com
+adguard.lege.despagne.net
 adguard.nielsvoorn.nl
 adguardh.ga
 ag.ssrahul96.xyz
@@ -79,6 +80,7 @@ dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
+dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -158,6 +160,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+typaza.com
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
