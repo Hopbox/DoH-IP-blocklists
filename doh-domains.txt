@@ -17,6 +17,7 @@ adguard.ender.fr
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.lege.despagne.net
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -226,6 +227,7 @@ dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.siry.de
 dns.skrep.eu
 dns.slinkyman.net
 dns.spil.co.id
@@ -575,6 +577,7 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
+typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk.teradns.org
