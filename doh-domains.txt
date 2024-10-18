@@ -142,6 +142,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -289,7 +290,6 @@ doh-de.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
-doh.233py.com
 doh.360.cn
 doh.42l.fr
 doh.applied-privacy.net
@@ -380,7 +380,6 @@ ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
-edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
@@ -414,7 +413,6 @@ hole.elbschloss.xyz
 home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
-i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
@@ -463,7 +461,6 @@ muli.stusta.mhn.de
 n0.eu
 n5.lsasss.com
 nat64.tuxis.nl
-ndns.233py.com
 nl-ams.doh.sb
 nl-ams2.doh.sb
 ns.00dani.me
@@ -544,7 +541,6 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
-sdns.233py.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
@@ -596,7 +592,6 @@ virga.pp.ua
 vm.mytm.cc
 vpsus3.pzhg.me
 wantaquddin.com
-wdns.233py.com
 www.c-dns.com
 www.dnsadguard.co.uk
 www.jabber-germany.de
