@@ -6,6 +6,7 @@ ad1.heronet.nl
 adblock.borjalopez.eu
 adguard-dns.rouga.ch
 adguard-dns.turker.info
+adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.aa4.co.uk
 adguard.ambiya.net
