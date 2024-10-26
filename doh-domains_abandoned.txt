@@ -131,7 +131,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -142,6 +141,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 kaitain.restena.lu
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
@@ -166,6 +166,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
