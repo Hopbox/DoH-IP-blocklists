@@ -141,6 +141,7 @@ i.passcloud.xyz
 iris.woozeno.eu
 irre.li
 jcdns.fun
+jit.ddns.net
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
