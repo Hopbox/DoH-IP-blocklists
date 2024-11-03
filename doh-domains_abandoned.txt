@@ -48,6 +48,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
+dns.bebasid.com
 dns.benpro.fr
 dns.cfiec.net
 dns.comeonjames.club
@@ -154,6 +155,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+please.dontsteal.my.id
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
