@@ -105,6 +105,7 @@ dns.artikel10.org
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
+dns.bebasid.com
 dns.belnet.be
 dns.beta.gandi.net
 dns.bitdefender.net

@@ -48,7 +48,6 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
-dns.bebasid.com
 dns.benpro.fr
 dns.cfiec.net
 dns.comeonjames.club
