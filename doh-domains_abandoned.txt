@@ -133,6 +133,7 @@ externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -142,6 +143,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
@@ -155,6 +157,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
@@ -167,6 +170,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
+tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
