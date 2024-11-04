@@ -436,7 +436,6 @@ kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -491,7 +490,6 @@ opennic2.i2pd.xyz
 oraclejp2.chungyu.com
 orau.lz0724.com
 ordns.he.net
-osefcorp.duckdns.org
 pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
