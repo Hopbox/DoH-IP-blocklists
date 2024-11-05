@@ -57,6 +57,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.east.comss.one
 dns.edgy.network
 dns.emeraldonion.org
 dns.faze.dev
@@ -133,7 +134,6 @@ externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -143,9 +143,7 @@ iris.woozeno.eu
 irre.li
 jcdns.fun
 jit.ddns.net
-jurre-home.duckdns.org
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
@@ -157,9 +155,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.unstoppable.io
@@ -172,7 +168,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
-tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
