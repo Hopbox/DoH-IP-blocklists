@@ -79,6 +79,7 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -144,6 +145,7 @@ irre.li
 jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
