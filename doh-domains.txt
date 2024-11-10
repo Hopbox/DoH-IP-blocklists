@@ -206,6 +206,7 @@ dns.novg.net
 dns.npe.bz
 dns.nullgate.net
 dns.ofdoom.net
+dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.porteii.com
@@ -361,7 +362,6 @@ doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.gslb2.xfinity.com
@@ -424,7 +424,6 @@ jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
-keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 kilabit.info

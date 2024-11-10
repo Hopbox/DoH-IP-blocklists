@@ -79,7 +79,6 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -126,6 +125,7 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 draco.plan9-ns2.com
@@ -147,6 +147,7 @@ jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
+keithchung.hopto.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
