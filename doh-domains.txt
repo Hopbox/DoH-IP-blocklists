@@ -512,7 +512,6 @@ public.dns.iij.jp
 punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
-query.hdns.io
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
