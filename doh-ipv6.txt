@@ -63,7 +63,7 @@
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:2564:331:ea40:f2ff:fee3:451e   # doh.jeroenhd.nl
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -72,7 +72,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:820:3a00::b:c47                # secure-dns.dns-ga.de
-2001:9e8:4003:4e32:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:644b:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
 2001:b011:d000:f93a:211:32ff:fe79:26cd  # ihctw.synology.me
@@ -82,8 +82,8 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:5300:3::2f4                    # dns.syaifullah.com
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:13e:f2b0:14ff:feb5:d1f4    # ueni.dyndns.org
@@ -162,7 +162,7 @@
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com
-2606:4700:20::681a:389                  # blitz.ahadns.com
+2606:4700:20::681a:389                  # blitz-setup.ahadns.com
 2606:4700:20::ac43:4595                 # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
@@ -944,7 +944,7 @@
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
 2a01:378:ff42:6942:81:18:191:7          # nsc.torgues.net
-2a01:3a0:53:53::                        # unicast.censurfridns.dk
+2a01:3a0:53:53::                        # unicast.uncensoreddns.org
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13a:250b::187                  # dns.decloudus.com
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
@@ -1187,7 +1187,7 @@
 2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
 2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
-2a09:8280:1::1:da1b                     # dns.dnswarden.com
+2a09:8280:1::1:da1b                     # doh.asia.dnswarden.com
 2a09::                                  # doh.sb
 2a09:cd42:f:425b::1                     # dnsse.alekberg.net
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
@@ -1196,7 +1196,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8902::53                           # dns.dnshome.de
+2a0c:8901::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:b9c0:f:451d::1                     # dnsnl-noads.alekberg.net
