@@ -49,6 +49,7 @@ dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
 dns.benpro.fr
+dns.bw.i81.ru
 dns.cfiec.net
 dns.comeonjames.club
 dns.containerpi.com
