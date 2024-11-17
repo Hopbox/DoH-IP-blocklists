@@ -43,7 +43,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::44                   # doh2.gslb2.xfinity.com
+2001:558:feed:443::44                   # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -82,13 +82,13 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:5300:3::2f4                    # dns.syaifullah.com
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
-2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:3e95:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
+2400:52e0:1a01::984:1                   # doh1.b-cdn.net
 2400:6180:0:d0::45a:b001                # sg-sin.doh.sb
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
@@ -126,8 +126,8 @@
 2600:1f28:60:801:ffcf:3aa8:91d:cfdb     # dns.api.integration.globuscs.info
 2600:1f28:60:802:1a27:46e:ff20:f98f     # dns.api.staging.globuscs.info
 2600:1f28:60:802:a0e8:9ec9:8094:a819    # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:aedd:6b1b:8473:daa0    # dns.api.test.globuscs.info
 2600:1f28:60:802:bc4b:46f7:3ba0:e2a9    # dns.api.preview.globus.org
+2600:1f28:60:802:e929:18d9:78c5:3dbc    # dns.api.test.globuscs.info
 2600:1f28:60:802:eb1a:eda9:98ad:9134    # dns.api.integration.globuscs.info
 2600:3c00::f03c:93ff:fe79:3686          # tx.teradns.org
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
@@ -160,8 +160,8 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:20::681a:289                  # blitz-setup.ahadns.com
-2606:4700:20::681a:389                  # blitz-setup.ahadns.com
+2606:4700:20::681a:289                  # blitz.ahadns.com
+2606:4700:20::681a:389                  # blitz.ahadns.com
 2606:4700:20::ac43:4595                 # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
@@ -1210,8 +1210,8 @@
 2a0f:5707:ba00::53                      # dnscache.e-utp.net
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
-2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad1:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
