@@ -42,7 +42,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::44                   # doh2.gslb2.xfinity.com
+2001:558:feed:443::197                  # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -63,7 +63,7 @@
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:2564:331:ea40:f2ff:fee3:451e   # doh.jeroenhd.nl
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -82,8 +82,8 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:5300:3::2f4                    # dns.syaifullah.com
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
 2003:180:2:4000:0:4:0:53                # dns.telekom.de
-2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:3e95:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
@@ -124,7 +124,7 @@
 2600:1f28:60:801:61a6:7286:5451:f137    # dns.api.test.globuscs.info
 2600:1f28:60:801:7e2f:3ed9:acd7:7f24    # dns.api.staging.globuscs.info
 2600:1f28:60:801:e5a7:b8a1:5c82:86de    # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:1a27:46e:ff20:f98f     # dns.api.staging.globuscs.info
+2600:1f28:60:802:2bd4:fd75:160c:4451    # dns.api.staging.globuscs.info
 2600:1f28:60:802:3680:cddf:c045:fd2b    # dns.api.preview.globus.org
 2600:1f28:60:802:3c98:b30e:e77b:2879    # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:e929:18d9:78c5:3dbc    # dns.api.test.globuscs.info
@@ -162,9 +162,9 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:20::681a:289                  # blitz.ahadns.com
+2606:4700:20::681a:289                  # blitz-setup.ahadns.com
 2606:4700:20::681a:389                  # blitz-setup.ahadns.com
-2606:4700:20::ac43:4595                 # blitz.ahadns.com
+2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
 2606:4700:3030::6815:2c68               # dns.unerror.network
@@ -189,7 +189,7 @@
 2606:4700:3032::6815:4f6c               # armorrush.eu.org
 2606:4700:3032::6815:5b0e               # doh.tiarap.org
 2606:4700:3032::ac43:8cab               # doh.disconnect.app
-2606:4700:3032::ac43:c394               # basic.bravedns.com
+2606:4700:3032::ac43:c394               # bravedns.com
 2606:4700:3033::6815:101f               # lindung.pp.ua
 2606:4700:3033::6815:42a0               # doh.zephyrus.id
 2606:4700:3033::ac43:9522               # gztech.me
@@ -309,10 +309,13 @@
 2620:149:1363:2::d                      # mask-h2.icloud.com
 2620:149:1363:2::e                      # mask-h2.icloud.com
 2620:149:1363:2::f                      # mask-h2.icloud.com
+2620:149:1367:6::10                     # mask-h2.icloud.com
 2620:149:1367:6::12                     # mask-h2.icloud.com
 2620:149:1367:6::13                     # mask.icloud.com
 2620:149:1367:6::14                     # mask.icloud.com
 2620:149:1367:6::15                     # mask.icloud.com
+2620:149:1367:6::16                     # mask-h2.icloud.com
+2620:149:1367:6::1a                     # mask-h2.icloud.com
 2620:149:1367:6::6                      # mask.icloud.com
 2620:149:1367:6::a                      # mask.icloud.com
 2620:149:1367:6::c                      # mask-h2.icloud.com
@@ -1145,6 +1148,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
+2a02:6ea0:c454::1                       # doh1.b-cdn.net
 2a02:a464:cfa5::1                       # ipoac.nl
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
@@ -1198,14 +1202,14 @@
 2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
-2a09:cd42:f:425b::1                     # dnsse.alekberg.net
+2a09:cd42:f:425b::1                     # dnsse-noads.alekberg.net
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
 2a0a:be80::cbe:4445                     # cubedns.com
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8901::53                           # dns.dnshome.de
+2a0c:8902::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:b9c0:f:451d::1                     # dnsnl-noads.alekberg.net
