@@ -162,6 +162,7 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver.r0cket.net
 resolver.unstoppable.io
 sby-doh.limotelu.org
 sdns.233py.com
