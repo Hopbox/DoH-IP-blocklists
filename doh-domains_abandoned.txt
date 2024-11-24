@@ -178,7 +178,6 @@ uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
-us-ny-alula.heliumcloud.cc
 wdns.233py.com
 www.elshad-adgh-dns.ru
 xorbiadns.com
