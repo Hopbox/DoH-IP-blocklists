@@ -43,7 +43,6 @@ dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.7sec.com.br
 dns.aaflalo.me
-dns.aaytorr.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
@@ -136,7 +135,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
