@@ -71,7 +71,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw
-dns.lsho.top
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh

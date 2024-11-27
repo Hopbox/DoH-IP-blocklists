@@ -184,6 +184,7 @@ dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
 dns.linkr.ninja
+dns.lsho.top
 dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
