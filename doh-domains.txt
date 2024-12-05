@@ -523,6 +523,7 @@ res-acst2.absolight.net
 res-acst3.absolight.net
 resolver.r0cket.net
 resolver.rferee.dev
+resolver.unstoppable.io
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -573,6 +574,7 @@ uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
