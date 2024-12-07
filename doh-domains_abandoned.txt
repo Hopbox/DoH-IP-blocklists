@@ -152,7 +152,6 @@ neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
-ns2.opennameserver.org
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
