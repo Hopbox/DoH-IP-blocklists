@@ -11,6 +11,7 @@ adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -77,12 +78,10 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
-dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog
 dns.truong.fi
@@ -134,6 +133,7 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
