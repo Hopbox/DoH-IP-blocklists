@@ -236,6 +236,7 @@ dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
 dns.telekom.de
+dns.tesem.dog
 dns.theres.one
 dns.therifleman.name
 dns.tls-data.de

@@ -83,7 +83,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
-dns.tesem.dog
 dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
