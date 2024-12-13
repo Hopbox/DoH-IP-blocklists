@@ -42,7 +42,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::c                     # doh.xfinity.com
+2001:558:fd02:2499::5                   # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -63,7 +63,7 @@
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:2564:331:ea40:f2ff:fee3:451e   # doh.jeroenhd.nl
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -81,8 +81,8 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:180:2::4:0:53                      # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:5d8:f2b0:14ff:feb5:d1f4    # ueni.dyndns.org
@@ -161,7 +161,7 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:20::681a:289                  # blitz.ahadns.com
+2606:4700:20::681a:289                  # blitz-setup.ahadns.com
 2606:4700:20::681a:389                  # blitz.ahadns.com
 2606:4700:20::ac43:4595                 # blitz.ahadns.com
 2606:4700:3030::6815:1001               # dns.silentlybren.com
@@ -974,7 +974,7 @@
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
 2a01:378:ff42:6942:81:18:191:7          # nsc.torgues.net
-2a01:3a0:53:53::                        # unicast.uncensoreddns.org
+2a01:3a0:53:53::                        # unicast.censurfridns.dk
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13a:250b::187                  # dns.decloudus.com
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
@@ -1217,7 +1217,7 @@
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:6382:4000:3:45:155:171:163         # doh.lacontrevoie.fr
+2a09:6382:4000:3:45:155:171:163         # doh.42l.fr
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a09:cd42:f:425b::1                     # dnsse.alekberg.net
@@ -1243,7 +1243,7 @@
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
