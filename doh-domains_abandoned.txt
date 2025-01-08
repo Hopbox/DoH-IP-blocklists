@@ -145,6 +145,7 @@ irre.li
 jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
@@ -157,6 +158,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -170,7 +172,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
-tuandns.duckdns.org
 tundranet.hec.to
 uk.adhole.org
 us-central.adhole.org
