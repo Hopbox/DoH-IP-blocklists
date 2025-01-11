@@ -582,7 +582,6 @@ us1.dns.lavate.ch
 use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
-vm.mytm.cc
 vpsus3.pzhg.me
 wantaquddin.com
 www.c-dns.com
