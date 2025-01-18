@@ -165,6 +165,7 @@ secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.yepdns.com
+spacedns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

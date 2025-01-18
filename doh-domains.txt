@@ -551,7 +551,6 @@ shield.afixer.app
 sink.nolo.ltd
 sitdns.com
 sky.rethinkdns.com
-spacedns.org
 steering.nextdns.io
 syd.adfilter.net
 testaghome.meshkov.info
