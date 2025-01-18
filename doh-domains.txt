@@ -407,7 +407,6 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
-home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.passcloud.xyz
@@ -551,6 +550,7 @@ shield.afixer.app
 sink.nolo.ltd
 sitdns.com
 sky.rethinkdns.com
+spacedns.org
 steering.nextdns.io
 syd.adfilter.net
 testaghome.meshkov.info
