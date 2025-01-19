@@ -80,7 +80,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
-dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -134,7 +133,6 @@ externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
