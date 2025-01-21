@@ -102,6 +102,7 @@ doh.233py.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
@@ -170,7 +171,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
