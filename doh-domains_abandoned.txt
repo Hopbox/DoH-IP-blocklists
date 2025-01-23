@@ -22,6 +22,7 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
+awan.ftp.sh
 axaxa.fun
 bcandrade.ml
 berd.moe
@@ -170,7 +171,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb

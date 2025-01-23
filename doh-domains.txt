@@ -40,7 +40,6 @@ at.pzhg.me
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-awan.ftp.sh
 basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
@@ -563,6 +562,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 typaza.com
