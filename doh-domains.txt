@@ -212,7 +212,6 @@ dns.paesa.es
 dns.panszelescik.pl
 dns.porteii.com
 dns.pub
-dns.pumplex.com
 dns.quad9.net
 dns.rafn.is
 dns.reckoningslug.name
