@@ -21,7 +21,7 @@
 2001:300::6                             # public.dns.iij.jp
 2001:41d0:302:2200::180                 # doh.bortzmeyer.fr
 2001:41d0:404:200::976                  # dns.kawa.tf
-2001:41d0:404:300::f37                  # doh.lacontrevoie.fr
+2001:41d0:404:300::f37                  # doh.42l.fr
 2001:41d0:601:1100::5780                # dns.panszelescik.pl
 2001:41d0:8:9a14::1                     # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                     # jackyes.ovh
@@ -34,17 +34,18 @@
 2001:470:71:6dc::53                     # opennic2.i2pd.xyz
 2001:4860:4860::64                      # dns64.dns.google
 2001:4860:4860::6464                    # dns64.dns.google
-2001:4860:4860::8844                    # 8888.google
-2001:4860:4860::8888                    # 8888.google
+2001:4860:4860::8844                    # dns.google.com
+2001:4860:4860::8888                    # dns.google.com
 2001:4b98:dc2:41:216:3eff:fe16:1080     # dns.hostux.net
 2001:4b98:dc2:41:216:3eff:fe25:d0f0     # dns.hostux.net
 2001:4b98:dc2:41:216:3eff:fece:3e55     # dns.hostux.net
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::c                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::d                     # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
+2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
 2001:638:708:20::20                     # ines.zfn.uni-bremen.de
 2001:678:84::                           # doh.nic.lv
 2001:678:888:1:53::1                    # dns.flatuslifir.is
@@ -79,11 +80,11 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
-2003:f8:97ff:2d10:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
+2003:f8:97ff:3ae9:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
 2400:6180:0:d0::45a:b001                # sg-sin.doh.sb
@@ -158,6 +159,7 @@
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
+2606:4700:130:436c:6f75:6466:6c61:7265  # i.passcloud.xyz
 2606:4700:3030::6815:1001               # blitz.ahadns.com
 2606:4700:3030::6815:2001               # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
@@ -181,8 +183,6 @@
 2606:4700:3031::6815:4872               # dns.d365.in
 2606:4700:3031::6815:4c9a               # doh.killtw.im
 2606:4700:3031::6815:595c               # puredns.org
-2606:4700:3031::6815:df1                # o1.lt
-2606:4700:3031::ac43:8582               # o1.lt
 2606:4700:3031::ac43:93f7               # doh-sg.blahdns.com
 2606:4700:3032::6815:1979               # pihole4.hoerli.net
 2606:4700:3032::6815:39ea               # doh.ccb-net.it
@@ -305,6 +305,7 @@
 2620:149:1363:2::d                      # mask-h2.icloud.com
 2620:149:1363:2::e                      # mask-h2.icloud.com
 2620:149:1363:2::f                      # mask-h2.icloud.com
+2620:149:1363::4                        # mask-api.icloud.com
 2620:149:1367:6::10                     # mask-h2.icloud.com
 2620:149:1367:6::11                     # mask.icloud.com
 2620:149:1367:6::12                     # mask-h2.icloud.com
@@ -929,7 +930,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -958,7 +959,7 @@
 2a00:c98:4002:2:c::115                  # dns.keweon.center
 2a00:c98:4002:2:c::117                  # dns.keweon.center
 2a00:d78:0:712:94:198:159:3             # doh.sidnlabs.nl
-2a00:da00:f201:3300::1                  # dns.oszx.co
+2a00:da00:f201:3300::2                  # dns.oszx.co
 2a00:f826:8:1::254                      # opennic1.eth-services.de
 2a01:111:f100:6000::4134:a07f           # dns.mzrme.cn
 2a01:230:4:915::2                       # dns.comss.one
@@ -967,7 +968,7 @@
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
 2a01:378:ff42:6942:81:18:191:7          # nsc.torgues.net
-2a01:3a0:53:53::                        # unicast.censurfridns.dk
+2a01:3a0:53:53::                        # unicast.uncensoreddns.org
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13a:250b::187                  # dns.decloudus.com
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
@@ -1013,7 +1014,7 @@
 2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d   # cloud.tezoi.com
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1   # rayneau.fr
 2a02:168:6604:25::65                    # doh.datacore.ch
-2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
+2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
 2a02:1b8:10:234::2                      # doh.appliedprivacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com

@@ -78,9 +78,9 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
+dns.pumplex.com
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
