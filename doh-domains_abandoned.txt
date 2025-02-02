@@ -152,6 +152,7 @@ ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
+ns1.dotls.org
 ns2-doh.iriseden.fr
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net

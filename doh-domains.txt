@@ -457,7 +457,6 @@ nat64.tuxis.nl
 nl-ams.doh.sb
 nl-ams2.doh.sb
 ns.00dani.me
-ns1.dotls.org
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
