@@ -146,6 +146,7 @@ jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
