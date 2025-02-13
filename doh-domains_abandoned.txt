@@ -135,6 +135,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -146,7 +147,6 @@ jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
@@ -177,6 +177,7 @@ uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
+us-ny-alula.heliumcloud.cc
 vm.mytm.cc
 wdns.233py.com
 www.dnsadguard.co.uk
