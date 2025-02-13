@@ -17,7 +17,6 @@ adguard.ihatemy.live
 adguard.k0rap.com
 adguard.nielsvoorn.nl
 adguardh.ga
-ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -135,7 +134,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -177,7 +175,6 @@ uk.adhole.org
 us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
-us-ny-alula.heliumcloud.cc
 vm.mytm.cc
 wdns.233py.com
 www.dnsadguard.co.uk

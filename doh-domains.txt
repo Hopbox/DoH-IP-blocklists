@@ -29,6 +29,7 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ag.ff0x.ca
+ag.ssrahul96.xyz
 ant.dns.qwer.pw
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
@@ -571,6 +572,7 @@ uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+us-ny-alula.heliumcloud.cc
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
