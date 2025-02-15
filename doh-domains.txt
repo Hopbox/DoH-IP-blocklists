@@ -580,7 +580,6 @@ us1.blissdns.net
 us1.dns.lavate.ch
 use-application-dns.net
 v.dnscrypt.uk
-virga.pp.ua
 vpsus3.pzhg.me
 wantaquddin.com
 www.c-dns.com
