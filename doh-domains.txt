@@ -400,6 +400,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 hitian.me
@@ -509,6 +510,7 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
