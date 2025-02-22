@@ -70,7 +70,6 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -563,11 +562,9 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
-tx.teradns.org
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
