@@ -501,7 +501,6 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 pluton.plan9-dns.com
-pope.cnblw.me
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 pro.shecan.ir
@@ -561,7 +560,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
 ueni.dyndns.org
