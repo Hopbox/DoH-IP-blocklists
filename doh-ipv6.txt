@@ -42,7 +42,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::197                  # doh.xfinity.com
+2001:558:fd02:2499::3                   # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -80,8 +80,8 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:5300:15::44                    # dns.syaifullah.com
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:2954:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
@@ -118,8 +118,8 @@
 2600:1f28:60:800:563f:69c5:2842:7156    # dns.api.staging.globuscs.info
 2600:1f28:60:800:842:ac1f:2682:36c0     # dns.api.test.globuscs.info
 2600:1f28:60:800:f07f:5e48:7036:cf94    # dns.api.sandbox.globuscs.info
+2600:1f28:60:801:3b5a:9c30:9c6b:570c    # dns.api.test.globuscs.info
 2600:1f28:60:801:5a5a:c471:fae1:2660    # dns.api.sandbox.globuscs.info
-2600:1f28:60:801:6110:7ffd:2325:97af    # dns.api.test.globuscs.info
 2600:1f28:60:801:7e62:f563:597b:2380    # dns.api.preview.globus.org
 2600:1f28:60:801:b935:1800:ebc:b56e     # dns.api.integration.globuscs.info
 2600:1f28:60:801:fed9:1ccb:5321:c548    # dns.api.staging.globuscs.info
@@ -179,7 +179,7 @@
 2606:4700:3030::ac43:c17e               # doh.ccb-net.it
 2606:4700:3030::ac43:c52a               # doh.killtw.im
 2606:4700:3030::ac43:d6f6               # basic.rethinkdns.com
-2606:4700:3031::6815:31ea               # basic.bravedns.com
+2606:4700:3031::6815:31ea               # bravedns.com
 2606:4700:3031::6815:3e9e               # dns.silen.org
 2606:4700:3031::6815:4134               # doh.disconnect.app
 2606:4700:3031::6815:4872               # dns.d365.in
@@ -220,10 +220,8 @@
 2606:4700:3037::ac43:b84c               # dns.kosan.moe
 2606:4700:3108::ac42:2922               # dns.rotunneling.net
 2606:4700:3108::ac42:2ade               # dns.rotunneling.net
-2606:4700:4700::1001                    # 1dot1dot1dot1.cloudflare-dns.com
 2606:4700:4700::1002                    # security.cloudflare-dns.com
 2606:4700:4700::1003                    # family.cloudflare-dns.com
-2606:4700:4700::1111                    # 1dot1dot1dot1.cloudflare-dns.com
 2606:4700:4700::1112                    # security.cloudflare-dns.com
 2606:4700:4700::1113                    # family.cloudflare-dns.com
 2606:4700:4700::64                      # dns64.cloudflare-dns.com
@@ -1245,7 +1243,7 @@
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
