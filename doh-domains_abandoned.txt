@@ -132,7 +132,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -145,6 +144,7 @@ jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
+krtekvpn.duckdns.org
 kswro.web.id
 lion.yazilimatolye.com
 ndns.233py.com
@@ -159,6 +159,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -171,7 +172,9 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
