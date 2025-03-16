@@ -31,7 +31,6 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dgca.myds.me
 dns-asia.wugui.zone
@@ -63,6 +62,7 @@ dns.edison42.dev
 dns.emeraldonion.org
 dns.faze.dev
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -137,6 +137,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -147,6 +148,7 @@ irre.li
 jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lion.yazilimatolye.com
@@ -160,8 +162,10 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org

@@ -70,6 +70,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -152,7 +153,6 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
-dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
@@ -403,7 +403,6 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
-home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 i.passcloud.xyz
@@ -422,7 +421,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
@@ -486,7 +484,6 @@ opennic2.i2pd.xyz
 oraclejp2.chungyu.com
 orau.lz0724.com
 ordns.he.net
-osefcorp.duckdns.org
 pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
@@ -505,7 +502,6 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
