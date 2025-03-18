@@ -72,6 +72,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
@@ -97,6 +98,10 @@ dns2.ipv6.dnscrypt.ca
 dns8.org
 dnsenc.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com

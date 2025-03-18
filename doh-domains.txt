@@ -184,7 +184,6 @@ dns.kosan.moe
 dns.lars-lehmann.net
 dns.linkr.ninja
 dns.lsho.top
-dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -270,10 +269,6 @@ dns9.quad9.net
 dnscache.e-utp.net
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me
