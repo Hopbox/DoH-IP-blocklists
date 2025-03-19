@@ -60,6 +60,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.emeraldonion.org
+dns.emiliyan.com
 dns.faze.dev
 dns.frank-ruan.com
 dns.futuredns.me
