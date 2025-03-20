@@ -111,6 +111,7 @@ doh.233py.com
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.boje8.me
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
