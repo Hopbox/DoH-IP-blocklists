@@ -32,6 +32,7 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dgca.myds.me
 dns-asia.wugui.zone
@@ -143,7 +144,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
