@@ -369,6 +369,7 @@ edgy-dns.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
