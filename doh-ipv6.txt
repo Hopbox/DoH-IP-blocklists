@@ -42,7 +42,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::198                  # doh2.gslb2.xfinity.com
+2001:558:feed:443::197                  # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -62,7 +62,7 @@
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.uncensoreddns.org
+2001:67c:28a4::                         # anycast.censurfridns.dk
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -79,7 +79,7 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
@@ -142,6 +142,7 @@
 2603:c021:c001:31fa:780:b000:0:415      # ibuki.cgnat.net
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
+2603:c024:4507:6821:456c:317b:2f25:11bc # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd  # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9    # dns.moonssif.com
 2603:c024:c012:57ac:ee9d:55c3:e00e:a82d # hitian.me
@@ -162,14 +163,14 @@
 2605:6400:40:fff3:d833:9895:5472:655d   # dns.stevenz.net
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:3030::6815:1001               # blitz.ahadns.com
+2606:4700:3030::6815:1001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:2001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
 2606:4700:3030::6815:2c68               # dns.unerror.network
 2606:4700:3030::6815:3001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:4001               # blitz-setup.ahadns.com
-2606:4700:3030::6815:5001               # blitz.ahadns.com
+2606:4700:3030::6815:5001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:533e               # basic.rethinkdns.com
 2606:4700:3030::6815:6001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:7001               # blitz-setup.ahadns.com
@@ -992,6 +993,7 @@
 2a01:238:20a:202:1160::                 # project-evoex.de
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
+2a01:239:2fd:b700::1                    # ns1.opennameserver.org
 2a01:3a0:53:53::                        # unicast.uncensoreddns.org
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13a:250b::187                  # dns.decloudus.com
@@ -1190,7 +1192,6 @@
 2a03:4000:1d:36d::1                     # abel.waringer-atg.de
 2a03:4000:20:2db::1                     # dns.warpnine.de
 2a03:4000:2:d8::1                       # dns.murgi.de
-2a03:4000:2a:2c1::1                     # dns.hahnjo.de
 2a03:4000:31:81::                       # dns.clanless.ovh
 2a03:4000:38:20e::853                   # dns.kernel-error.de
 2a03:4000:47:8b::1                      # dns.kescher.at
@@ -1241,7 +1242,7 @@
 2a0c:3d00:11:6942:5:180:59:37           # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
 2a0c:8881:5:54::145                     # nsc.torgues.net
-2a0c:8901::53                           # dns.dnshome.de
+2a0c:8902::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:e300::1337                         # dns.aquilenet.fr
