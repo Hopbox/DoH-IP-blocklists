@@ -570,7 +570,6 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
-wantaquddin.com
 www.c-dns.com
 www.jabber-germany.de
 www.masters-of-cloud.de

@@ -188,6 +188,7 @@ us-central.adhole.org
 us-chi-doh.sb
 us-east.adhole.org
 vm.mytm.cc
+wantaquddin.com
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
