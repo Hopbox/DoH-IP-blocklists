@@ -136,7 +136,6 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
-draco.plan9-ns2.com
 edns.233py.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
