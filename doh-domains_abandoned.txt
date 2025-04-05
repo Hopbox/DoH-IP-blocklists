@@ -140,6 +140,7 @@ edns.233py.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
+gclouddns.com
 groupy.ga
 himedns.com
 hydra.plan9-ns1.com
