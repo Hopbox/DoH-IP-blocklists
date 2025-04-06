@@ -40,6 +40,7 @@ at.pzhg.me
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
@@ -69,7 +70,6 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -292,7 +292,6 @@ doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.crypto.sx
-doh.datacore.ch
 doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
@@ -526,6 +525,7 @@ safeservedns.com
 sbdns.co.in
 secure-dns.dns-ga.de
 secure.avastdns.com
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
