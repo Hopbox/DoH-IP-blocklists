@@ -69,7 +69,6 @@ dns.haoxuan.xyz
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
-dns.islandnet.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw

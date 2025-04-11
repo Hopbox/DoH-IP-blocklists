@@ -170,6 +170,7 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.imaicool.com
 dns.indust.me
+dns.islandnet.com
 dns.joaofidelix.com.br
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
