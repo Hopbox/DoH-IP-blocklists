@@ -30,7 +30,6 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dgca.myds.me
 dns-asia.wugui.zone
@@ -73,6 +72,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.lightmaster.pw
+dns.lsho.top
 dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
