@@ -43,7 +43,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::198                  # doh2.gslb2.xfinity.com
+2001:558:fd02:2499::5                   # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -63,7 +63,7 @@
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -81,7 +81,7 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:4fa3:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
@@ -99,7 +99,7 @@
 2401:c080:1400:522d:5400:4ff:fe09:61b9  # doh.dscloud.me
 2402:f000:1:416:101:6:6:6               # dns.tuna.tsinghua.edu.cn
 2403:2c80::26                           # hk-hkg.doh.sb
-2403:3a00:107:29:133:167:212:25         # lion.yazilimatolye.com
+2403:3a00:107:29:133:167:212:25         # jcdns.fun
 2403:3a00:201:1c:49:212:198:36          # axaxa.fun
 2403:ac80:1030::2                       # jp-kix.doh.sb
 2403:fbc0:1000::babe                    # jp-nrt.doh.sb
@@ -108,6 +108,7 @@
 2406:da12:6cb:df00:7a77:c387:2bed:613c  # kr-sel.doh.sb
 2406:da1a:1b5:d610:89b3:1adf:c159:a35e  # pihole.aws.ketan.dev
 2406:ef80:2:8f28::1                     # sg.teradns.org
+2407:0:3006:207d::1                     # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2408:4003:10b8:9ae9:5ef8:7292:9141:6f67 # dns.ikataruto.com
 240b:4001:278:8401:ffff:1338:c7ca:22b   # dns.stevenz.net
@@ -172,7 +173,7 @@
 2606:4700:3030::6815:4001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:5001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:533e               # basic.rethinkdns.com
-2606:4700:3030::6815:6001               # blitz-setup.ahadns.com
+2606:4700:3030::6815:6001               # blitz.ahadns.com
 2606:4700:3030::6815:7001               # blitz-setup.ahadns.com
 2606:4700:3030::ac43:9bae               # dns.joaofidelix.com.br
 2606:4700:3030::ac43:a208               # dns.dgea.fr
@@ -181,7 +182,7 @@
 2606:4700:3030::ac43:c17e               # doh.ccb-net.it
 2606:4700:3030::ac43:c52a               # doh.killtw.im
 2606:4700:3030::ac43:d6f6               # basic.rethinkdns.com
-2606:4700:3031::6815:31ea               # basic.bravedns.com
+2606:4700:3031::6815:31ea               # bravedns.com
 2606:4700:3031::6815:3e9e               # dns.silen.org
 2606:4700:3031::6815:4134               # doh.disconnect.app
 2606:4700:3031::6815:4872               # dns.d365.in
@@ -196,7 +197,7 @@
 2606:4700:3032::6815:5b0e               # doh.tiarap.org
 2606:4700:3032::6815:c5e                # a.passcloud.xyz
 2606:4700:3032::ac43:8cab               # doh.disconnect.app
-2606:4700:3032::ac43:c394               # basic.bravedns.com
+2606:4700:3032::ac43:c394               # bravedns.com
 2606:4700:3033::6815:48eb               # dns.joaofidelix.com.br
 2606:4700:3033::ac43:9522               # gztech.me
 2606:4700:3033::ac43:a495               # doh.tiarap.org
@@ -964,7 +965,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns9.quad9.net
+2620:fe::9                              # dns.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1046,7 +1047,7 @@
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1   # rayneau.fr
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.applied-privacy.net
+2a02:1b8:10:234::2                      # doh.appliedprivacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
 2a02:26f7:144:1:ace0:ac44::             # mask.icloud.com
