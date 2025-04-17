@@ -400,6 +400,7 @@ hole.elbschloss.xyz
 home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
+hydra.plan9-ns1.com
 i.passcloud.xyz
 ibksturm.synology.me
 ibuki.cgnat.net
