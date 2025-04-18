@@ -109,7 +109,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
 doh.abmb.win
-doh.armadillodns.net
 doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
@@ -142,7 +141,6 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
-himedns.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -171,7 +169,6 @@ sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
 sg.adhole.org
-sg.yepdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

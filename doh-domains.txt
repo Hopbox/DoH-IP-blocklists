@@ -283,6 +283,7 @@ doh.360.cn
 doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
+doh.armadillodns.net
 doh.asia.dnswarden.com
 doh.beauty
 doh.bortzmeyer.fr
@@ -393,6 +394,7 @@ guard.sntrk.ru
 gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -535,6 +537,7 @@ security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
 sg.teradns.org
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
