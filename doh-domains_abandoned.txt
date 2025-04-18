@@ -58,6 +58,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -141,6 +142,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
