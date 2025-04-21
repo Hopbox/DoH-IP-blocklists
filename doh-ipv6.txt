@@ -27,7 +27,6 @@
 2001:41d0:8:9a14::1                     # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                     # jackyes.ovh
 2001:41d0:a:5e02::1                     # adguard.ender.fr
-2001:4610:a:4b::d74e                    # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                     # dns.cmrg.net
 2001:470:1f15:b80::53                   # opennic.i2pd.xyz
 2001:470:20::2                          # ordns.he.net
@@ -43,7 +42,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:feed:443::198                  # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::d                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -63,7 +62,7 @@
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
 2001:67c:27e4::35                       # privacydns.go6lab.si
-2001:67c:28a4::                         # anycast.uncensoreddns.org
+2001:67c:28a4::                         # anycast.censurfridns.dk
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -80,7 +79,7 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
@@ -99,7 +98,7 @@
 2401:c080:1400:522d:5400:4ff:fe09:61b9  # doh.dscloud.me
 2402:f000:1:416:101:6:6:6               # dns.tuna.tsinghua.edu.cn
 2403:2c80::26                           # hk-hkg.doh.sb
-2403:3a00:107:29:133:167:212:25         # jcdns.fun
+2403:3a00:107:29:133:167:212:25         # lion.yazilimatolye.com
 2403:3a00:201:17:112:78:125:221         # himedns.com
 2403:3a00:201:1c:49:212:198:36          # axaxa.fun
 2403:ac80:1030::2                       # jp-kix.doh.sb
@@ -174,7 +173,7 @@
 2606:4700:3030::6815:4001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:5001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:533e               # basic.rethinkdns.com
-2606:4700:3030::6815:6001               # blitz.ahadns.com
+2606:4700:3030::6815:6001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:7001               # blitz-setup.ahadns.com
 2606:4700:3030::ac43:9bae               # dns.joaofidelix.com.br
 2606:4700:3030::ac43:a208               # dns.dgea.fr
@@ -1001,7 +1000,7 @@
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
-2a01:3a0:53:53::                        # unicast.censurfridns.dk
+2a01:3a0:53:53::                        # unicast.uncensoreddns.org
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13a:250b::187                  # dns.decloudus.com
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
@@ -1046,7 +1045,7 @@
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1   # rayneau.fr
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.applied-privacy.net
+2a02:1b8:10:234::2                      # doh.appliedprivacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
 2a02:26f7:144:1:ace0:ac44::             # mask.icloud.com
@@ -1239,7 +1238,7 @@
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # doh.asia.dnswarden.com
+2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
@@ -1247,7 +1246,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0c:3d00:11:37::1                      # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8902::53                           # dns.dnshome.de
+2a0c:8901::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:e300::1337                         # dns.aquilenet.fr

@@ -95,7 +95,6 @@ dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
-dns2.cbio.top
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns8.org
@@ -143,6 +142,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
