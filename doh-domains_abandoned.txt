@@ -86,7 +86,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
-dns.surfshark.com
 dns.theres.one
 dns.truong.fi
 dns.wakgood.net
