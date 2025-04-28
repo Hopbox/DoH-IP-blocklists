@@ -26,7 +26,6 @@
 2001:41d0:8:9a14::1                     # yarp.lefolgoc.net
 2001:41d0:a:3cbc::1                     # jackyes.ovh
 2001:41d0:a:5e02::1                     # adguard.ender.fr
-2001:4610:a:4b::d74e                    # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                     # dns.cmrg.net
 2001:470:1f15:b80::53                   # opennic.i2pd.xyz
 2001:470:20::2                          # ordns.he.net
@@ -42,12 +41,12 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd02:2499::5                   # doh2.gslb2.xfinity.com
+2001:558:feed:443::198                  # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
 2001:638:708:20::20                     # ines.zfn.uni-bremen.de
-2001:678:84::                           # doh.nic.lv
+2001:678:84::                           # doh.lv
 2001:678:888:1:53::1                    # dns.flatuslifir.is
 2001:678:888:300:1234:5678::            # dns.flatuslifir.is
 2001:678:888:300:123::1                 # dns.flatuslifir.is
@@ -79,7 +78,7 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:4fa3:f2b0:14ff:feb5:d1f4   # ueni.dyndns.org
@@ -171,11 +170,11 @@
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
 2606:4700:3030::6815:2c68               # dns.unerror.network
 2606:4700:3030::6815:3001               # blitz-setup.ahadns.com
-2606:4700:3030::6815:4001               # blitz-setup.ahadns.com
+2606:4700:3030::6815:4001               # blitz.ahadns.com
 2606:4700:3030::6815:5001               # blitz-setup.ahadns.com
 2606:4700:3030::6815:533e               # basic.rethinkdns.com
 2606:4700:3030::6815:6001               # blitz-setup.ahadns.com
-2606:4700:3030::6815:7001               # blitz.ahadns.com
+2606:4700:3030::6815:7001               # blitz-setup.ahadns.com
 2606:4700:3030::ac43:9bae               # dns.joaofidelix.com.br
 2606:4700:3030::ac43:a208               # dns.dgea.fr
 2606:4700:3030::ac43:b141               # guard.sntrk.ru
@@ -183,13 +182,11 @@
 2606:4700:3030::ac43:c17e               # doh.ccb-net.it
 2606:4700:3030::ac43:c52a               # doh.killtw.im
 2606:4700:3030::ac43:d6f6               # basic.rethinkdns.com
-2606:4700:3031::6815:31ea               # bravedns.com
+2606:4700:3031::6815:31ea               # basic.bravedns.com
 2606:4700:3031::6815:3e9e               # dns.silen.org
 2606:4700:3031::6815:4134               # doh.disconnect.app
 2606:4700:3031::6815:4c9a               # doh.killtw.im
 2606:4700:3031::6815:595c               # puredns.org
-2606:4700:3031::6815:df1                # o1.lt
-2606:4700:3031::ac43:8582               # o1.lt
 2606:4700:3031::ac43:93f7               # doh-sg.blahdns.com
 2606:4700:3032::6815:1979               # pihole4.hoerli.net
 2606:4700:3032::6815:39ea               # doh.ccb-net.it
@@ -197,7 +194,7 @@
 2606:4700:3032::6815:5b0e               # doh.tiarap.org
 2606:4700:3032::6815:c5e                # a.passcloud.xyz
 2606:4700:3032::ac43:8cab               # doh.disconnect.app
-2606:4700:3032::ac43:c394               # bravedns.com
+2606:4700:3032::ac43:c394               # basic.bravedns.com
 2606:4700:3033::6815:48eb               # dns.joaofidelix.com.br
 2606:4700:3033::ac43:a495               # doh.tiarap.org
 2606:4700:3033::ac43:c6b9               # dns.unerror.network
@@ -964,7 +961,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1237,6 +1234,7 @@
 2a07:e340::3                            # adblock.doh.mullvad.net
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
+2a09:0:7:4::2                           # nl-ams2.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
@@ -1262,7 +1260,7 @@
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
