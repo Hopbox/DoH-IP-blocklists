@@ -141,6 +141,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -161,6 +162,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
