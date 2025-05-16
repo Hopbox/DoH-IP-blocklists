@@ -87,7 +87,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
-dns.skrep.eu
 dns.theres.one
 dns.truong.fi
 dns.wakgood.net
@@ -152,9 +151,7 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 ndns.233py.com
 neatdns.ustclug.org
@@ -168,7 +165,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
