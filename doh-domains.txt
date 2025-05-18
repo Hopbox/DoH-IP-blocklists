@@ -137,7 +137,6 @@ dns.david888.com
 dns.daw.dev
 dns.decloudus.com
 dns.dgea.fr
-dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
@@ -487,7 +486,6 @@ osefcorp.duckdns.org
 pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
-pi1.node15.com
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole1.hoerli.net
@@ -555,6 +553,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
 ueni.dyndns.org

@@ -52,6 +52,7 @@ dns.cfiec.net
 dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
+dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
@@ -163,9 +164,9 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -178,7 +179,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
