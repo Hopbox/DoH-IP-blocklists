@@ -137,6 +137,7 @@ dns.david888.com
 dns.daw.dev
 dns.decloudus.com
 dns.dgea.fr
+dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
