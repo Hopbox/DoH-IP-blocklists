@@ -208,7 +208,6 @@ dns.panszelescik.pl
 dns.porteii.com
 dns.pub
 dns.quad9.net
-dns.rafn.is
 dns.reckoningslug.name
 dns.rin.sh
 dns.ronc.ru

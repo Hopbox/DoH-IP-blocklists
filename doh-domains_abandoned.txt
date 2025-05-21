@@ -86,6 +86,7 @@ dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
+dns.rafn.is
 dns.siry.de
 dns.theres.one
 dns.truong.fi
