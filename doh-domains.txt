@@ -71,6 +71,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -180,6 +181,7 @@ dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
 dns.linkr.ninja
+dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -416,7 +418,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
@@ -499,7 +500,6 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
@@ -552,7 +552,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
 ueni.dyndns.org
