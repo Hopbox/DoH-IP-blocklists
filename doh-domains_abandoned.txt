@@ -170,7 +170,6 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
-secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
 surt.ml

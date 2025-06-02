@@ -526,6 +526,7 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
+secure-dns.dns-ga.de
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
