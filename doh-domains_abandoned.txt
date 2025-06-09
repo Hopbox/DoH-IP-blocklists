@@ -137,6 +137,7 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
+edgy-dns.com
 edns.233py.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
