@@ -143,6 +143,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dyn1.de
 dns.eddi.net
+dns.edgy.network
 dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
@@ -187,7 +188,6 @@ dns.meeo.win
 dns.mikeliu.org
 dns.molinero.dev
 dns.moonssif.com
-dns.moulticast.net
 dns.msxnet.ru
 dns.murgi.de
 dns.muxinghe.cn
