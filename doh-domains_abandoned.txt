@@ -83,6 +83,7 @@ dns.nixnet.xyz
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
+dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
