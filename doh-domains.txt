@@ -242,7 +242,6 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vmath.my.id
 dns.warpnine.de
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -387,6 +386,7 @@ gateway.fomichev.cloud
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com

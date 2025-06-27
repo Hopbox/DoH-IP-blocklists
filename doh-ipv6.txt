@@ -42,7 +42,8 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::d                     # doh.xfinity.com
+2001:550:2:38::28:2                     # doh1.b-cdn.net
+2001:558:fd00:ca::c                     # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -72,15 +73,15 @@
 2001:9e8:4003:91be:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
-2001:b011:d000:fcfe:211:32ff:fe79:26cd  # ihctw.synology.me
+2001:b011:d000:b039:211:32ff:fe79:26cd  # ihctw.synology.me
 2001:bc8:255e:100::1                    # dns.novg.net
 2001:bc8:255e:200::1                    # dns.novg.net
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2001:df7:5300:3::4fe                    # dns.syaifullah.com
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:f8:97ff:4d8:f2b0:14ff:feb5:d1f4    # ueni.dyndns.org
@@ -98,7 +99,7 @@
 2401:c080:1400:522d:5400:4ff:fe09:61b9  # doh.dscloud.me
 2402:f000:1:416:101:6:6:6               # dns.tuna.tsinghua.edu.cn
 2403:2c80::26                           # hk-hkg.doh.sb
-2403:3a00:107:29:133:167:212:25         # jcdns.fun
+2403:3a00:107:29:133:167:212:25         # lion.yazilimatolye.com
 2403:3a00:201:17:112:78:125:221         # himedns.com
 2403:3a00:201:1c:49:212:198:36          # axaxa.fun
 2403:fbc0:1000::babe                    # jp-nrt.doh.sb
@@ -139,7 +140,6 @@
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
 2602:ffbb:100:4::2                      # doh.dns.sb
 2603:c020:4000:3d34:6160:20db:353b:24d3 # o.rsaikat.com
-2603:c020:4002:be00:780d:ac99:b43f:299a # dns.stevenz.net
 2603:c020:5:3566:beef:beef:beef:beef    # dns.ofdoom.net
 2603:c021:c001:31fa:780:b000:0:415      # ibuki.cgnat.net
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
@@ -156,13 +156,12 @@
 2604:a880:800:10::1c1e:1001             # ns.00dani.me
 2604:a880:cad:d0::924d:9001             # ag.ff0x.ca
 2605:380:56:6::1                        # chromium.dns.nextdns.io
-2605:6400:10:2f:97e1:7e25:76ed:d121     # dns.stevenz.net
 2605:6400:10:80e::1                     # ny1.nixnet.xyz
+2605:6400:20:ac3:ede2:62ba:7f8d:db69    # dns.stevenz.net
 2605:6400:20:e6d::1                     # lv1.nixnet.xyz
 2605:6400:30:f881::1                    # lux1.nixnet.xyz
 2605:aa80:1:1688::1                     # ny.teradns.org
 2606:1a40::11                           # freedns.controld.com
-2606:4700:130:436c:6f75:6466:6c61:7265  # dns.unerror.network
 2606:4700:20::681a:cf0                  # doh-de.blahdns.com
 2606:4700:20::681a:df0                  # doh-de.blahdns.com
 2606:4700:20::ac43:4585                 # doh-de.blahdns.com
@@ -170,6 +169,7 @@
 2606:4700:3030::6815:2001               # blitz.ahadns.com
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
+2606:4700:3030::6815:2c68               # dns.unerror.network
 2606:4700:3030::6815:3001               # blitz.ahadns.com
 2606:4700:3030::6815:4001               # blitz.ahadns.com
 2606:4700:3030::6815:5001               # blitz.ahadns.com
@@ -200,6 +200,7 @@
 2606:4700:3033::6815:48eb               # dns.joaofidelix.com.br
 2606:4700:3033::ac43:9522               # gztech.me
 2606:4700:3033::ac43:a495               # doh.tiarap.org
+2606:4700:3033::ac43:c6b9               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
 2606:4700:3034::ac43:8ba4               # commons.host
 2606:4700:3034::ac43:8d85               # virga.pp.ua
@@ -359,9 +360,12 @@
 2620:149:9cb:0:17:132:89:16             # doh.dns.apple.com.v.aaplimg.com
 2620:149:9cc::11                        # doh.dns.apple.com.v.aaplimg.com
 2620:149:9cc::12                        # doh.dns.apple.com.v.aaplimg.com
+2620:149:9cc::13                        # doh.dns.apple.com.v.aaplimg.com
 2620:149:9cc::14                        # doh.dns.apple.com.v.aaplimg.com
 2620:149:9cc::15                        # doh.dns.apple.com
 2620:149:9cc::16                        # doh.dns.apple.com.v.aaplimg.com
+2620:149:9cc::17                        # doh.dns.apple.com.v.aaplimg.com
+2620:149:9cc::18                        # doh.dns.apple.com
 2620:149:a00:3000::1c2                  # doh.dns.apple.com.v.aaplimg.com
 2620:149:a00:3000::b2                   # doh.dns.apple.com
 2620:149:a00:4000::1c2                  # doh.dns.apple.com
@@ -966,7 +970,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1047,7 +1051,7 @@
 2a01:e0a:b08:b6d0:aa42:a1ff:fe5e:16e1   # rayneau.fr
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.appliedprivacy.net
+2a02:1b8:10:234::2                      # doh.applied-privacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
 2a02:26f7:144:1:ace0:ac44::             # mask.icloud.com
@@ -1248,7 +1252,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0c:3d00:11:37::1                      # nsc.torgues.net
 2a0c:59c0:19::3                         # nl-ams.doh.sb
-2a0c:8902::53                           # dns.dnshome.de
+2a0c:8901::53                           # dns.dnshome.de
 2a0c:b641:204::1                        # dns.azsopro.net
 2a0c:b641:204::2                        # dns.azsopro.net
 2a0c:e300::1337                         # dns.aquilenet.fr
