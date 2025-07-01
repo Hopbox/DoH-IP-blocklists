@@ -42,6 +42,7 @@ dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
+dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
@@ -146,6 +147,7 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
