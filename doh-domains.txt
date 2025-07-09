@@ -429,8 +429,6 @@ lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
 lion.yazilimatolye.com
-lux1.nixnet.xyz
-lv1.nixnet.xyz
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de
@@ -465,7 +463,6 @@ ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 ny.teradns.org
-ny1.nixnet.xyz
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
