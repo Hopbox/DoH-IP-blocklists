@@ -73,7 +73,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jucker.engineering
-dns.lightmaster.pw
 dns.lsho.top
 dns.melalandia.tk
 dns.mipauns.com
@@ -155,7 +154,6 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lux1.nixnet.xyz
