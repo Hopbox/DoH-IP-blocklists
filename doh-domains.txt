@@ -151,6 +151,7 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
+dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
