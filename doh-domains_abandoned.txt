@@ -147,7 +147,6 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -160,6 +159,7 @@ kaitain.restena.lu
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
+msr177.com
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
