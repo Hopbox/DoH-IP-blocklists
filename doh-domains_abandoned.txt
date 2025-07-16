@@ -159,7 +159,6 @@ kaitain.restena.lu
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
-msr177.com
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
