@@ -71,6 +71,7 @@ dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
+dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.lsho.top
 dns.melalandia.tk
