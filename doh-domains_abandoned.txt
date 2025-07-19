@@ -154,6 +154,7 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kswro.web.id
 lux1.nixnet.xyz
@@ -183,6 +184,7 @@ thanos.pleumkungz.com
 tk31z.com
 tlz.asia
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org

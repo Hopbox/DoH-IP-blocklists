@@ -415,7 +415,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
@@ -549,7 +548,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
 ueni.dyndns.org
