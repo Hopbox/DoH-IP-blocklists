@@ -58,6 +58,7 @@ dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgy.network
 dns.edison42.dev
 dns.ellichua.com
 dns.emeraldonion.org
@@ -179,6 +180,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uk.adhole.org
