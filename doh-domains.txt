@@ -140,6 +140,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
@@ -263,6 +264,7 @@ dns9.quad9.net
 dnscache.e-utp.net
 dnsforge.de
 dnslow.me
+dnsnl.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me
@@ -382,6 +384,7 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
@@ -544,6 +547,7 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw

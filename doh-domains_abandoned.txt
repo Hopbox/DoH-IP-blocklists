@@ -57,7 +57,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.ellichua.com
@@ -105,7 +104,6 @@ dns8.org
 dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
@@ -145,7 +143,6 @@ edns.233py.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
-gclouddns.com
 groupy.ga
 hydroxlab.ru.com
 i.233py.com
@@ -181,7 +178,6 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tlz.asia
 tundranet.hec.to
 tx.teradns.org
