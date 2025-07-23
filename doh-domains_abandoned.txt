@@ -180,7 +180,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uk.adhole.org
