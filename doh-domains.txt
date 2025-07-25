@@ -570,6 +570,7 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
+wantaquddin.com
 www.c-dns.com
 www.dnsadguard.co.uk
 www.jabber-germany.de
@@ -579,6 +580,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
