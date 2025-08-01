@@ -145,7 +145,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
@@ -154,9 +153,7 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
