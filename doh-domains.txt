@@ -311,7 +311,6 @@ doh.funtopia.tv
 doh.futa.gg
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
-doh.infotek.net.id
 doh.iucc.ac.il
 doh.jeroenhd.nl
 doh.killtw.im
@@ -417,7 +416,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
