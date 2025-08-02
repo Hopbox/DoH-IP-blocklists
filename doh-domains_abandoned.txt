@@ -154,7 +154,6 @@ irre.li
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
