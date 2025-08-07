@@ -86,6 +86,7 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
+dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -241,6 +242,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vmath.my.id
 dns.warpnine.de
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -442,7 +444,6 @@ meganerd.nl
 mozilla.cloudflare-dns.com
 msr177.com
 muli.stusta.mhn.de
-n0.eu
 n5.lsasss.com
 nat64.tuxis.nl
 nl-ams.doh.sb
@@ -458,8 +459,6 @@ ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
 ns3.bit-trail.nl
 ns3.com
-ns3.cx
-ns3.link
 ns3.opennameserver.org
 ns4.opennameserver.org
 nsc.torgues.net
