@@ -67,6 +67,7 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.indust.me
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
@@ -144,7 +145,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com

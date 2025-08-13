@@ -168,7 +168,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.imaicool.com
-dns.indust.me
 dns.islandnet.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
@@ -388,6 +387,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
