@@ -222,7 +222,6 @@ dns.slinkyman.net
 dns.spil.co.id
 dns.startupstack.tech
 dns.stevenz.net
-dns.stvsk.ml
 dns.surfshark.com
 dns.switch.ch
 dns.syaifullah.com
