@@ -185,6 +185,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tlz.asia
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
