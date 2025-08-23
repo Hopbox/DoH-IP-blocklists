@@ -408,6 +408,7 @@ ipoac.nl
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
+jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
