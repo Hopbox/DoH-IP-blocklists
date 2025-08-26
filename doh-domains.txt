@@ -386,7 +386,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
@@ -408,7 +407,6 @@ ipoac.nl
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
-jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
