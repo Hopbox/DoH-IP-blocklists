@@ -146,6 +146,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
@@ -184,7 +185,6 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tlz.asia
 tundranet.hec.to
 tx.teradns.org
 uk.adhole.org
