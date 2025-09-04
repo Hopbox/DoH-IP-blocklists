@@ -70,7 +70,6 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -329,6 +328,7 @@ doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
+doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -546,7 +546,6 @@ tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
