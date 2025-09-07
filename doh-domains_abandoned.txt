@@ -50,7 +50,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.bw.i81.ru
 dns.cfiec.net
-dns.containerpi.com
 dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -81,6 +80,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
+dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -90,7 +90,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.theres.one
 dns.truong.fi
