@@ -80,7 +80,6 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
-dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
