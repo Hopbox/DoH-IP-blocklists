@@ -262,6 +262,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnscache.e-utp.net
+dnsenc.com
 dnsforge.de
 dnslow.me
 dnsnl.alekberg.net
@@ -388,6 +389,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com

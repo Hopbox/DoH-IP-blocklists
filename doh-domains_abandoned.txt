@@ -101,7 +101,6 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns8.org
-dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
