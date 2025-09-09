@@ -277,6 +277,7 @@ doh-de.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
+doh.233py.com
 doh.360.cn
 doh.42l.fr
 doh.applied-privacy.net
@@ -365,6 +366,7 @@ dukun.de
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
@@ -400,6 +402,7 @@ hole.elbschloss.xyz
 hshh.org
 httpdns-push.heytapmobile.com
 hydra.plan9-ns1.com
+i.233py.com
 i.passcloud.xyz
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -445,6 +448,7 @@ msr177.com
 muli.stusta.mhn.de
 n5.lsasss.com
 nat64.tuxis.nl
+ndns.233py.com
 nl-ams.doh.sb
 nl-ams2.doh.sb
 ns.00dani.me
@@ -520,6 +524,7 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
+sdns.233py.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 securedns.vendorvista.xyz
@@ -569,6 +574,7 @@ v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
 wantaquddin.com
+wdns.233py.com
 www.c-dns.com
 www.dnsadguard.co.uk
 www.jabber-germany.de

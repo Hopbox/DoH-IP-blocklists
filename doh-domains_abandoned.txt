@@ -89,7 +89,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.theres.one
 dns.truong.fi
@@ -110,7 +109,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh.233py.com
 doh.abmb.win
 doh.au.ahadns.net
 doh.boje8.me
@@ -139,14 +137,13 @@ doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 edgy-dns.com
-edns.233py.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
-i.233py.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 iris.woozeno.eu
@@ -158,7 +155,6 @@ kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 n0.eu
-ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
@@ -170,14 +166,12 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns.233py.com
 secure.onedns.cc
 sg.adhole.org
 surt.ml
@@ -192,6 +186,5 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
-wdns.233py.com
 www.elshad-adgh-dns.ru
 ychen.ga
