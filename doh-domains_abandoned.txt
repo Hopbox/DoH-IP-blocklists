@@ -89,6 +89,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
+dns.skrep.eu
 dns.stvsk.ml
 dns.theres.one
 dns.truong.fi
@@ -143,7 +144,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com
@@ -170,6 +170,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
