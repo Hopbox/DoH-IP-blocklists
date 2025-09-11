@@ -116,7 +116,6 @@ doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
-doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
@@ -142,6 +141,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
