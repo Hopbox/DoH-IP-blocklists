@@ -89,7 +89,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.theres.one
 dns.truong.fi
