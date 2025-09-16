@@ -10,6 +10,7 @@ adg.jnorton.us
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.avdkishore.dev
+adguard.bitteeinbyte.de
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
