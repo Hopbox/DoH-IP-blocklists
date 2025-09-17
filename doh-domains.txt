@@ -189,7 +189,6 @@ dns.meeo.win
 dns.mikeliu.org
 dns.molinero.dev
 dns.moonssif.com
-dns.msxnet.ru
 dns.murgi.de
 dns.muxinghe.cn
 dns.mzrme.cn
@@ -392,7 +391,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
