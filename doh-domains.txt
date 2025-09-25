@@ -166,7 +166,6 @@ dns.hanmey.de
 dns.hinet.net
 dns.hostux.net
 dns.hotta.page
-dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.imaicool.com
