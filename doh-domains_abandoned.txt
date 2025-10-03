@@ -79,6 +79,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
 dns.ndo.dev
+dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
 dns.onp.cloud
@@ -141,7 +142,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
