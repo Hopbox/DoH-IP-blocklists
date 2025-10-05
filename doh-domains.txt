@@ -206,7 +206,6 @@ dns.panszelescik.pl
 dns.porteii.com
 dns.pub
 dns.quad9.net
-dns.reckoningslug.name
 dns.rin.sh
 dns.ronc.ru
 dns.rotunneling.net
@@ -389,7 +388,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
