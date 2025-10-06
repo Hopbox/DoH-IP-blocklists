@@ -50,6 +50,7 @@ dns.benpro.fr
 dns.bw.i81.ru
 dns.cfiec.net
 dns.cybershell.xyz
+dns.d96.info
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
@@ -144,6 +145,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
