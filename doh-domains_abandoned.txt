@@ -64,7 +64,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
-dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.indust.me
 dns.infosec.xyz
@@ -145,6 +144,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
