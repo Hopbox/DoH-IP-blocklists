@@ -161,7 +161,6 @@ dns.google.com
 dns.grqu.de
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
-dns.hakutakucn.com
 dns.hanmey.de
 dns.hinet.net
 dns.hostux.net
@@ -389,6 +388,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
