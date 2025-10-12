@@ -71,7 +71,6 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -286,7 +285,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.datahata.by
@@ -299,9 +297,6 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
 doh.dscloud.me
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -324,11 +319,9 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
-doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -346,7 +339,6 @@ doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
 doh.us.dnswarden.com
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -388,7 +380,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
