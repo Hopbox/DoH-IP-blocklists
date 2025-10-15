@@ -132,6 +132,7 @@ doh.infotek.net.id
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
+doh.micronets.in
 doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk

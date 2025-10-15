@@ -314,7 +314,6 @@ doh.li
 doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
-doh.micronets.in
 doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
