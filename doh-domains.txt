@@ -320,7 +320,6 @@ doh.nl.ahadns.net
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
-doh.port53.dk
 doh.powerdns.org
 doh.pub
 doh.pyry.me
