@@ -141,7 +141,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
