@@ -209,7 +209,6 @@ dns.rin.sh
 dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
-dns.scapetical.com
 dns.sellan.fr
 dns.shecan.ir
 dns.shimul.me
@@ -297,7 +296,6 @@ doh.dns.sb
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
-doh.dscloud.me
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net

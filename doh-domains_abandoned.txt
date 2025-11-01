@@ -91,6 +91,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
@@ -120,6 +121,7 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
+doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
@@ -179,7 +181,6 @@ odoh-target.alekberg.net
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
