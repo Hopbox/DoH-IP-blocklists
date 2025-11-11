@@ -171,6 +171,7 @@ kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
