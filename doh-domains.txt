@@ -83,6 +83,7 @@ dns-family.adguard.com
 dns-nosec.quad9.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
