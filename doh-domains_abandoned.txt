@@ -74,7 +74,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
-dns.lsho.top
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
@@ -105,7 +104,6 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns8.org
-dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
