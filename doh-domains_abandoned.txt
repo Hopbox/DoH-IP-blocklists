@@ -49,7 +49,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.bw.i81.ru
 dns.cfiec.net
-dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
 dns.dns-over-https.com
@@ -155,7 +154,6 @@ example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -182,7 +180,6 @@ odoh-target.alekberg.net
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
