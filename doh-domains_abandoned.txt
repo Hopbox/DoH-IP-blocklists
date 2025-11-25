@@ -25,7 +25,6 @@ awan.ftp.sh
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
-blockerads.multimediaconcept.fr
 buc-m2.illmods.com
 canadianshield.cira.ca
 chewbacca.meganerd.nl
