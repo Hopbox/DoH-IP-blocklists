@@ -104,7 +104,6 @@ dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 dns.aquilenet.fr
 dns.artikel10.org
-dns.azsopro.net
 dns.b33.space
 dns.b612.me
 dns.bebasid.com

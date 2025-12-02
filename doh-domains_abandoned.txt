@@ -45,6 +45,7 @@ dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.azsopro.net
 dns.bayas.dev
 dns.benpro.fr
 dns.bw.i81.ru
