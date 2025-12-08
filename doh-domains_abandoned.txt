@@ -91,7 +91,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
-dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one

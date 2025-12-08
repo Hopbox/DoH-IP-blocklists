@@ -209,6 +209,7 @@ dns.rin.sh
 dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
+dns.scapetical.com
 dns.sellan.fr
 dns.shecan.ir
 dns.shimul.me
