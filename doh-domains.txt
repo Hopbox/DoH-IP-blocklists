@@ -71,6 +71,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -412,7 +413,6 @@ keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 kilabit.info
-korzhov.dev
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
