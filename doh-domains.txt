@@ -148,7 +148,6 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
 dns.fancyorg.at
 dns.filipccz.eu
-dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
 dns.futuredns.me
