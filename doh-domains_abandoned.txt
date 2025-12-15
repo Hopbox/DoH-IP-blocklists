@@ -151,7 +151,6 @@ doh.velyn.my.id
 doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
-dohtrial.att.net
 dos.bytetel.net
 eropa.dnscepat.id
 example.doh.blockerdns.com
