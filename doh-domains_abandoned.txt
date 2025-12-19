@@ -152,6 +152,7 @@ doh2.abmb.win
 dos.bytetel.net
 eropa.dnscepat.id
 example.doh.blockerdns.com
+family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
 hydroxlab.ru.com
@@ -162,6 +163,7 @@ irre.li
 jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
+kids.5ososea.com
 korzhov.dev
 kswro.web.id
 lux1.nixnet.xyz
