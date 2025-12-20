@@ -56,6 +56,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.ellichua.com
@@ -181,7 +182,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
