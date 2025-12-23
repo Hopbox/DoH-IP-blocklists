@@ -95,7 +95,6 @@ dns.reckoningslug.name
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
-dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
