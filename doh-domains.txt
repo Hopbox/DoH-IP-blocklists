@@ -186,6 +186,7 @@ dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
 dns.molinero.dev
+dns.moog.sh
 dns.moonssif.com
 dns.murgi.de
 dns.muxinghe.cn

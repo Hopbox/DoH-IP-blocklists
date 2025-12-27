@@ -77,7 +77,6 @@ dns.jucker.engineering
 dns.lsho.top
 dns.melalandia.tk
 dns.mipauns.com
-dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
 dns.ndo.dev
@@ -155,7 +154,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
