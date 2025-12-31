@@ -141,6 +141,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
@@ -466,7 +467,6 @@ opennic2.i2pd.xyz
 oraclejp2.chungyu.com
 orau.lz0724.com
 ordns.he.net
-osefcorp.duckdns.org
 pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
