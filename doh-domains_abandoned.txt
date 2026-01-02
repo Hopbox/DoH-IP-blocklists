@@ -161,6 +161,7 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 korzhov.dev
@@ -182,6 +183,7 @@ odoh-target.alekberg.net
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -191,6 +193,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
