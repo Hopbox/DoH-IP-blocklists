@@ -62,7 +62,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
-dns.flatuslifir.is
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
