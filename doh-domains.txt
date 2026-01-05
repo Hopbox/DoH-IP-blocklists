@@ -387,7 +387,6 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
-home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 hydra.plan9-ns1.com
@@ -542,7 +541,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 typaza.com
 ueni.dyndns.org
