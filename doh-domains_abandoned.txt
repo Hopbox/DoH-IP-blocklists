@@ -153,6 +153,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -181,6 +182,7 @@ odoh-target.alekberg.net
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -189,7 +191,9 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
