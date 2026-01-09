@@ -1,7 +1,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
-a.passcloud.xyz
 abel.waringer-atg.de
 adblock.doh.mullvad.net
 adblock.mydns.network
@@ -392,7 +391,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 hydra.plan9-ns1.com
 i.233py.com
-i.passcloud.xyz
 ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me

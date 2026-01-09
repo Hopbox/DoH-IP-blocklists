@@ -1,5 +1,6 @@
 1.xhr0no.my
 a-bld.sys-adm.in
+a.passcloud.xyz
 aattwwss.duckdns.org
 ad1.heronet.nl
 adblock.borjalopez.eu
@@ -147,7 +148,6 @@ doh.velyn.my.id
 doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
-dohtrial.att.net
 dos.bytetel.net
 eropa.dnscepat.id
 example.doh.blockerdns.com
@@ -156,6 +156,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+i.passcloud.xyz
 id.terra.my.id
 iris.woozeno.eu
 irre.li
