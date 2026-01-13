@@ -95,6 +95,7 @@ dns.reckoningslug.name
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
+dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -155,6 +156,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz

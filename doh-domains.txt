@@ -227,7 +227,6 @@ dns.telekom.de
 dns.tesem.dog
 dns.therifleman.name
 dns.tls-data.de
-dns.truong.fi
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.uk-london-1.oraclecloud.com
@@ -377,7 +376,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
