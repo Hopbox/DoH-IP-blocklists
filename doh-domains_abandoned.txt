@@ -101,6 +101,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns0.eu
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -156,7 +157,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -167,6 +167,7 @@ jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kswro.web.id
 lux1.nixnet.xyz
@@ -183,6 +184,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
@@ -206,3 +208,4 @@ vm.mytm.cc
 www.elshad-adgh-dns.ru
 xray.krnl.eu
 ychen.ga
+zero.dns0.eu
