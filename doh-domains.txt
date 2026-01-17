@@ -210,6 +210,7 @@ dns.rotunneling.net
 dns.rubyfish.cn
 dns.scapetical.com
 dns.sellan.fr
+dns.shecan.ir
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
@@ -423,7 +424,6 @@ mask.icloud.com
 masters-of-cloud.de
 meganerd.nl
 mozilla.cloudflare-dns.com
-msr177.com
 muli.stusta.mhn.de
 n5.lsasss.com
 nat64.tuxis.nl
@@ -472,6 +472,7 @@ pihole4.hoerli.net
 pluton.plan9-dns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
+pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
