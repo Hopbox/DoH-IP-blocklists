@@ -156,7 +156,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
