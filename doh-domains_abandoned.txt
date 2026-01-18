@@ -92,6 +92,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
+dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
@@ -156,6 +157,7 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -189,6 +191,7 @@ open.dns0.eu
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
