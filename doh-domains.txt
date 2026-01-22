@@ -140,6 +140,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
@@ -239,6 +240,7 @@ dns.vmath.my.id
 dns.warpnine.de
 dns.zfsystem.tech
 dns.zzuhacker.cn
+dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.dnscrypt.ca

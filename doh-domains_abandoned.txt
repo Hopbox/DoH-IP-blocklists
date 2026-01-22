@@ -57,7 +57,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.ellichua.com
@@ -101,7 +100,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
-dns0.eu
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -165,6 +163,7 @@ id.terra.my.id
 iris.woozeno.eu
 irre.li
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
