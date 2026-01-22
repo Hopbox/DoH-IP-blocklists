@@ -57,6 +57,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.ellichua.com
@@ -91,7 +92,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.rafn.is
 dns.reckoningslug.name
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
@@ -156,7 +156,6 @@ eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 gustamadh.dynv6.net
 hydroxlab.ru.com
@@ -190,7 +189,6 @@ open.dns0.eu
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org

@@ -140,7 +140,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software
@@ -365,6 +364,7 @@ fr-dns1.bancuh.com
 fr1.dnswarden.com
 fra1.eyecay.xyz
 free.bravedns.com
+free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
