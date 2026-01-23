@@ -155,7 +155,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -167,7 +166,6 @@ kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -185,7 +183,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
-osefcorp.duckdns.org
+pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
@@ -198,7 +196,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
