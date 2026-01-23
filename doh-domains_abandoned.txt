@@ -163,11 +163,11 @@ id.terra.my.id
 iris.woozeno.eu
 irre.li
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
+krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -185,6 +185,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
+osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
@@ -197,6 +198,7 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uk.adhole.org
 uk.teradns.org
