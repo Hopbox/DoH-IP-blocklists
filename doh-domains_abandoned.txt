@@ -144,6 +144,7 @@ doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
 doh.southam.family
+doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -209,3 +210,4 @@ www.elshad-adgh-dns.ru
 xray.krnl.eu
 ychen.ga
 zero.dns0.eu
+zougloub.eu

@@ -332,7 +332,6 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
-doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -569,6 +568,5 @@ yarp.lefolgoc.net
 ychen.cf
 your-dns.run
 yovbak.com
-zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
