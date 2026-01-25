@@ -156,6 +156,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -210,4 +211,3 @@ www.elshad-adgh-dns.ru
 xray.krnl.eu
 ychen.ga
 zero.dns0.eu
-zougloub.eu

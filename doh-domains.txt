@@ -568,5 +568,6 @@ yarp.lefolgoc.net
 ychen.cf
 your-dns.run
 yovbak.com
+zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
