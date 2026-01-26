@@ -143,7 +143,6 @@ doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
 doh.southam.family
-doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -155,6 +154,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -196,6 +196,7 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uk.adhole.org
