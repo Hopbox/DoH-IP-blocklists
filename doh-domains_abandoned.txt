@@ -184,7 +184,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
-pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
@@ -196,7 +195,6 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uk.adhole.org
