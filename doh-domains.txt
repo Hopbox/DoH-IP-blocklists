@@ -166,7 +166,6 @@ dns.hostux.net
 dns.hotta.page
 dns.iamninja.ru
 dns.ihaveacloud.com
-dns.ikataruto.com
 dns.imaicool.com
 dns.islandnet.com
 dns.justinnetworkingsolutions.com
