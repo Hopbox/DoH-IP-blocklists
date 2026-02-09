@@ -67,7 +67,6 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
-dns.ikataruto.com
 dns.indust.me
 dns.infosec.xyz
 dns.invisv.com
