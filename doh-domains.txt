@@ -143,6 +143,7 @@ dns.dnswarden.com
 dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
+dns.edison42.dev
 dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
@@ -167,7 +168,6 @@ dns.hotta.page
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
-dns.imaicool.com
 dns.islandnet.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
