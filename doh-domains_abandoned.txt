@@ -89,7 +89,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.rafn.is
 dns.reckoningslug.name
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
