@@ -158,6 +158,7 @@ i.passcloud.xyz
 id.terra.my.id
 iris.woozeno.eu
 irre.li
+jit.ddns.net
 jp.68360612.xyz
 kaitain.restena.lu
 kids.5ososea.com
