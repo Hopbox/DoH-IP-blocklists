@@ -161,6 +161,7 @@ dns.grqu.de
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hinet.net
 dns.hostux.net
 dns.hotta.page
@@ -181,6 +182,7 @@ dns.kosan.moe
 dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.linkr.ninja
+dns.lsho.top
 dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
