@@ -409,6 +409,7 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 keithchung.hopto.org
 kilabit.info
 kr-sel.doh.sb
@@ -537,6 +538,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb

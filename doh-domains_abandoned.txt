@@ -160,7 +160,6 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -195,7 +194,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uk.adhole.org
