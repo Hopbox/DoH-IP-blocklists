@@ -31,7 +31,6 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dgca.myds.me
 dns-asia.wugui.zone
@@ -67,7 +66,6 @@ dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
-dns.imaicool.com
 dns.indust.me
 dns.infosec.xyz
 dns.invisv.com
@@ -166,7 +164,6 @@ kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
