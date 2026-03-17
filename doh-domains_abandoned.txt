@@ -66,6 +66,7 @@ dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
+dns.imaicool.com
 dns.indust.me
 dns.infosec.xyz
 dns.invisv.com
@@ -171,9 +172,7 @@ n0.eu
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
-ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
-ns2.recursive.dnsbycomodo.com
 ns3.cx
 ns3.link
 ny1.nixnet.xyz
