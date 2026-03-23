@@ -58,6 +58,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -66,6 +67,7 @@ dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
+dns.imaicool.com
 dns.indust.me
 dns.infosec.xyz
 dns.invisv.com
