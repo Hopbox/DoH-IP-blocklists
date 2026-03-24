@@ -139,6 +139,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -167,7 +168,6 @@ dns.hotta.page
 dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
-dns.imaicool.com
 dns.islandnet.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
@@ -402,6 +402,7 @@ ipoac.nl
 jabber-germany.de
 jackyes.ovh
 jcdns.fun
+jit.ddns.net
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
