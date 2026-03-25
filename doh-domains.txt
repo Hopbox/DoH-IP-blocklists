@@ -510,7 +510,6 @@ sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
 sdns.233py.com
-secure-dns.dns-ga.de
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
