@@ -11,6 +11,7 @@ adguard.aa4.co.uk
 adguard.avdkishore.dev
 adguard.bitteeinbyte.de
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
