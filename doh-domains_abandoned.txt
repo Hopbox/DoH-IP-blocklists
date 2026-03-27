@@ -163,7 +163,6 @@ kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
