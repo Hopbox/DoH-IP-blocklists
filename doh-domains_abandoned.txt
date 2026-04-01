@@ -9,6 +9,7 @@ adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.ambiya.net
+adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
 adguard.dessoi.cloud
