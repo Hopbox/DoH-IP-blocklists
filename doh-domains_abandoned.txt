@@ -12,6 +12,7 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.k0rap.com
@@ -150,6 +151,7 @@ dos.bytetel.net
 draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
