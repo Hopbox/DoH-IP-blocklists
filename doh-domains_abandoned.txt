@@ -63,7 +63,6 @@ dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
-dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -148,9 +147,9 @@ doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
+draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
