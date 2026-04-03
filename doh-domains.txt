@@ -10,6 +10,7 @@ adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.bitteeinbyte.de
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
@@ -349,6 +350,7 @@ dohdot.coxlab.net
 dohtrial.att.net
 dotdns.cryptroute.com
 doth.huque.com
+draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 easyhandshake.com
@@ -385,7 +387,6 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
-home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 hydra.plan9-ns1.com
@@ -408,13 +409,11 @@ jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
-keithchung.hopto.org
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -535,7 +534,6 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tx.teradns.org
 typaza.com
 ueni.dyndns.org
