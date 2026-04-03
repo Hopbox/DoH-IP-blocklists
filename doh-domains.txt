@@ -360,6 +360,7 @@ edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
+externalmobiel.lekdijk.online
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
@@ -387,6 +388,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hole.elbschloss.xyz
+home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
 hydra.plan9-ns1.com
@@ -414,6 +416,7 @@ kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -534,6 +537,7 @@ tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tx.teradns.org
 typaza.com
 ueni.dyndns.org
