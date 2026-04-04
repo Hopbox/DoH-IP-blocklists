@@ -350,6 +350,7 @@ dohdot.coxlab.net
 dohtrial.att.net
 dotdns.cryptroute.com
 doth.huque.com
+draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 easyhandshake.com
@@ -359,7 +360,6 @@ edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
-externalmobiel.lekdijk.online
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com

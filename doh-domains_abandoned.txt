@@ -147,7 +147,6 @@ doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
-draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 externalmobiel.lekdijk.online
