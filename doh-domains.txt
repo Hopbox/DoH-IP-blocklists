@@ -189,7 +189,6 @@ dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
 dns.murgi.de
-dns.muxinghe.cn
 dns.mzrme.cn
 dns.nas-server.ru
 dns.neubsi.at

@@ -79,6 +79,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.muxinghe.cn
 dns.ndo.dev
 dns.nhtsky.com
 dns.nixnet.xyz
