@@ -187,6 +187,7 @@ osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -196,7 +197,9 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 uk.adhole.org
 us-central.adhole.org
