@@ -197,7 +197,6 @@ surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 uk.adhole.org
 us-central.adhole.org
