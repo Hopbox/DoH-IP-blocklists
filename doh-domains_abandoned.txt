@@ -161,13 +161,11 @@ id.terra.my.id
 iris.woozeno.eu
 irre.li
 jp.68360612.xyz
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
-krtekvpn.duckdns.org
 kswro.web.id
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -198,9 +196,7 @@ sg.adhole.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 uk.adhole.org
 us-central.adhole.org

@@ -408,11 +408,13 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -532,6 +534,8 @@ tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
+tuandns.duckdns.org
+tungdnsne.duckdns.org
 tx.teradns.org
 typaza.com
 ueni.dyndns.org
