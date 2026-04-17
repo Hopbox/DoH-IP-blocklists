@@ -32,7 +32,6 @@ canadianshield.cira.ca
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dgca.myds.me
 dns-asia.wugui.zone
@@ -69,7 +68,6 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.indust.me
-dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
@@ -161,6 +159,7 @@ id.terra.my.id
 iris.woozeno.eu
 irre.li
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com

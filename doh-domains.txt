@@ -69,6 +69,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -167,6 +168,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.imaicool.com
+dns.infosec.xyz
 dns.islandnet.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
@@ -408,7 +410,6 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
