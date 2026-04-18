@@ -410,6 +410,7 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
