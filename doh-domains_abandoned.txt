@@ -30,6 +30,7 @@ blitz.ahadns.com
 buc-m2.illmods.com
 canadianshield.cira.ca
 chewbacca.meganerd.nl
+clientdns3.softcom.net
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org

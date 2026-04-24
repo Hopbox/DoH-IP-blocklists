@@ -58,7 +58,6 @@ ca02.dns4me.net
 chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
-clientdns3.softcom.net
 cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
