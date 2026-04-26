@@ -539,7 +539,6 @@ tx.teradns.org
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
