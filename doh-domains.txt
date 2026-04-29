@@ -213,7 +213,6 @@ dns.rubyfish.cn
 dns.scapetical.com
 dns.sellan.fr
 dns.shecan.ir
-dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
@@ -379,6 +378,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
