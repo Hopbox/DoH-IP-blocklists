@@ -71,7 +71,6 @@ darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
 de-fra.doh.sb
-de.teradns.org
 dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-family.adguard.com
@@ -376,6 +375,7 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
@@ -445,7 +445,6 @@ ns3.opennameserver.org
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
-ny.teradns.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
@@ -508,7 +507,6 @@ securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.teradns.org
 sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
@@ -532,11 +530,9 @@ tor.vasi.li
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-tx.teradns.org
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
