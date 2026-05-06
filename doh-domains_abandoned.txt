@@ -14,6 +14,7 @@ adguard.beliefanx.cn
 adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.ender.fr
 adguard.k0rap.com
 adguard.nielsvoorn.nl
 adguardh.ga

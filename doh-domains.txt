@@ -12,7 +12,6 @@ adguard.bitteeinbyte.de
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
-adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
@@ -377,7 +376,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
