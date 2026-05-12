@@ -55,6 +55,7 @@ dns.azsopro.net
 dns.bayas.dev
 dns.benpro.fr
 dns.bw.i81.ru
+dns.ceai.com.tw
 dns.cfiec.net
 dns.containerpi.com
 dns.cybershell.xyz
@@ -158,6 +159,7 @@ externalmobiel.lekdijk.online
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz

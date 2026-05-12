@@ -109,7 +109,6 @@ dns.bobstrecansky.com
 dns.bofh.in
 dns.brahma.world
 dns.carson-family.com
-dns.ceai.com.tw
 dns.chenu.ch
 dns.chromeina.top
 dns.circl.lu
