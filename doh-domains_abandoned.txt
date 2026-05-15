@@ -72,7 +72,6 @@ dns.faze.dev
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
-dns.haoxuan.xyz
 dns.indust.me
 dns.invisv.com
 dns.ipv6dns.com
@@ -122,6 +121,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
+doh.dnslify.com
 doh.doh.my.id
 doh.dscloud.me
 doh.eastas.pi-dns.com

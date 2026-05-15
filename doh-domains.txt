@@ -155,6 +155,7 @@ dns.grqu.de
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hinet.net
 dns.hostux.net
 dns.hotta.page
@@ -293,7 +294,6 @@ doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns4all.eu
 doh.dnscrypt.uk
-doh.dnslify.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -371,7 +371,6 @@ gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
