@@ -64,6 +64,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -89,7 +90,6 @@ dns.nixnet.xyz
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.rafn.is
@@ -161,7 +161,6 @@ externalmobiel.lekdijk.online
 family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
