@@ -24,6 +24,7 @@ anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
 awan.ftp.sh
+axaxa.fun
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
@@ -64,7 +65,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -203,13 +203,13 @@ sby-doh.limotelu.org
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uk.adhole.org

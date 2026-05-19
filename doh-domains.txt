@@ -39,7 +39,6 @@ at.pzhg.me
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
@@ -133,6 +132,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -497,7 +497,6 @@ sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
 sdns.233py.com
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
