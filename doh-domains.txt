@@ -392,7 +392,6 @@ ines.zfn.uni-bremen.de
 ipoac.nl
 jabber-germany.de
 jackyes.ovh
-jcdns.fun
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -410,7 +409,6 @@ krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de
