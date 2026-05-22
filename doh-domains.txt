@@ -65,6 +65,7 @@ cube.neubsi.at
 cubedns.com
 d.apemlegit.my.id
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-dus.doh.sb
@@ -335,6 +336,7 @@ doh.us.dnswarden.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.gslb2.xfinity.com

@@ -36,7 +36,6 @@ chewbacca.meganerd.nl
 clientdns3.softcom.net
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 de.teradns.org
 dgca.myds.me
@@ -152,7 +151,6 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
-doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 draco.plan9-ns2.com
