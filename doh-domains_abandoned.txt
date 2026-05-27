@@ -94,6 +94,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.rafn.is
 dns.reckoningslug.name
+dns.scapetical.com
 dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
