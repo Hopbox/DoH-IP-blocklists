@@ -223,5 +223,6 @@ us-ny-alula.heliumcloud.cc
 vm.mytm.cc
 www.elshad-adgh-dns.ru
 xray.krnl.eu
+yarp.lefolgoc.net
 ychen.ga
 zero.dns0.eu
