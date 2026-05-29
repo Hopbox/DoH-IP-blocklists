@@ -160,7 +160,6 @@ example.doh.blockerdns.com
 externalmobiel.lekdijk.online
 family.5ososea.com
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 himedns.com
 hydroxlab.ru.com
