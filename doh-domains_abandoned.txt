@@ -162,6 +162,7 @@ family.5ososea.com
 fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
+hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -208,6 +209,7 @@ secure.onedns.cc
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.teradns.org
+sg.yepdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com

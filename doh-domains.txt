@@ -381,7 +381,6 @@ hole.elbschloss.xyz
 home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
-hydra.plan9-ns1.com
 i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -498,7 +497,6 @@ securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
 sg-sin.doh.sb
-sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
