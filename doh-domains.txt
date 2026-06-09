@@ -370,7 +370,6 @@ gateway.fomichev.cloud
 gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-guard.sntrk.ru
 gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
@@ -509,7 +508,6 @@ spacedns.org
 steering.nextdns.io
 syd.adfilter.net
 testaghome.meshkov.info
-thanos.pleumkungz.com
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
