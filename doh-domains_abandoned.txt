@@ -1,5 +1,4 @@
 1.xhr0no.my
-a-bld.sys-adm.in
 a.passcloud.xyz
 aattwwss.duckdns.org
 ad1.heronet.nl
@@ -27,7 +26,6 @@ awan.ftp.sh
 axaxa.fun
 bcandrade.ml
 berd.moe
-bld.sys-adm.in
 blitz.ahadns.com
 br.servers.legat.ml
 buc-m2.illmods.com

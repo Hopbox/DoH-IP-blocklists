@@ -1,6 +1,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
+a-bld.sys-adm.in
 abel.waringer-atg.de
 adblock.doh.mullvad.net
 adblock.mydns.network
@@ -42,6 +43,7 @@ au02.dns4me.net
 basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
+bld.sys-adm.in
 blitz-setup.ahadns.com
 block.abstergo.it
 blockerads.multimediaconcept.fr
