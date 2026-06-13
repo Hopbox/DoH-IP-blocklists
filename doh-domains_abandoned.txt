@@ -225,6 +225,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
+www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xray.krnl.eu
 yarp.lefolgoc.net
