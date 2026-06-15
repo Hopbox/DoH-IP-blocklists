@@ -177,6 +177,7 @@ dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
+dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -351,6 +352,7 @@ edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
+externalmobiel.lekdijk.online
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
