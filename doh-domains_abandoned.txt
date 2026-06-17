@@ -79,6 +79,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
