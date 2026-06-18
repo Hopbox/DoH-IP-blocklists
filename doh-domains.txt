@@ -140,6 +140,7 @@ dns.elemental.software
 dns.eu-frankfurt-1.oraclecloud.com
 dns.extrawdw.net
 dns.fancyorg.at
+dns.faze.dev
 dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
@@ -359,7 +360,6 @@ family.cloudflare-dns.com
 firefox.dns.nextdns.io
 fr-dns1.bancuh.com
 fr1.dnswarden.com
-fra1.eyecay.xyz
 free.bravedns.com
 free.shecan.ir
 freedns.controld.com
