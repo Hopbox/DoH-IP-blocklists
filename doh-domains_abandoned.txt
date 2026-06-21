@@ -12,7 +12,6 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
@@ -79,6 +78,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
@@ -135,6 +135,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.iucc.ac.il
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in

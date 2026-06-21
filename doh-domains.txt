@@ -10,6 +10,7 @@ adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.bitteeinbyte.de
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.gbrossi.com.br
 adguard.haneulo.com
@@ -177,7 +178,6 @@ dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
-dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -300,7 +300,6 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
 doh.ibr.cs.tu-bs.de
-doh.iucc.ac.il
 doh.jeroenhd.nl
 doh.killtw.im
 doh.la.ahadns.net
