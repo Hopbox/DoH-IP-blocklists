@@ -78,6 +78,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
@@ -173,6 +174,7 @@ irre.li
 jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -201,6 +203,7 @@ osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
