@@ -39,6 +39,7 @@ at.pzhg.me
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 basic.bravedns.com
 basic.rethinkdns.com
 blackhole.myon.lu
@@ -196,7 +197,6 @@ dns.novg.net
 dns.npe.bz
 dns.nullgate.net
 dns.ofdoom.net
-dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.porteii.com
@@ -396,6 +396,7 @@ jp.tiar.app
 jp.tiarap.org
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
@@ -465,6 +466,7 @@ project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
 public.dns.iij.jp
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 query.hdns.io
@@ -490,6 +492,7 @@ sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
 sdns.233py.com
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
