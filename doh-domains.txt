@@ -179,7 +179,6 @@ dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
-dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -389,6 +388,7 @@ ines.zfn.uni-bremen.de
 ipoac.nl
 jabber-germany.de
 jackyes.ovh
+jcdns.fun
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
