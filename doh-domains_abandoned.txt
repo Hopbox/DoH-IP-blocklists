@@ -77,6 +77,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
@@ -154,7 +155,6 @@ doh.velyn.my.id
 doh.westus.pi-dns.com
 doh2.abmb.win
 dos.bytetel.net
-draco.plan9-ns2.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
