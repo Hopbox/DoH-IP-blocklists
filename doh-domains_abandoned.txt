@@ -77,6 +77,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
@@ -182,6 +183,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 msr177.com
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 ns1-doh.iriseden.fr
