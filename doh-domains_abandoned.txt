@@ -184,6 +184,7 @@ msr177.com
 n0.eu
 neatdns.ustclug.org
 nebula.tru.io
+nl-ams2.doh.sb
 ns1-doh.iriseden.fr
 ns2-doh.iriseden.fr
 ns3.cx
@@ -199,6 +200,7 @@ osefcorp.duckdns.org
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+privacydns.go6lab.si
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
