@@ -132,7 +132,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hottis.de
 doh.in.ahadns.net
-doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.kutu.my.id
