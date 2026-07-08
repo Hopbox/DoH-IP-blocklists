@@ -208,6 +208,7 @@ secure.onedns.cc
 sg.adhole.org
 sg.teradns.org
 sg.yepdns.com
+sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
