@@ -302,6 +302,7 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
 doh.ibr.cs.tu-bs.de
+doh.infotek.net.id
 doh.jeroenhd.nl
 doh.killtw.im
 doh.la.ahadns.net
