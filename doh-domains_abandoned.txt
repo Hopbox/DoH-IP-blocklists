@@ -160,6 +160,7 @@ fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
 himedns.com
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
