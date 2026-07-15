@@ -10,6 +10,10 @@
 3.33.139.32         # resolver.unstoppable.io
 3.34.32.82          # kr-sel.doh.sb
 3.75.122.89         # yovbak.com
+3.168.2.2           # dns.api.rackspacecloud.com
+3.168.2.11          # dns.api.rackspacecloud.com
+3.168.2.90          # dns.api.rackspacecloud.com
+3.168.2.98          # dns.api.rackspacecloud.com
 3.221.40.56         # dns8.org
 3.224.195.107       # dns.api.preview.globus.org
 3.229.136.206       # dns.api.sandbox.globuscs.info
@@ -840,15 +844,15 @@
 17.253.126.93       # doh.dns.apple.com
 17.253.126.219      # doh.dns.apple.com
 17.253.126.223      # doh.dns.apple.com.v.aaplimg.com
-18.173.121.4        # dns.api.rackspacecloud.com
-18.173.121.25       # dns.api.rackspacecloud.com
-18.173.121.35       # dns.api.rackspacecloud.com
-18.173.121.87       # dns.api.rackspacecloud.com
 18.205.12.155       # httpdns-push.heytapmobile.com
 18.205.253.45       # dns.api.sandbox.globuscs.info
 18.214.151.182      # dns.api.integration.globuscs.info
 18.235.127.166      # dns.api.preview.globus.org
 18.235.229.96       # dns.api.integration.globuscs.info
+18.245.113.5        # ricko.is
+18.245.113.13       # ricko.is
+18.245.113.48       # ricko.is
+18.245.113.105      # ricko.is
 20.196.107.56       # dns.linkr.ninja
 20.253.254.201      # adguard.aa4.co.uk
 23.81.246.121       # chromium.dns.nextdns.io
@@ -862,6 +866,7 @@
 32.195.20.232       # dns.api.test.globuscs.info
 34.75.163.154       # dns.carson-family.com
 34.80.137.209       # bluemood.me
+34.85.128.249       # dns.bitdefender.net
 34.197.23.137       # dns.api.preview.globus.org
 34.206.251.30       # httpdns-push.heytapmobile.com
 34.226.9.33         # httpdns-push.heytapmobile.com
@@ -869,6 +874,7 @@
 34.235.210.114      # httpdns-push.heytapmobile.com
 35.172.163.177      # httpdns-push.heytapmobile.com
 35.174.206.47       # httpdns-push.heytapmobile.com
+35.176.122.62       # dns.tesem.dog
 35.190.14.201       # use-application-dns.net
 35.227.226.142      # doh.safesurfer.io
 35.230.82.92        # adguard.ef67daisuki.club
@@ -881,8 +887,8 @@
 40.76.112.230       # dohtrial.att.net
 40.83.97.172        # dns.mzrme.cn
 43.154.154.162      # dns.flymc.cc
-43.169.13.124       # edns.233py.com
-43.169.14.124       # edns.233py.com
+43.169.13.124       # doh.233py.com
+43.169.14.124       # doh.233py.com
 43.174.246.33       # doh.totoro.pub
 43.174.247.33       # doh.totoro.pub
 45.8.222.99         # jp-nrt.doh.sb
@@ -942,13 +948,8 @@
 51.158.147.92       # dns.novg.net
 51.159.67.129       # dns.novg.net
 51.178.29.75        # dns.alloxr.info
-52.56.169.58        # dns.tesem.dog
 52.63.91.105        # au02.dns4me.net
 52.80.248.44        # doh.onedns.net
-52.85.151.25        # ricko.is
-52.85.151.39        # ricko.is
-52.85.151.52        # ricko.is
-52.85.151.88        # ricko.is
 52.200.142.237      # dns.api.staging.globuscs.info
 52.205.132.45       # dns.api.globus.org
 52.246.182.50       # dnslow.me
@@ -970,7 +971,6 @@
 64.78.201.1         # doh.dns.apple.com
 64.176.188.144      # dns.7vpn.com
 64.235.41.14        # dns.syaifullah.com
-66.63.177.126       # dns.stevenz.net
 67.207.70.129       # dns1.ryan-palmer.com
 68.183.19.93        # doh-primary-pool.detoxifypornblocker.com
 69.70.16.42         # zougloub.eu
@@ -983,11 +983,11 @@
 76.223.54.146       # dns.faze.dev
 77.68.50.239        # dns.connect.fail
 78.47.163.141       # adfree.usableprivacy.net
-78.142.193.50       # ru-mow.doh.sb
-78.142.193.51       # ru-mow.doh.sb
-78.142.193.52       # ru-mow.doh.sb
-78.142.193.53       # ru-mow.doh.sb
-78.142.193.54       # ru-mow.doh.sb
+78.142.193.50       # nl-ams.doh.sb
+78.142.193.51       # nl-ams.doh.sb
+78.142.193.52       # nl-ams.doh.sb
+78.142.193.53       # nl-ams.doh.sb
+78.142.193.54       # nl-ams.doh.sb
 78.194.186.17       # dns.sellan.fr
 79.110.170.43       # us1.dns.lavate.ch
 79.143.240.5        # res-acst1.absolight.net
@@ -998,7 +998,6 @@
 79.143.240.81       # resolver3.absolight.net
 79.184.29.181       # adguard.piekacz.pl
 80.90.179.4         # dns.nullgate.net
-80.125.181.179      # pates.services.sfr.fr.casepp.sfr.fr
 80.156.145.201      # dns.t53.de
 80.211.196.177      # dns.vinokurov.tk
 80.249.149.178      # www.muxyuji.ru
@@ -1007,6 +1006,7 @@
 81.130.111.251      # doh.bt.com
 81.169.136.222      # ns3.opennameserver.org
 81.169.145.160      # project-evoex.de
+81.177.141.15       # dns.nas-server.ru
 82.64.29.93         # cloud.tezoi.com
 82.66.195.182       # adguard.lege.despagne.net
 82.149.226.45       # doh.funil.de
@@ -1015,6 +1015,7 @@
 83.220.169.155      # dns.comss.one
 83.238.211.59       # www.unasw.eu
 84.16.252.138       # dns.keweon.center
+84.17.63.178        # doh1.b-cdn.net
 84.27.222.8         # ipoac.nl
 84.183.57.251       # echoe1yidzu4ioo5.myfritz.net
 85.214.236.96       # dns.colorfreedom.org
@@ -1034,7 +1035,6 @@
 91.190.185.43       # opennic.i2pd.xyz
 91.198.156.20       # doh.nic.lv
 91.204.45.202       # dns.warpnine.de
-91.211.114.5        # dns.nas-server.ru
 91.217.86.4         # dns.tls-data.de
 91.239.27.199       # testaghome.meshkov.info
 91.239.100.100      # anycast.censurfridns.dk
@@ -1045,11 +1045,11 @@
 93.66.205.24        # adguard.depieri.net
 93.200.16.116       # ueni.dyndns.org
 94.130.135.203      # dns.digitalsize.net
-94.140.14.14        # dns.adguard.com
+94.140.14.14        # dns.adguard-dns.com
 94.140.14.15        # dns-family.adguard.com
 94.140.14.140       # dns-unfiltered.adguard.com
 94.140.14.141       # dns-unfiltered.adguard.com
-94.140.15.15        # dns.adguard.com
+94.140.15.15        # dns.adguard-dns.com
 94.140.15.16        # dns-family.adguard.com
 94.198.159.3        # doh.sidnlabs.nl
 94.247.43.254       # opennic1.eth-services.de
@@ -1130,7 +1130,6 @@
 104.26.14.30        # basic.rethinkdns.com
 104.26.15.30        # basic.rethinkdns.com
 104.128.62.173      # doh.dns.sb
-104.198.12.197      # dns.bitdefender.net
 104.200.18.74       # dns.bobstrecansky.com
 104.236.116.148     # ns.00dani.me
 104.238.181.28      # chromium.dns.nextdns.io
@@ -1143,7 +1142,7 @@
 109.163.225.33      # adguard.wirimij.nl
 109.173.160.28      # dns.kamilszczepanski.com
 109.230.224.150     # doh.defaultroutes.de
-109.250.197.246     # adguard.bitteeinbyte.de
+109.250.196.245     # adguard.bitteeinbyte.de
 109.250.205.249     # area51.mywire.org
 111.20.254.35       # opencdn.jomodns.com
 111.235.222.100     # dns.cwlys.com
@@ -1154,7 +1153,7 @@
 116.202.176.26      # doh.libredns.gr
 116.202.234.21      # dns.ihaveacloud.com
 116.203.72.235      # dns.rin.sh
-118.27.125.235      # dnsnl.alekberg.net
+118.27.125.235      # draco.plan9-ns2.com
 120.53.53.53        # dns.pub
 124.70.37.233       # www.c-dns.com
 128.93.162.64       # qlf-doh.inria.fr
@@ -1304,7 +1303,6 @@
 168.138.50.5        # dns.chromeina.top
 168.138.171.105     # sg2.ooroot.com
 169.48.27.179       # ca02.dns4me.net
-169.150.221.147     # doh1.b-cdn.net
 170.39.224.134      # chromium.dns.nextdns.io
 170.39.225.135      # chromium.dns.nextdns.io
 170.39.227.247      # chromium.dns.nextdns.io
@@ -1500,8 +1498,9 @@
 176.10.125.47       # nsec.arnor.org
 176.99.152.241      # dns.ronc.ru
 176.147.243.164     # blockerads.multimediaconcept.fr
-178.22.122.100      # dns.shecan.ir
-178.105.16.6        # doh.42l.fr
+178.22.122.100      # free.shecan.ir
+178.22.122.101      # pro.shecan.ir
+178.105.16.6        # doh.lacontrevoie.fr
 178.162.228.11      # dns.keweon.center
 178.162.228.12      # dns.keweon.center
 178.162.228.17      # dns.keweon.center
@@ -1524,8 +1523,7 @@
 185.37.252.149      # ee-tll.doh.sb
 185.37.252.150      # ee-tll.doh.sb
 185.43.135.1        # odvr.nic.cz
-185.51.200.1        # pro.shecan.ir
-185.51.200.2        # free.shecan.ir
+185.51.200.2        # dns.shecan.ir
 185.64.79.5         # uk-lon.doh.sb
 185.69.161.122      # dns.fancyorg.at
 185.95.218.42       # dns.digitale-gesellschaft.ch
@@ -1537,6 +1535,7 @@
 185.150.99.255      # doh.ffmuc.net
 185.181.61.24       # ns4.opennameserver.org
 185.183.159.34      # abel.waringer-atg.de
+185.191.229.13      # dns.stevenz.net
 185.194.94.71       # dns.circl.lu
 185.199.108.153     # shalenkov.dev
 185.199.109.153     # shalenkov.dev
@@ -1623,7 +1622,7 @@
 216.230.232.29      # chromium.dns.nextdns.io
 216.238.80.219      # helios.plan9-dns.com
 217.0.43.50         # dns.telekom.de
-217.0.43.146        # dns.telekom.de
+217.0.43.114        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
 217.154.118.152     # rayneau.fr
