@@ -177,7 +177,6 @@ dns.kescher.at
 dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
 dns.maybe.icu
@@ -258,11 +257,12 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me
@@ -443,6 +443,7 @@ o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
