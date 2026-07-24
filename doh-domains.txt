@@ -177,6 +177,7 @@ dns.kescher.at
 dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
 dns.maybe.icu
@@ -260,7 +261,6 @@ dnsenc.com
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
@@ -371,7 +371,6 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 gustamadh.dynv6.net
@@ -444,7 +443,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -518,7 +516,6 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
