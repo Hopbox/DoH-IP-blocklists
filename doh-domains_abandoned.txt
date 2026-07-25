@@ -76,6 +76,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.lightmaster.pw
 dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
@@ -107,9 +108,7 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
+dnsnl-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -194,7 +193,7 @@ ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target.alekberg.net
+odoh-target-se.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
