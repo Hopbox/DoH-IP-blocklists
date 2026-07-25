@@ -1036,7 +1036,7 @@
 91.99.154.175       # dnsforge.de
 91.134.75.146       # nsc.torgues.net
 91.190.185.43       # opennic.i2pd.xyz
-91.198.156.20       # doh.lv
+91.198.156.20       # doh.nic.lv
 91.204.45.202       # dns.warpnine.de
 91.217.86.4         # dns.tls-data.de
 91.239.27.199       # testaghome.meshkov.info
@@ -1047,11 +1047,11 @@
 92.254.21.26        # home27.duckdns.org
 93.66.205.24        # adguard.depieri.net
 94.130.135.203      # dns.digitalsize.net
-94.140.14.14        # dns.adguard-dns.com
+94.140.14.14        # dns.adguard.com
 94.140.14.15        # dns-family.adguard.com
 94.140.14.140       # dns-unfiltered.adguard.com
 94.140.14.141       # dns-unfiltered.adguard.com
-94.140.15.15        # dns.adguard-dns.com
+94.140.15.15        # dns.adguard.com
 94.140.15.16        # dns-family.adguard.com
 94.198.159.3        # doh.sidnlabs.nl
 94.247.43.254       # opennic1.eth-services.de
@@ -1113,7 +1113,7 @@
 104.21.43.188       # dns.kosan.moe
 104.21.44.104       # dns.unerror.network
 104.21.46.152       # doh.crypto.sx
-104.21.49.234       # basic.bravedns.com
+104.21.49.234       # bravedns.com
 104.21.53.69        # dns.silentlybren.com
 104.21.55.144       # gztech.me
 104.21.57.234       # doh.ccb-net.it
@@ -1127,10 +1127,11 @@
 104.21.91.14        # doh.tiarap.org
 104.26.2.137        # blitz-setup.ahadns.com
 104.26.3.137        # blitz-setup.ahadns.com
-104.26.12.240       # doh-sg.blahdns.com
-104.26.13.240       # doh-sg.blahdns.com
+104.26.12.240       # doh-de.blahdns.com
+104.26.13.240       # doh-de.blahdns.com
 104.26.14.30        # basic.rethinkdns.com
 104.26.15.30        # basic.rethinkdns.com
+104.128.62.173      # doh.dns.sb
 104.200.18.74       # dns.bobstrecansky.com
 104.236.116.148     # ns.00dani.me
 104.238.181.28      # chromium.dns.nextdns.io
@@ -1149,6 +1150,7 @@
 111.235.222.100     # dns.cwlys.com
 112.78.125.221      # sg.yepdns.com
 112.213.32.219      # syd.adfilter.net
+114.10.44.163       # gustamadh.dynv6.net
 114.34.0.56         # adguard.shuting.idv.tw
 116.202.176.26      # doh.libredns.gr
 116.202.234.21      # dns.ihaveacloud.com
@@ -1223,7 +1225,7 @@
 146.112.41.3        # doh.familyshield.opendns.com
 146.112.41.4        # doh.sandbox.opendns.com
 146.190.225.122     # ps1.modr.club
-146.255.56.98       # doh.appliedprivacy.net
+146.255.56.98       # doh.applied-privacy.net
 147.78.0.8          # dotdns.cryptroute.com
 147.78.178.170      # de-fra.doh.sb
 147.78.178.171      # de-fra.doh.sb
@@ -1276,7 +1278,7 @@
 159.69.154.207      # doh.li
 160.119.253.209     # sa01.dns4me.net
 160.250.227.196     # dns.bebasid.com
-160.251.64.80       # odoh-target-noads.alekberg.net
+160.251.64.80       # dns.futuredns.me
 161.35.136.3        # doh-primary-pool.goodbyegambling.com
 161.118.145.178     # adguard.haneulo.com
 162.159.61.3        # chrome.cloudflare-dns.com
@@ -1293,7 +1295,7 @@
 165.232.32.95       # do.dnscrypt.uk
 167.88.171.10       # chromium.dns.nextdns.io
 167.99.150.134      # dns.vinnyp.xyz
-167.235.236.107     # dns-doh.dnsforfamily.com
+167.235.236.107     # dns-doh-no-safe-search.dnsforfamily.com
 167.253.158.187     # doh.rezhajul.io
 168.95.1.1          # dns.hinet.net
 168.95.192.1        # dns.hinet.net
@@ -1316,7 +1318,7 @@
 172.66.41.34        # dns.rotunneling.net
 172.66.42.222       # dns.rotunneling.net
 172.66.172.174      # arashi.eu.org
-172.67.69.133       # doh-sg.blahdns.com
+172.67.69.133       # doh-de.blahdns.com
 172.67.69.149       # blitz-setup.ahadns.com
 172.67.70.254       # basic.rethinkdns.com
 172.67.129.121      # dns.haoxuan.xyz
@@ -1341,7 +1343,7 @@
 172.67.188.80       # dns.edison42.dev
 172.67.193.126      # doh.ccb-net.it
 172.67.193.129      # r1bnc.com
-172.67.195.148      # basic.bravedns.com
+172.67.195.148      # bravedns.com
 172.67.197.42       # doh.killtw.im
 172.67.198.185      # dns.unerror.network
 172.67.209.173      # dns.silentlybren.com
@@ -1499,8 +1501,8 @@
 176.10.125.47       # nsec.arnor.org
 176.99.152.241      # dns.ronc.ru
 176.147.243.164     # blockerads.multimediaconcept.fr
-178.22.122.100      # dns.shecan.ir
-178.105.16.6        # doh.42l.fr
+178.22.122.100      # free.shecan.ir
+178.105.16.6        # doh.lacontrevoie.fr
 178.162.228.11      # dns.keweon.center
 178.162.228.12      # dns.keweon.center
 178.162.228.17      # dns.keweon.center
@@ -1524,7 +1526,8 @@
 185.37.252.150      # ee-tll.doh.sb
 185.43.135.1        # odvr.nic.cz
 185.51.200.1        # pro.shecan.ir
-185.64.79.5         # doh.dns.sb
+185.51.200.2        # dns.shecan.ir
+185.64.79.5         # uk-lon.doh.sb
 185.69.161.122      # dns.fancyorg.at
 185.95.218.42       # dns.digitale-gesellschaft.ch
 185.95.218.43       # dns.digitale-gesellschaft.ch
@@ -1620,8 +1623,8 @@
 216.189.147.50      # vpsus3.pzhg.me
 216.230.232.29      # chromium.dns.nextdns.io
 216.238.80.219      # helios.plan9-dns.com
-217.0.43.2          # dns.telekom.de
 217.0.43.66         # dns.telekom.de
+217.0.43.114        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
 217.154.118.152     # rayneau.fr

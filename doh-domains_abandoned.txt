@@ -76,7 +76,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
-dns.lightmaster.pw
 dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
@@ -107,7 +106,7 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnsnl-noads.alekberg.net
+dnses.alekberg.net
 dnsnl.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
@@ -194,7 +193,8 @@ ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -213,7 +213,6 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -224,6 +223,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xray.krnl.eu
