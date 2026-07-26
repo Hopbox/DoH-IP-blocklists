@@ -177,6 +177,7 @@ dns.kescher.at
 dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
 dns.maybe.icu
@@ -257,10 +258,11 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
@@ -369,6 +371,7 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 gustamadh.dynv6.net
@@ -440,6 +443,9 @@ nsec.arnor.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -536,6 +542,7 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
+wantaquddin.com
 wdns.233py.com
 www.c-dns.com
 www.jabber-germany.de
