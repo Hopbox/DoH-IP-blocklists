@@ -109,8 +109,7 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -160,6 +159,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -192,7 +192,6 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -211,6 +210,7 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
