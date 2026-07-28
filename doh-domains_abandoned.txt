@@ -17,7 +17,6 @@ adguard.ender.fr
 adguard.k0rap.com
 adguard.nielsvoorn.nl
 adguardh.ga
-ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -68,6 +67,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -107,7 +107,8 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnsse-noads.alekberg.net
+dnses.alekberg.net
+dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -160,7 +161,6 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 himedns.com
 hydra.plan9-ns1.com
 hydroxlab.ru.com
@@ -211,7 +211,6 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
