@@ -261,7 +261,8 @@ dnsenc.com
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
@@ -370,9 +371,9 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 hitian.me
@@ -441,9 +442,9 @@ nsec.arnor.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -515,7 +516,6 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
