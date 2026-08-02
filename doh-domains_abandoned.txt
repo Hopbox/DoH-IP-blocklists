@@ -11,6 +11,7 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.cloudmini.net
+adguard.dekonix.ru
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
@@ -68,7 +69,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
-dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -108,6 +108,7 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnsnl.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -157,7 +158,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -190,8 +190,6 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -211,6 +209,7 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -221,10 +220,8 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
-wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.ga
