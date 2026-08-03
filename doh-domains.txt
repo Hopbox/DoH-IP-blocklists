@@ -177,7 +177,6 @@ dns.kescher.at
 dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lsho.top
 dns.maybe.icu
@@ -444,6 +443,7 @@ nsec.arnor.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
@@ -540,6 +540,7 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
+wantaquddin.com
 wdns.233py.com
 www.c-dns.com
 www.jabber-germany.de
@@ -549,7 +550,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 your-dns.run
 yovbak.com
