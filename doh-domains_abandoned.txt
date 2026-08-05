@@ -40,7 +40,6 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
-dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
@@ -68,7 +67,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
-dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -107,9 +105,9 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnses.alekberg.net
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
-dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -191,7 +189,9 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -224,6 +224,7 @@ us-ny-alula.heliumcloud.cc
 vm.mytm.cc
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.ga
