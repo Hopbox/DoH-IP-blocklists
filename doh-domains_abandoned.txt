@@ -17,6 +17,7 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.k0rap.com
 adguard.nielsvoorn.nl
+adguard.wirimij.nl
 adguardh.ga
 aihe.app
 anydoh.sidnlabs.nl
@@ -63,6 +64,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -108,8 +110,7 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -191,8 +192,7 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
-odoh-target.alekberg.net
+odoh-target-se.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -222,6 +222,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xorbiadns.com

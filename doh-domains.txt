@@ -21,7 +21,6 @@ adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.shuting.idv.tw
-adguard.wirimij.nl
 adguard.zachitect.com
 adguard1.jsanagustin.net
 adguard1.leadmon.net
@@ -135,7 +134,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -148,6 +146,7 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
+dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
@@ -258,9 +257,9 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
@@ -443,8 +442,9 @@ nsec.arnor.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
