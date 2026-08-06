@@ -148,7 +148,6 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
-dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
@@ -517,6 +516,7 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li

@@ -55,6 +55,7 @@ dns.benpro.fr
 dns.bw.i81.ru
 dns.ceai.com.tw
 dns.cfiec.net
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -67,6 +68,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -105,9 +107,9 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
+dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -190,7 +192,6 @@ ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
@@ -211,7 +212,6 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
