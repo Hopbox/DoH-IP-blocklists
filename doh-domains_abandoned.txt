@@ -64,7 +64,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -106,11 +105,12 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnses.alekberg.net
-dnsse.alekberg.net
+dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -192,7 +192,6 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-se.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -212,6 +211,7 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -222,10 +222,8 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
-wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.ga
