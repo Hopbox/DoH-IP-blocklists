@@ -109,7 +109,7 @@ dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnsnl-noads.alekberg.net
+dnses.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -187,6 +187,7 @@ neatdns.ustclug.org
 nebula.tru.io
 nl-ams2.doh.sb
 ns1-doh.iriseden.fr
+ns1.dotls.org
 ns2-doh.iriseden.fr
 ns3.cx
 ns3.link
@@ -194,7 +195,6 @@ ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
@@ -227,7 +227,6 @@ us-ny-alula.heliumcloud.cc
 vm.mytm.cc
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ychen.ga

@@ -255,7 +255,6 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
@@ -423,7 +422,6 @@ nat64.tuxis.nl
 ndns.233py.com
 nl-ams.doh.sb
 ns.00dani.me
-ns1.dotls.org
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
@@ -441,6 +439,8 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -545,6 +545,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 ychen.cf
 your-dns.run
 yovbak.com
