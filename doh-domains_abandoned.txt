@@ -48,7 +48,6 @@ dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
@@ -111,8 +110,8 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
+dnses.alekberg.net
 dnsnl.alekberg.net
-dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -162,7 +161,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hydroxlab.ru.com
@@ -193,9 +191,8 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
