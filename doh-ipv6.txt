@@ -39,7 +39,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -70,11 +70,12 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
+2400:52e0:1a00::1235:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -87,7 +88,7 @@
 2403:2c80::26                           # hk-hkg.doh.sb
 2403:3a00:101:21:49:212:235:44          # dns.lsho.top
 2403:3a00:107:29:133:167:212:25         # edgy-dns.com
-2403:3a00:201:17:112:78:125:221         # sg.yepdns.com
+2403:3a00:201:17:112:78:125:221         # himedns.com
 2403:3a00:201:1c:49:212:198:36          # axaxa.fun
 2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
@@ -112,7 +113,7 @@
 2600:1f28:14:802:b2f4:2df2:240f:a0d2    # dns.api.globus.org
 2600:1f28:60:800:26ed:1edd:ddc4:d3bb    # dns.api.test.globuscs.info
 2600:1f28:60:800:6266:e79a:7119:e69     # dns.api.sandbox.globuscs.info
-2600:1f28:60:800:ad04:4887:b50e:3107    # dns.api.preview.globus.org
+2600:1f28:60:800:8aa8:c2c:d001:8244     # dns.api.preview.globus.org
 2600:1f28:60:800:d8e:12a5:bfba:8909     # dns.api.staging.globuscs.info
 2600:1f28:60:800:fbd2:ec86:e6a6:506a    # dns.api.integration.globuscs.info
 2600:1f28:60:801:6378:d7cb:a3c8:d9f     # dns.api.integration.globuscs.info
@@ -120,10 +121,10 @@
 2600:1f28:60:801:968:6a94:4343:1e52     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:b5cf:6f95:7d81:2f52    # dns.api.staging.globuscs.info
 2600:1f28:60:801:fc12:cbc5:e7ee:8f3f    # dns.api.test.globuscs.info
+2600:1f28:60:802:79b6:9c46:c5a2:560c    # dns.api.staging.globuscs.info
 2600:1f28:60:802:7aaa:c9bf:3ca:8a3a     # dns.api.preview.globus.org
 2600:1f28:60:802:8548:f8a7:63a6:ba7e    # dns.api.test.globuscs.info
 2600:1f28:60:802:cf7b:d349:5e9f:1eb8    # dns.api.integration.globuscs.info
-2600:1f28:60:802:f2b7:57f8:8af7:91fa    # dns.api.staging.globuscs.info
 2600:1f28:60:802:f455:f4b7:915b:432f    # dns.api.sandbox.globuscs.info
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
 2600:3c01:e000:130::8:0                 # dns.elemental.software
@@ -1059,7 +1060,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns9.quad9.net
+2620:fe::9                              # dns.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1279,7 +1280,6 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
-2a02:6ea0:d70d:1::919:1                 # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
@@ -1320,7 +1320,7 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # doh.asia.dnswarden.com
+2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com

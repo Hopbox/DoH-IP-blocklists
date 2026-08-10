@@ -144,7 +144,6 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
-dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
@@ -232,6 +231,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vmath.my.id
 dns.warpnine.de
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -258,7 +258,7 @@ dnses.alekberg.net
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me
@@ -366,12 +366,12 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -379,6 +379,7 @@ hole.elbschloss.xyz
 home27.duckdns.org
 hshh.org
 httpdns-push.heytapmobile.com
+hydra.plan9-ns1.com
 i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -406,6 +407,7 @@ krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de
@@ -437,8 +439,7 @@ nsec.arnor.org
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
-odoh-target.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -541,6 +542,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 ychen.cf
 your-dns.run
 yovbak.com
