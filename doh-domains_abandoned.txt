@@ -48,6 +48,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
@@ -58,7 +59,6 @@ dns.benpro.fr
 dns.bw.i81.ru
 dns.ceai.com.tw
 dns.cfiec.net
-dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -112,7 +112,7 @@ dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dnsnl-noads.alekberg.net
-dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -163,7 +163,6 @@ example.doh.blockerdns.com
 family.5ososea.com
 fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 hydroxlab.ru.com
@@ -180,7 +179,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kswro.web.id
-lion.yazilimatolye.com
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 msr177.com
@@ -195,8 +193,8 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -216,7 +214,6 @@ sitdns.com
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -227,6 +224,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xorbiadns.com

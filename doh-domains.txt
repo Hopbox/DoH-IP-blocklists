@@ -80,7 +80,6 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
-dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -117,6 +116,7 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
@@ -174,6 +174,7 @@ dns.kescher.at
 dns.keweon.center
 dns.kosan.moe
 dns.lars-lehmann.net
+dns.lightmaster.pw
 dns.lsho.top
 dns.maybe.icu
 dns.meeo.win
@@ -256,8 +257,8 @@ dnsenc.com
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
@@ -365,6 +366,7 @@ frog.dns.qwer.pw
 fuchur.pentament.de
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 gustamadh.dynv6.net
@@ -406,6 +408,7 @@ krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de
@@ -438,7 +441,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -511,6 +513,7 @@ testaghome.meshkov.info
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
@@ -543,6 +546,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 ychen.cf
 your-dns.run
 yovbak.com
