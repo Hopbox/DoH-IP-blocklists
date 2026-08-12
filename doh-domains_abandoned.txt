@@ -48,7 +48,6 @@ dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
@@ -71,6 +70,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -79,7 +79,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -108,10 +107,12 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnsnl-noads.alekberg.net
+dnses.alekberg.net
+dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -193,6 +194,7 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 open.dns0.eu

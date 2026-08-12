@@ -80,6 +80,7 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
+dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -254,12 +255,10 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforge.de
 dnslow.me
-dnsnl.alekberg.net
+dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me
@@ -536,7 +535,6 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
-wantaquddin.com
 wdns.233py.com
 www.c-dns.com
 www.jabber-germany.de
@@ -546,7 +544,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 your-dns.run
 yovbak.com
