@@ -410,7 +410,6 @@ krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de

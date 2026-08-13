@@ -161,7 +161,6 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -176,6 +175,7 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kswro.web.id
+lion.yazilimatolye.com
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 msr177.com
