@@ -109,7 +109,6 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnsnl.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -162,7 +161,6 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -182,6 +180,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 msr177.com
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nl-ams2.doh.sb
@@ -192,7 +191,6 @@ ns3.cx
 ns3.link
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
 pi1.node15.com
@@ -222,7 +220,6 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
-wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xray.krnl.eu
