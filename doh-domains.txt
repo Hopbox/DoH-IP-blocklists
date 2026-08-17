@@ -278,6 +278,7 @@ doh.360.cn
 doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
+doh.armadillodns.net
 doh.asia.dnswarden.com
 doh.beauty
 doh.bortzmeyer.fr
