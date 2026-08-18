@@ -177,6 +177,7 @@ dns.kosan.moe
 dns.lars-lehmann.net
 dns.lightmaster.pw
 dns.lsho.top
+dns.maolaohei.xyz
 dns.maybe.icu
 dns.meeo.win
 dns.mikeliu.org
@@ -411,6 +412,7 @@ krtekvpn.duckdns.org
 lastentarvike.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de

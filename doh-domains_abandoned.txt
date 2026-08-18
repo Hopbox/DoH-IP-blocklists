@@ -79,7 +79,6 @@ dns.itdept.pro
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.linkr.ninja
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moulticast.net
@@ -174,7 +173,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kswro.web.id
-lion.yazilimatolye.com
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 msr177.com
