@@ -259,6 +259,9 @@ dnsenc.com
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
@@ -539,6 +542,7 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
+wantaquddin.com
 wdns.233py.com
 www.c-dns.com
 www.jabber-germany.de
