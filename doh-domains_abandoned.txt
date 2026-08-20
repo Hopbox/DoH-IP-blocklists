@@ -108,7 +108,6 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnstls.mobik.com
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -160,6 +159,7 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
