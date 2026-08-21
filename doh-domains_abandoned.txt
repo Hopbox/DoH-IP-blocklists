@@ -58,6 +58,7 @@ dns.benpro.fr
 dns.bw.i81.ru
 dns.ceai.com.tw
 dns.cfiec.net
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -217,6 +218,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 xray.krnl.eu

@@ -117,7 +117,6 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
@@ -541,7 +540,6 @@ use-application-dns.net
 v.dnscrypt.uk
 virga.pp.ua
 vpsus3.pzhg.me
-wantaquddin.com
 wdns.233py.com
 www.c-dns.com
 www.jabber-germany.de
