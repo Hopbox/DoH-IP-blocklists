@@ -30,6 +30,7 @@ bcandrade.ml
 berd.moe
 bld.sys-adm.in
 blitz.ahadns.com
+blockerads.multimediaconcept.fr
 br.servers.legat.ml
 buc-m2.illmods.com
 canadianshield.cira.ca
@@ -70,6 +71,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
+dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.indust.me
@@ -161,7 +163,6 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
