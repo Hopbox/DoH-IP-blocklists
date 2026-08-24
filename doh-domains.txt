@@ -72,6 +72,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-family.adguard.com
 dns-nosec.quad9.net
+dns-secondary.cloudnx.cloud
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.7sec.com.br
@@ -115,7 +116,6 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
