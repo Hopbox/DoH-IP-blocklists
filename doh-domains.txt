@@ -116,6 +116,7 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
@@ -506,6 +507,7 @@ sg2.ooroot.com
 shalenkov.dev
 shield.afixer.app
 sink.nolo.ltd
+sitdns.com
 sky.rethinkdns.com
 spacedns.org
 steering.nextdns.io
