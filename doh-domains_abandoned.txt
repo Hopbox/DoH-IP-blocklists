@@ -163,7 +163,6 @@ fi.doh.dns.snopyta.org
 fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
