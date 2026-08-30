@@ -38,7 +38,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -68,8 +68,8 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
 2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
@@ -113,8 +113,8 @@
 2600:1f28:60:800:1863:6fb9:4613:3e55    # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:1976:5d77:e671:4658    # dns.api.preview.globus.org
 2600:1f28:60:800:2bef:4c1b:4a86:1693    # dns.api.staging.globuscs.info
-2600:1f28:60:800:8313:6256:205a:9a4f    # dns.api.test.globuscs.info
 2600:1f28:60:800:c291:c87:949d:2d9f     # dns.api.integration.globuscs.info
+2600:1f28:60:800:d7bf:2d0a:eddc:ef56    # dns.api.test.globuscs.info
 2600:1f28:60:801:2052:d5c5:c079:20bc    # dns.api.integration.globuscs.info
 2600:1f28:60:801:2372:4795:9ff9:272c    # dns.api.test.globuscs.info
 2600:1f28:60:801:a07c:aa9:523:e975      # dns.api.preview.globus.org
@@ -122,7 +122,7 @@
 2600:1f28:60:801:ea0b:ed9d:3b55:4bf0    # dns.api.staging.globuscs.info
 2600:1f28:60:802:2c54:def4:78c4:ebc6    # dns.api.staging.globuscs.info
 2600:1f28:60:802:465b:2a7:7cfb:a384     # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:9152:9ffe:3452:174c    # dns.api.test.globuscs.info
+2600:1f28:60:802:bf83:47bc:83a4:9c80    # dns.api.test.globuscs.info
 2600:1f28:60:802:f03f:87ad:fb93:564b    # dns.api.integration.globuscs.info
 2600:1f28:60:802:fd60:9d48:2991:e8af    # dns.api.preview.globus.org
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
@@ -147,7 +147,6 @@
 2604:a880:400:d0::1919:a001             # dns.vinnyp.xyz
 2604:a880:400:d1::b7a:c001              # doh-primary-pool.detoxifypornblocker.com
 2604:a880:800:10::1c1e:1001             # ns.00dani.me
-2604:abc0:50::12:b002                   # dns.stevenz.net
 2605:380:56:6::1                        # chromium.dns.nextdns.io
 2605:7980:0:6412::1                     # chromium.dns.nextdns.io
 2605:80:8:8::                           # ag.ff0x.ca
@@ -240,6 +239,7 @@
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2606:6680:6:1::852a:cba4                # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
+2607:9d00:2000:38::1a6c                 # dns.stevenz.net
 2607:fdc0:5:9::24e                      # dns.nextdns.io
 2620:10a:80bb::10                       # private.canadianshield.cira.ca
 2620:10a:80bb::20                       # protected.canadianshield.cira.ca
@@ -1108,7 +1108,7 @@
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
-2a01:3a0:53:53::                        # unicast.censurfridns.dk
+2a01:3a0:53:53::                        # unicast.uncensoreddns.org
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
 2a01:4f8:141:1063:1::3                  # doh.niyawe.de
@@ -1292,7 +1292,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
-2a02:6ea0:d70d:1::919:1                 # doh1.b-cdn.net
+2a02:6ea0:e605:1::915:1                 # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
@@ -1333,7 +1333,7 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # doh.eu.dnswarden.com
+2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
