@@ -49,6 +49,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
@@ -102,7 +103,6 @@ dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
 dns.theres.one
-dns.truong.fi
 dns.vinokurov.tk
 dns.wakgood.net
 dns.wevpn.com
