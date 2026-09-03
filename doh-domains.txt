@@ -79,7 +79,6 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
-dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -229,7 +228,6 @@ dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vmath.my.id
 dns.warpnine.de
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
