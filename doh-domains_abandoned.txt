@@ -59,6 +59,7 @@ dns.benpro.fr
 dns.bw.i81.ru
 dns.ceai.com.tw
 dns.cfiec.net
+dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
@@ -153,6 +154,7 @@ doh.this.web.id
 doh.velyn.my.id
 doh2.abmb.win
 dos.bytetel.net
+easyhandshake.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com

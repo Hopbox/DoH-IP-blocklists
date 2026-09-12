@@ -116,7 +116,6 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cwlys.com
@@ -347,7 +346,6 @@ doth.huque.com
 draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
-easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 edns.233py.com
