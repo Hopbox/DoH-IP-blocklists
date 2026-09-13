@@ -411,7 +411,6 @@ lion.dns.qwer.pw
 lion.yazilimatolye.com
 mail.data.haus
 mailer.amlegion.org
-mainframe.dewed.de
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
