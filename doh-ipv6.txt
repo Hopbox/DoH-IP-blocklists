@@ -22,6 +22,7 @@
 2001:41d0:404:200::976                  # dns.kawa.tf
 2001:41d0:601:1100::2e6                 # dns.panszelescik.pl
 2001:41d0:a:3cbc::1                     # jackyes.ovh
+2001:4610:a:1ef::8d22                   # dandelionsprout.asuscomm.com
 2001:470:1c:76d::53                     # dns.cmrg.net
 2001:470:1f15:b80::53                   # opennic.i2pd.xyz
 2001:470:20::2                          # ordns.he.net
@@ -37,7 +38,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::a                     # doh.xfinity.com
+2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -50,7 +51,7 @@
 2001:67c:21ec::53                       # dnscache.e-utp.net
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -68,12 +69,11 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a00::1235:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -101,14 +101,14 @@
 2408:4003:10b8:9ae9:5ef8:7292:9141:6f67 # dns.ikataruto.com
 2408:400a:779:a00::aaaa                 # dns.imaicool.com
 240d:c000:f000:ea00:70d8:5996:f8e4:0    # dns.flymc.cc
-240d:c010:75:1::119                     # edns.233py.com
+240d:c010:75:1::119                     # doh.233py.com
 240d:c010:75:1::19a                     # doh.totoro.pub
 2600:1901:0:c197::                      # use-application-dns.net
 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb  # dns.scapetical.com
 2600:1f18:4ae:c606:78d4:4260:db4e:aeee  # dns.scapetical.com
 2600:1f18:6296:8903::beef               # doth.huque.com
 2600:1f28:14:800:f780:4741:7981:dd0c    # dns.api.globus.org
-2600:1f28:14:801:ca77:7331:cab4:d80a    # dns.api.globus.org
+2600:1f28:14:801:711c:1e4a:2bc7:9b4f    # dns.api.globus.org
 2600:1f28:14:802:794f:2a5b:c0ab:4e47    # dns.api.globus.org
 2600:1f28:60:800:62ec:5494:4c6b:2733    # dns.api.preview.globus.org
 2600:1f28:60:800:7ca9:9008:ccb9:4cf2    # dns.api.test.globuscs.info
@@ -121,10 +121,10 @@
 2600:1f28:60:801:6243:2d2a:b895:7169    # dns.api.integration.globuscs.info
 2600:1f28:60:801:b178:ccd2:af4c:fc9c    # dns.api.test.globuscs.info
 2600:1f28:60:802:3fc3:8d93:ff40:c25     # dns.api.staging.globuscs.info
-2600:1f28:60:802:4450:6fb5:d8ae:cb70    # dns.api.integration.globuscs.info
 2600:1f28:60:802:6dce:7869:452:19bd     # dns.api.preview.globus.org
+2600:1f28:60:802:8197:58a8:f942:380b    # dns.api.integration.globuscs.info
 2600:1f28:60:802:9bb9:7a6a:ac7d:7fe3    # dns.api.test.globuscs.info
-2600:1f28:60:802:e946:3e37:395e:6fa5    # dns.api.sandbox.globuscs.info
+2600:1f28:60:802:b0d8:cd7b:1a0:caa1     # dns.api.sandbox.globuscs.info
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
 2600:3c01:e000:130::8:0                 # dns.elemental.software
 2600:3c01:e000:341::8:0                 # dns.startupstack.tech
@@ -1295,6 +1295,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
+2a02:6ea0:d70d:1::919:1                 # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
