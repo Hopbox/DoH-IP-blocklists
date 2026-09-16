@@ -49,6 +49,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.anonymous.pw
 dns.apigw.online
@@ -110,6 +111,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -163,6 +165,7 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
