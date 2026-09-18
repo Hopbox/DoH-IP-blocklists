@@ -79,7 +79,6 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
-dns.aaytorr.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
@@ -130,7 +129,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
