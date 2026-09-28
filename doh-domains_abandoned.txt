@@ -20,7 +20,6 @@ adguard.k0rap.com
 adguard.nielsvoorn.nl
 adguard.wirimij.nl
 adguardh.ga
-ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -216,6 +215,7 @@ sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
