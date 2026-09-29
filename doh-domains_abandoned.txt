@@ -164,6 +164,7 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -215,6 +216,7 @@ sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -231,5 +233,6 @@ www.elshad-adgh-dns.ru
 xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
+ychen.cf
 ychen.ga
 zero.dns0.eu

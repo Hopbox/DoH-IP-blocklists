@@ -511,7 +511,6 @@ tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw
@@ -542,7 +541,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-ychen.cf
 your-dns.run
 yovbak.com
 zougloub.eu
