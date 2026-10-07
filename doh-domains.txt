@@ -151,6 +151,7 @@ dns.google.com
 dns.grqu.de
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
+dns.hakutakucn.com
 dns.hanmey.de
 dns.haoxuan.xyz
 dns.hinet.net

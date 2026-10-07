@@ -74,7 +74,6 @@ dns.emiliyan.com
 dns.frank-ruan.com
 dns.futuredns.me
 dns.hafidzradhival.my.id
-dns.hakutakucn.com
 dns.indust.me
 dns.invisv.com
 dns.ipv6dns.com
