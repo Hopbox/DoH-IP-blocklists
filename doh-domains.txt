@@ -230,7 +230,6 @@ dns.vinnyp.xyz
 dns.vmath.my.id
 dns.warpnine.de
 dns.zzuhacker.cn
-dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.dnscrypt.ca
