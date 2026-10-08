@@ -163,7 +163,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk2.ooroot.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -192,6 +191,7 @@ ns1.dotls.org
 ns2-doh.iriseden.fr
 ns3.cx
 ns3.link
+nsec.arnor.org
 ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
@@ -216,6 +216,7 @@ sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
