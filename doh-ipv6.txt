@@ -39,7 +39,7 @@
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:dc::5e:2                     # doh1.b-cdn.net
-2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -60,7 +60,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:100f:f000::200                 # project-evoex.de
-2001:9e8:4003:a98e:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:bfd0:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -112,11 +112,11 @@
 2600:1f28:14:800:59ce:6349:7990:4535    # dns.api.globus.org
 2600:1f28:14:801:9ac0:9b08:6791:aec4    # dns.api.globus.org
 2600:1f28:14:802:9b34:3262:74d7:8def    # dns.api.globus.org
+2600:1f28:60:800:367d:8504:e4bd:332c    # dns.api.integration.globuscs.info
 2600:1f28:60:800:415f:5da7:b6eb:d43b    # dns.api.preview.globus.org
 2600:1f28:60:800:4918:eb49:62a3:1418    # dns.api.staging.globuscs.info
 2600:1f28:60:800:7c14:c82c:d910:9aed    # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:a09f:4e11:8cc7:adac    # dns.api.test.globuscs.info
-2600:1f28:60:800:dae9:e294:9f2a:4a05    # dns.api.integration.globuscs.info
 2600:1f28:60:801:8bec:c33f:5194:c827    # dns.api.test.globuscs.info
 2600:1f28:60:801:9294:2179:f7ba:29c     # dns.api.preview.globus.org
 2600:1f28:60:801:c4f9:3170:3eb4:c883    # dns.api.staging.globuscs.info
@@ -159,11 +159,11 @@
 2606:4700:10::ac42:acae                 # arashi.eu.org
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com
 2606:4700:20::681a:389                  # blitz-setup.ahadns.com
-2606:4700:20::681a:cf0                  # doh-de.blahdns.com
-2606:4700:20::681a:df0                  # doh-de.blahdns.com
+2606:4700:20::681a:cf0                  # doh-sg.blahdns.com
+2606:4700:20::681a:df0                  # doh-sg.blahdns.com
 2606:4700:20::681a:e1e                  # basic.rethinkdns.com
 2606:4700:20::681a:f1e                  # basic.rethinkdns.com
-2606:4700:20::ac43:4585                 # doh-de.blahdns.com
+2606:4700:20::ac43:4585                 # doh-sg.blahdns.com
 2606:4700:20::ac43:4595                 # blitz-setup.ahadns.com
 2606:4700:20::ac43:46fe                 # basic.rethinkdns.com
 2606:4700:3030::6815:3790               # gztech.me
@@ -205,7 +205,7 @@
 2606:4700:3034::ac43:a495               # doh.tiarap.org
 2606:4700:3034::ac43:b69a               # dns.paesa.es
 2606:4700:3034::ac43:c181               # r1bnc.com
-2606:4700:3034::ac43:c394               # bravedns.com
+2606:4700:3034::ac43:c394               # basic.bravedns.com
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::ac43:8179               # dns.haoxuan.xyz
 2606:4700:3035::ac43:8d85               # virga.pp.ua
@@ -1074,7 +1074,7 @@
 2620:171:80d::1                         # doh.dns.apple.com
 2620:46:8000:128::100                   # cluster-0.gac.edu
 2620:46:8000:128::101                   # cluster-1.gac.edu
-2620:fe::10                             # dns10.quad9.net
+2620:fe::10                             # dns-nosec.quad9.net
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
@@ -1114,7 +1114,7 @@
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
-2a01:3a0:53:53::                        # unicast.uncensoreddns.org
+2a01:3a0:53:53::                        # unicast.censurfridns.dk
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
 2a01:4f8:141:1063:1::3                  # doh.niyawe.de
@@ -1338,7 +1338,7 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # dns.dnswarden.com
+2a09:8280:1::1:da1b                     # doh.asia.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
