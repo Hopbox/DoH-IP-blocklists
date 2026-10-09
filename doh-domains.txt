@@ -130,7 +130,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.edison42.dev
@@ -368,7 +367,6 @@ galileo.math.unipd.it
 gateway.fomichev.cloud
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
@@ -510,6 +508,7 @@ tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 ttag.dns.nomu.pw

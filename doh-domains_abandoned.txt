@@ -67,6 +67,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -164,6 +165,7 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
+gustamadh.dynv6.net
 hk2.ooroot.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -216,7 +218,6 @@ sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
