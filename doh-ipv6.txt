@@ -38,8 +38,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:550:2:dc::5e:2                     # doh1.b-cdn.net
-2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -52,7 +51,7 @@
 2001:67c:21ec::53                       # dnscache.e-utp.net
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
-2001:67c:28a4::                         # anycast.uncensoreddns.org
+2001:67c:28a4::                         # anycast.censurfridns.dk
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -60,7 +59,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:100f:f000::200                 # project-evoex.de
-2001:9e8:4003:d660:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:ed59:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -117,7 +116,7 @@
 2600:1f28:60:800:7c14:c82c:d910:9aed    # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:a09f:4e11:8cc7:adac    # dns.api.test.globuscs.info
 2600:1f28:60:801:8bec:c33f:5194:c827    # dns.api.test.globuscs.info
-2600:1f28:60:801:c4f9:3170:3eb4:c883    # dns.api.staging.globuscs.info
+2600:1f28:60:801:90d1:f103:41e3:c5a6    # dns.api.staging.globuscs.info
 2600:1f28:60:801:ca6:982f:fc0a:1547     # dns.api.preview.globus.org
 2600:1f28:60:801:ef3d:5b1e:6dba:3c50    # dns.api.integration.globuscs.info
 2600:1f28:60:801:f06:daca:fa27:318a     # dns.api.sandbox.globuscs.info
@@ -1078,7 +1077,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1298,6 +1297,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
+2a02:6ea0:e237::1503:1                  # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
@@ -1338,7 +1338,7 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # doh.eu.dnswarden.com
+2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
@@ -1347,7 +1347,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0b:4342:1a82:154:5054:ff:feef:b4de    # chromium.dns.nextdns.io
 2a0c:3d00:11:21::59:37                  # nsc.torgues.net
-2a0c:59c0:19::3                         # nl-ams.doh.sb
+2a0c:59c0:19::3                         # ru-mow.doh.sb
 2a0c:e300::1337                         # dns.aquilenet.fr
 2a0d:1a43:c010:135::                    # us1.dns.lavate.ch
 2a0d:bbc7::f816:3eff:fe28:137a          # resolver.r0cket.net
