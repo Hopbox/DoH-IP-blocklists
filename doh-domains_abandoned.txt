@@ -156,6 +156,7 @@ doh.velyn.my.id
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
+edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
@@ -217,6 +218,7 @@ sg.teradns.org
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
