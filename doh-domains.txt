@@ -250,8 +250,11 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforge.de
 dnslow.me
+dnsnl.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 do.dnscrypt.uk
 do.shimul.me

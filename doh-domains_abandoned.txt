@@ -114,11 +114,8 @@ dns0.eu
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
-dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -156,7 +153,6 @@ doh.velyn.my.id
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
-edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
