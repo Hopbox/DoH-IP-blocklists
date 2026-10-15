@@ -153,6 +153,7 @@ doh.velyn.my.id
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
+edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
@@ -161,7 +162,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk2.ooroot.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
