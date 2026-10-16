@@ -67,6 +67,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -160,7 +161,6 @@ doh.westus.pi-dns.com
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
-edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
