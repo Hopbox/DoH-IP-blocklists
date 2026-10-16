@@ -280,7 +280,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.datahata.by
@@ -291,9 +290,6 @@ doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dns4all.eu
 doh.dnscrypt.uk
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -313,11 +309,9 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
-doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -333,7 +327,6 @@ doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
 doh.us.dnswarden.com
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
