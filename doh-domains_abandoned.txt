@@ -160,6 +160,7 @@ doh.westus.pi-dns.com
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
+edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
@@ -177,6 +178,7 @@ iris.woozeno.eu
 irre.li
 jit.ddns.net
 jp.68360612.xyz
+jp.tiarap.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
