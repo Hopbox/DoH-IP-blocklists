@@ -41,7 +41,6 @@ au02.dns4me.net
 axaxa.fun
 basic.bravedns.com
 basic.rethinkdns.com
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 bluemood.me
@@ -342,7 +341,6 @@ draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
@@ -388,7 +386,6 @@ jcdns.fun
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
-jp.tiar.app
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
