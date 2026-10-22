@@ -143,6 +143,7 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flymc.cc
 dns.froth.zone
+dns.futuredns.me
 dns.gi.co.id
 dns.ginovs.nl
 dns.gnb09.id
@@ -342,6 +343,7 @@ draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de

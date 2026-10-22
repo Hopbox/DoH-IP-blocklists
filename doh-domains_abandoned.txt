@@ -72,7 +72,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
-dns.futuredns.me
 dns.hafidzradhival.my.id
 dns.indust.me
 dns.invisv.com
@@ -160,7 +159,6 @@ doh.westus.pi-dns.com
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
-edgy-dns.com
 eropa.dnscepat.id
 example.doh.blockerdns.com
 family.5ososea.com
