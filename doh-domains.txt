@@ -330,6 +330,7 @@ doh.us.dnswarden.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.gslb2.xfinity.com
@@ -344,7 +345,6 @@ echoe1yidzu4ioo5.myfritz.net
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
-eu1.dns.lavate.ch
 externalmobiel.lekdijk.online
 family.adguard-dns.com
 family.canadianshield.cira.ca
