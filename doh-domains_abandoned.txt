@@ -208,7 +208,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
-pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
