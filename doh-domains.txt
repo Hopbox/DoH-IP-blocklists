@@ -330,7 +330,6 @@ doh.us.dnswarden.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.gslb2.xfinity.com
@@ -342,7 +341,6 @@ draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
