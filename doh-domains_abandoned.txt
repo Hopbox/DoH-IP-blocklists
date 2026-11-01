@@ -161,6 +161,7 @@ doh.westus.pi-dns.com
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
+edgy-dns.com
 eropa.dnscepat.id
 eu1.dns.lavate.ch
 example.doh.blockerdns.com
@@ -209,6 +210,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 osefcorp.duckdns.org
+pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me

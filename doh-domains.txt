@@ -341,7 +341,6 @@ draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
@@ -438,7 +437,6 @@ opennic2.i2pd.xyz
 oraclejp2.chungyu.com
 orau.lz0724.com
 ordns.he.net
-pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
 pihole.aws.ketan.dev
