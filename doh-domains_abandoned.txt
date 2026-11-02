@@ -159,10 +159,10 @@ doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
+doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
 easyhandshake.com
-edgy-dns.com
 eropa.dnscepat.id
 eu1.dns.lavate.ch
 example.doh.blockerdns.com
@@ -213,6 +213,7 @@ open.dns0.eu
 osefcorp.duckdns.org
 pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
+pihole4.hoerli.net
 please.dontsteal.my.id
 pope.cnblw.me
 privacydns.go6lab.si
