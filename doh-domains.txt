@@ -338,6 +338,7 @@ doth.huque.com
 draco.plan9-ns2.com
 dukun.de
 ea-dns.rubyfish.cn
+easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edns.233py.com
 ee-tll.doh.sb
