@@ -340,6 +340,7 @@ dukun.de
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 esel.stusta.mhn.de
@@ -359,7 +360,6 @@ fuchur.pentament.de
 galileo.math.unipd.it
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-gustamadh.dynv6.net
 gztech.me
 helios.plan9-dns.com
 himedns.com
@@ -436,6 +436,7 @@ opennic2.i2pd.xyz
 oraclejp2.chungyu.com
 orau.lz0724.com
 ordns.he.net
+pates.services.sfr.fr.casepp.sfr.fr
 pdns.faelix.net
 per.adfilter.net
 pihole.aws.ketan.dev
