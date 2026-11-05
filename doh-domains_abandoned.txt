@@ -162,7 +162,6 @@ doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
-edgy-dns.com
 eropa.dnscepat.id
 eu1.dns.lavate.ch
 example.doh.blockerdns.com
@@ -173,7 +172,6 @@ gateway.fomichev.cloud
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk2.ooroot.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
