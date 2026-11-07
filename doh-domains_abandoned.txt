@@ -161,7 +161,6 @@ doh.westus.pi-dns.com
 doh.zephyrus.id
 doh2.abmb.win
 dos.bytetel.net
-edgy-dns.com
 eropa.dnscepat.id
 eu1.dns.lavate.ch
 example.doh.blockerdns.com
