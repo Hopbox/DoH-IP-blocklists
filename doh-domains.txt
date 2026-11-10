@@ -162,6 +162,7 @@ dns.ikataruto.com
 dns.imaicool.com
 dns.infosec.xyz
 dns.islandnet.com
+dns.jucker.engineering
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com

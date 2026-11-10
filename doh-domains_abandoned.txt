@@ -80,7 +80,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.joaofidelix.com.br
-dns.jucker.engineering
 dns.lightmaster.pw
 dns.linkr.ninja
 dns.melalandia.tk
