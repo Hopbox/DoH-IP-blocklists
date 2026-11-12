@@ -38,7 +38,8 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::5                     # doh.xfinity.com
+2001:550:2:6f::f3:2                     # doh1.b-cdn.net
+2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -70,12 +71,11 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a05::1431:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -107,7 +107,7 @@
 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb  # dns.scapetical.com
 2600:1f18:4ae:c606:78d4:4260:db4e:aeee  # dns.scapetical.com
 2600:1f18:6296:8903::beef               # doth.huque.com
-2600:1f28:14:800:d03a:ff55:5128:b298    # dns.api.globus.org
+2600:1f28:14:800:ce4b:bbe3:110a:b47e    # dns.api.globus.org
 2600:1f28:14:801:e9be:27cd:54eb:9248    # dns.api.globus.org
 2600:1f28:14:802:d8cc:abd6:2f79:268b    # dns.api.globus.org
 2600:1f28:60:800:10f4:a68a:4f9:f879     # dns.api.integration.globuscs.info
@@ -115,8 +115,8 @@
 2600:1f28:60:800:c473:d9a6:2e4f:bfba    # dns.api.test.globuscs.info
 2600:1f28:60:800:cae1:2564:7cda:c99c    # dns.api.preview.globus.org
 2600:1f28:60:800:e4d4:cfd6:e5eb:80bf    # dns.api.sandbox.globuscs.info
-2600:1f28:60:801:384:4e0e:bb01:e13e     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:4f63:bf87:fd73:5bb2    # dns.api.staging.globuscs.info
+2600:1f28:60:801:5287:766c:1777:31ea    # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:a8f8:b99a:92dc:d7e4    # dns.api.preview.globus.org
 2600:1f28:60:801:ad82:5e00:9f21:4ad8    # dns.api.integration.globuscs.info
 2600:1f28:60:801:d87f:9eb6:fd45:a987    # dns.api.test.globuscs.info
@@ -131,6 +131,7 @@
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
 2602:ffbb:100:4::2                      # doh.dns.sb
+2602:ffc8:5:b093::a                     # dns.stevenz.net
 2603:c020:4000:3d34:6160:20db:353b:24d3 # o.rsaikat.com
 2603:c020:5:3566:beef:beef:beef:beef    # dns.ofdoom.net
 2603:c020:800b:ac01:848b:d155:8652:cd03 # dns.almir1904.eu
@@ -240,7 +241,6 @@
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2606:6680:6:1::852a:cba4                # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
-2607:9d00:2000:38::1a6c                 # dns.stevenz.net
 2607:fdc0:5:9::24e                      # dns.nextdns.io
 2620:10a:80bb::10                       # private.canadianshield.cira.ca
 2620:10a:80bb::20                       # protected.canadianshield.cira.ca
@@ -1346,7 +1346,7 @@
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # chromium.dns.nextdns.io
 2a0b:4342:1a82:154:5054:ff:feef:b4de    # chromium.dns.nextdns.io
 2a0c:3d00:11:21::59:37                  # nsc.torgues.net
-2a0c:59c0:19::3                         # nl-ams.doh.sb
+2a0c:59c0:19::3                         # ru-mow.doh.sb
 2a0c:e300::1337                         # dns.aquilenet.fr
 2a0d:1a43:c010:135::                    # us1.dns.lavate.ch
 2a0d:bbc7::f816:3eff:fe28:137a          # resolver.r0cket.net
@@ -1359,8 +1359,8 @@
 2a10:3781:50b4:1:ea40:f2ff:fee3:451d    # doh.jeroenhd.nl
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
-2a10:50c0::ad1:ff                       # dns.adguard-dns.com
-2a10:50c0::ad2:ff                       # dns.adguard-dns.com
+2a10:50c0::ad1:ff                       # dns.adguard.com
+2a10:50c0::ad2:ff                       # dns.adguard.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
