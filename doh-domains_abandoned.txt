@@ -75,6 +75,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.indust.me
 dns.invisv.com
 dns.ipv6dns.com

@@ -60,7 +60,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:100f:f000::200                 # project-evoex.de
-2001:9e8:4003:5961:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:5f66:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -70,13 +70,13 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2::4:0:53                      # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a04::1310:1                  # doh1.b-cdn.net
+2400:52e0:1a05::1120:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -133,10 +133,10 @@
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
 2602:ffbb:100:4::2                      # doh.dns.sb
 2603:c020:4000:3d34:6160:20db:353b:24d3 # o.rsaikat.com
-2603:c020:4002:be00:780d:ac99:b43f:299a # dns.stevenz.net
 2603:c020:5:3566:beef:beef:beef:beef    # dns.ofdoom.net
 2603:c020:800b:ac01:848b:d155:8652:cd03 # dns.almir1904.eu
 2603:c021:c001:31fa:780:b000:0:415      # ibuki.cgnat.net
+2603:c022:8:3400:0:b6ac:37c8:336c       # dns.daw.dev
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
 2603:c023:c003:3d4c:0:3106:acb8:2787    # dns.meeo.win
@@ -152,7 +152,6 @@
 2605:380:56:6::1                        # chromium.dns.nextdns.io
 2605:380:57:613::5                      # chromium.dns.nextdns.io
 2605:380:58:554::1                      # chromium.dns.nextdns.io
-2605:6f01:2000:12c::232                 # dns.stevenz.net
 2605:7980:0:6412::1                     # chromium.dns.nextdns.io
 2605:80:8:8::                           # ag.ff0x.ca
 2606:1a40::11                           # freedns.controld.com
@@ -244,6 +243,7 @@
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2606:6680:6:1::852a:cba4                # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
+2607:9d00:2000:38::1a6c                 # dns.stevenz.net
 2607:fdc0:5:9::24e                      # dns.nextdns.io
 2620:10a:80bb::10                       # private.canadianshield.cira.ca
 2620:10a:80bb::20                       # protected.canadianshield.cira.ca
@@ -1094,7 +1094,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
