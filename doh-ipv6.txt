@@ -39,7 +39,8 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
+2001:550:2:38::28:2                     # doh1.b-cdn.net
+2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -60,7 +61,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:100f:f000::200                 # project-evoex.de
-2001:9e8:4003:5f66:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:6c99:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -71,12 +72,11 @@
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
 2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a05::1120:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -202,7 +202,7 @@
 2606:4700:3034::ac43:a495               # doh.tiarap.org
 2606:4700:3034::ac43:b69a               # dns.paesa.es
 2606:4700:3034::ac43:c181               # r1bnc.com
-2606:4700:3034::ac43:c394               # bravedns.com
+2606:4700:3034::ac43:c394               # basic.bravedns.com
 2606:4700:3035::6815:4bb0               # dns.rotunneling.net
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::ac43:8179               # dns.haoxuan.xyz
@@ -1094,7 +1094,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns9.quad9.net
+2620:fe::9                              # dns.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1377,7 +1377,7 @@
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
