@@ -130,6 +130,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
+dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -229,7 +230,6 @@ dns.vinnyp.xyz
 dns.vmath.my.id
 dns.warpnine.de
 dns.zzuhacker.cn
-dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.dnscrypt.ca
@@ -389,7 +389,6 @@ jp-nrt.doh.sb
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
-kids.dns0.eu
 kilabit.info
 kr-sel.doh.sb
 kr1.ooroot.com
@@ -433,7 +432,6 @@ o1.lt
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
-open.dns0.eu
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic1.eth-services.de
@@ -536,7 +534,6 @@ wyx.cloud
 xenergy.cc
 your-dns.run
 yovbak.com
-zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua

@@ -67,7 +67,6 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -111,6 +110,7 @@ dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
+dns0.eu
 dns1.ipv6.dnscrypt.ca
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
@@ -184,6 +184,7 @@ jp.tiarap.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kswro.web.id
 lux1.nixnet.xyz
@@ -205,6 +206,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 pi1.node15.com
 pihole4.hoerli.net
 please.dontsteal.my.id
@@ -241,3 +243,4 @@ xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
 ychen.ga
+zero.dns0.eu
