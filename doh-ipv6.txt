@@ -39,7 +39,8 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::a                     # doh2.gslb2.xfinity.com
+2001:550:2:6f::f3:2                     # doh1.b-cdn.net
+2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -52,7 +53,7 @@
 2001:67c:21ec::53                       # dnscache.e-utp.net
 2001:67c:2268::100                      # doh.datahata.by
 2001:67c:2354:2::53                     # dns.njal.la
-2001:67c:28a4::                         # anycast.censurfridns.dk
+2001:67c:28a4::                         # anycast.uncensoreddns.org
 2001:67c:a8:1:91:217:86:4               # dns.tls-data.de
 2001:6a8:3c80::16                       # dns.belnet.be
 2001:6a8:3c80:c000::53                  # dns.belnet.be
@@ -60,7 +61,7 @@
 2001:8b0::2022                          # dns.aa.net.uk
 2001:8b0::2023                          # dns.aa.net.uk
 2001:8d8:100f:f000::200                 # project-evoex.de
-2001:9e8:4003:6c99:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:8217:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:b000:168::1                        # dns.hinet.net
 2001:b000:168::2                        # dns.hinet.net
@@ -76,7 +77,6 @@
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a04::925:1                   # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -121,7 +121,7 @@
 2600:1f28:60:801:ad82:5e00:9f21:4ad8    # dns.api.integration.globuscs.info
 2600:1f28:60:801:d87f:9eb6:fd45:a987    # dns.api.test.globuscs.info
 2600:1f28:60:801:e0b7:51c8:73d2:57f8    # dns.api.preview.globus.org
-2600:1f28:60:802:4904:fb15:e30e:dc56    # dns.api.integration.globuscs.info
+2600:1f28:60:802:23d2:d227:1d37:b2b7    # dns.api.integration.globuscs.info
 2600:1f28:60:802:8bfc:7059:a92e:b945    # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:978a:6b20:745:b0d4     # dns.api.staging.globuscs.info
 2600:1f28:60:802:9d5e:5bcc:60ae:3207    # dns.api.preview.globus.org
@@ -167,7 +167,7 @@
 2606:4700:3030::ac43:8ba4               # commons.host
 2606:4700:3030::ac43:a208               # dns.dgea.fr
 2606:4700:3030::ac43:d1ad               # dns.silentlybren.com
-2606:4700:3031::6815:1823               # doh-sg.blahdns.com
+2606:4700:3031::6815:1823               # doh-de.blahdns.com
 2606:4700:3031::6815:1f3a               # dns-secondary.cloudnx.cloud
 2606:4700:3031::6815:2767               # adguard-kartoffel.zernico.de
 2606:4700:3031::6815:3e9e               # dns.silen.org
@@ -194,7 +194,7 @@
 2606:4700:3034::6815:2bbc               # dns.kosan.moe
 2606:4700:3034::6815:2c68               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
-2606:4700:3034::6815:31ea               # basic.bravedns.com
+2606:4700:3034::6815:31ea               # bravedns.com
 2606:4700:3034::6815:3545               # dns.silentlybren.com
 2606:4700:3034::6815:357e               # dns.filipccz.eu
 2606:4700:3034::6815:39ea               # doh.ccb-net.it
@@ -204,14 +204,14 @@
 2606:4700:3034::ac43:a495               # doh.tiarap.org
 2606:4700:3034::ac43:b69a               # dns.paesa.es
 2606:4700:3034::ac43:c181               # r1bnc.com
-2606:4700:3034::ac43:c394               # basic.bravedns.com
+2606:4700:3034::ac43:c394               # bravedns.com
 2606:4700:3035::6815:4bb0               # dns.rotunneling.net
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::ac43:8179               # dns.haoxuan.xyz
 2606:4700:3035::ac43:8d85               # virga.pp.ua
 2606:4700:3035::ac43:b84c               # dns.kosan.moe
 2606:4700:3035::ac43:cd76               # easyhandshake.com
-2606:4700:3035::ac43:d8bd               # doh-sg.blahdns.com
+2606:4700:3035::ac43:d8bd               # doh-de.blahdns.com
 2606:4700:3036::6815:196d               # doh.syshero.org
 2606:4700:3036::6815:210e               # commons.host
 2606:4700:3036::ac43:9118               # armorrush.eu.org
@@ -1131,7 +1131,7 @@
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
-2a01:3a0:53:53::                        # unicast.uncensoreddns.org
+2a01:3a0:53:53::                        # unicast.censurfridns.dk
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
 2a01:4f8:141:1063:1::3                  # doh.niyawe.de
@@ -1355,7 +1355,7 @@
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
-2a09:8280:1::1:da1b                     # doh.eu.dnswarden.com
+2a09:8280:1::1:da1b                     # dns.dnswarden.com
 2a09::                                  # doh.sb
 2a0a:51c0::7fe                          # dns.lars-lehmann.net
 2a0a:be80::cbe:4444                     # cubedns.com
@@ -1377,8 +1377,8 @@
 2a10:3781:50b4:1:ea40:f2ff:fee3:451d    # doh.jeroenhd.nl
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
-2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard.com
+2a10:50c0::ad1:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard-dns.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
