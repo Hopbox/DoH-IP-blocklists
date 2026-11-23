@@ -130,7 +130,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -421,7 +420,6 @@ nl-ams.doh.sb
 ns.00dani.me
 ns1.flodns.net
 ns1.opennameserver.org
-ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns2.flodns.net
 ns2.opennameserver.org

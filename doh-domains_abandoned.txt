@@ -67,6 +67,7 @@ dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -191,6 +192,7 @@ nebula.tru.io
 nl-ams2.doh.sb
 ns1-doh.iriseden.fr
 ns1.dotls.org
+ns1.qquack.org
 ns2-doh.iriseden.fr
 ns3.cx
 ns3.link
