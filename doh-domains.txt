@@ -118,6 +118,7 @@ dns.cmrg.net
 dns.colorfreedom.org
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cwlys.com
 dns.d365.in
 dns.d4d.moe
