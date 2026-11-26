@@ -39,7 +39,7 @@
 2001:4ba0:cafe:3d2::1                   # ns2.opennameserver.org
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::5                     # doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com
 2001:620:0:ff::2                        # dns.switch.ch
 2001:620:0:ff::3                        # dns.switch.ch
 2001:638:602:1181:dcad:beff:feef:14     # doh.ibr.cs.tu-bs.de
@@ -70,13 +70,12 @@
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2400:3200::1                            # dns.alidns.com
 2400:3200:baba::1                       # dns.alidns.com
-2400:52e0:1a05::1120:1                  # doh1.b-cdn.net
 2400:6180:0:d0::5f73:4001               # doh.tiar.app
 2400:6180:0:d0::f7:1001                 # sg-dns1.bancuh.com
 2400:6180:100:d0::4e0:6001              # do.shimul.me
@@ -131,7 +130,7 @@
 2600:3c01:e000:341::8:0                 # dns.startupstack.tech
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2602:ffbb:100:4::2                      # doh.dns.sb
+2602:ffc8:5:b093::a                     # dns.stevenz.net
 2603:c020:4000:3d34:6160:20db:353b:24d3 # o.rsaikat.com
 2603:c020:5:3566:beef:beef:beef:beef    # dns.ofdoom.net
 2603:c020:800b:ac01:848b:d155:8652:cd03 # dns.almir1904.eu
@@ -194,7 +193,7 @@
 2606:4700:3034::6815:2bbc               # dns.kosan.moe
 2606:4700:3034::6815:2c68               # dns.unerror.network
 2606:4700:3034::6815:2e98               # doh.crypto.sx
-2606:4700:3034::6815:31ea               # bravedns.com
+2606:4700:3034::6815:31ea               # basic.bravedns.com
 2606:4700:3034::6815:3545               # dns.silentlybren.com
 2606:4700:3034::6815:357e               # dns.filipccz.eu
 2606:4700:3034::6815:39ea               # doh.ccb-net.it
@@ -204,14 +203,14 @@
 2606:4700:3034::ac43:a495               # doh.tiarap.org
 2606:4700:3034::ac43:b69a               # dns.paesa.es
 2606:4700:3034::ac43:c181               # r1bnc.com
-2606:4700:3034::ac43:c394               # bravedns.com
+2606:4700:3034::ac43:c394               # basic.bravedns.com
 2606:4700:3035::6815:4bb0               # dns.rotunneling.net
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::ac43:8179               # dns.haoxuan.xyz
 2606:4700:3035::ac43:8d85               # virga.pp.ua
 2606:4700:3035::ac43:b84c               # dns.kosan.moe
 2606:4700:3035::ac43:cd76               # easyhandshake.com
-2606:4700:3035::ac43:d8bd               # doh-sg.blahdns.com
+2606:4700:3035::ac43:d8bd               # doh-de.blahdns.com
 2606:4700:3036::6815:196d               # doh.syshero.org
 2606:4700:3036::6815:210e               # commons.host
 2606:4700:3036::ac43:9118               # armorrush.eu.org
@@ -245,7 +244,6 @@
 2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io
 2606:6680:6:1::852a:cba4                # chromium.dns.nextdns.io
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
-2607:9d00:2000:38::1a6c                 # dns.stevenz.net
 2607:fdc0:5:9::24e                      # dns.nextdns.io
 2620:10a:80bb::10                       # private.canadianshield.cira.ca
 2620:10a:80bb::20                       # protected.canadianshield.cira.ca
@@ -265,6 +263,8 @@
 2620:149:1360::6                        # mask.icloud.com
 2620:149:1360::7                        # mask-h2.icloud.com
 2620:149:1360::8                        # mask-h2.icloud.com
+2620:149:1360::9                        # mask.icloud.com
+2620:149:1360::b                        # mask.icloud.com
 2620:149:1361:1::4                      # mask.icloud.com
 2620:149:1361:1::5                      # mask-h2.icloud.com
 2620:149:1361:1::6                      # mask-h2.icloud.com
@@ -466,6 +466,7 @@
 2620:149:a33:4000::1b2                  # doh.dns.apple.com
 2620:149:a41:132::2:2                   # mask-api.icloud.com
 2620:149:a41:132::7                     # mask-api.icloud.com
+2620:149:a41:40d::8                     # mask.icloud.com
 2620:149:a41:40d::9                     # mask-h2.icloud.com
 2620:149:a41:40d::a                     # mask-h2.icloud.com
 2620:149:a41:410::4                     # mask-h2.icloud.com
@@ -482,6 +483,7 @@
 2620:149:a41:411::a                     # mask-h2.icloud.com
 2620:149:a41:411::b                     # mask.icloud.com
 2620:149:a41:480::2:1                   # mask-api.icloud.com
+2620:149:a41:480::2:2                   # mask-api.icloud.com
 2620:149:a41:480::2:3                   # mask-api.icloud.com
 2620:149:a41:480::2:4                   # mask-api.icloud.com
 2620:149:a41:480::2:5                   # mask-api.icloud.com
@@ -1104,7 +1106,7 @@
 2620:fe::11                             # dns11.quad9.net
 2620:fe::12                             # dns12.quad9.net
 2620:fe::13                             # dns13.quad9.net
-2620:fe::9                              # dns.quad9.net
+2620:fe::9                              # dns9.quad9.net
 2620:fe::fe                             # dns.quad9.net
 2620:fe::fe:10                          # dns10.quad9.net
 2620:fe::fe:11                          # dns11.quad9.net
@@ -1140,7 +1142,7 @@
 2a01:238:4231:5200::1                   # ns3.opennameserver.org
 2a01:239:22f:800::1                     # pihole3.hoerli.net
 2a01:239:2fd:b700::1                    # ns1.opennameserver.org
-2a01:3a0:53:53::                        # unicast.uncensoreddns.org
+2a01:3a0:53:53::                        # unicast.censurfridns.dk
 2a01:4f8:10a:11ef::2                    # pihole1.hoerli.net
 2a01:4f8:13b:3407::face                 # dns.digitalsize.net
 2a01:4f8:141:1063:1::3                  # doh.niyawe.de
@@ -1178,7 +1180,7 @@
 2a01:e0a:dde:7c30:baac:6fff:feaa:6e7d   # cloud.tezoi.com
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
-2a02:1b8:10:234::2                      # doh.appliedprivacy.net
+2a02:1b8:10:234::2                      # doh.applied-privacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:2479:fb:6900::1                    # cloudns.bosco.ovh
 2a02:26f7:144:1:ace0:ac43::             # mask.icloud.com
@@ -1323,6 +1325,7 @@
 2a02:26f7:c6:0:ace0:70c::               # mask-h2.icloud.com
 2a02:26f7:c6:0:ace0:70d::               # mask.icloud.com
 2a02:26f7:c6:0:ace0:70e::               # mask.icloud.com
+2a02:6ea0:c113:2::1364:1                # doh1.b-cdn.net
 2a03:1ac0:5857:455d::1                  # adguard.onlyfriends.info
 2a03:4000:10:2a::                       # dns.karl.one
 2a03:4000:17:7e5::b00b                  # dns.grqu.de
@@ -1361,7 +1364,7 @@
 2a07:a8c1::                             # anycast.dns.nextdns.io
 2a07:e340::2                            # doh.mullvad.net
 2a07:e340::3                            # adblock.doh.mullvad.net
-2a09:0:11::5                            # uk-lon.doh.sb
+2a09:0:11::5                            # doh.dns.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
 2a09:8280:1::1:da1b                     # dns.dnswarden.com
@@ -1387,7 +1390,7 @@
 2a10:50c0::1:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::2:ff                         # dns-unfiltered.adguard.com
 2a10:50c0::ad1:ff                       # dns.adguard.com
-2a10:50c0::ad2:ff                       # dns.adguard-dns.com
+2a10:50c0::ad2:ff                       # dns.adguard.com
 2a10:50c0::bad1:ff                      # dns-family.adguard.com
 2a10:50c0::bad2:ff                      # dns-family.adguard.com
 2a11:3::66                              # au-syd.doh.sb
